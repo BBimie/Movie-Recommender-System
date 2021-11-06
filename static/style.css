@@ -15,7 +15,7 @@ nav{
     flex-direction: row;
     justify-content: space-between;
     padding-top: 2%;
-    padding-bottom: 2%;  
+    padding-bottom: 2%;
 }
 .nav-bar-home{
     padding-left: 3%;
@@ -36,8 +36,6 @@ nav{
 }
 
 /* Input Form */
-
-
 #movie_name{
     height: 50px;
     width: 300px;
@@ -75,7 +73,6 @@ nav{
     justify-content: space-around;
     font-size: larger;
 }
-  
 .wrapper{
     max-width: 450px;
     margin: 30px auto ;
@@ -126,7 +123,6 @@ nav{
 .autocom-box li:hover{
     background: #efefef;
 }
-
 .popular__rating__year .fas{
     color: gold;
     width: 20px;
@@ -141,6 +137,6 @@ nav{
     color: white;
 }
 .footer i{
-    height: 60px;
-    width: 60px;
+    height: 80px;
+    width: 80px;
 }

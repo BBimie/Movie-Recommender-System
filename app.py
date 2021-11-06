@@ -9,13 +9,15 @@ import os
 import json
 import random
 import functions
-import concurrent.futures
 
 app = Flask(__name__)
 
 #api key
 api_key = os.getenv("MOVIE_API_KEY")
 tmdb.API_KEY = api_key
+
+##tmdb image base url
+img_base_url = 'https://image.tmdb.org/t/p/w500'
 
 #read data
 movies = pd.read_csv('./data/movie_data.csv')
@@ -31,24 +33,24 @@ genre_key = {28:'Action', 12:'Adventure', 16:'Animation', 35:'Comedy', 80:'Crime
 LAST_TIME_REQUESTED = None
 CACHED_POPULAR_MOVIES_RESPONSE = None
 
-
+#autocomplete
 @app.route('/suggest-movies', methods=['GET'])
 def suggest_movies():
     search_term = request.args.get('search', None)
     matches = all_movies.copy()
     if search_term:
         # Filter
-        matches = list()
+        matches = []
         for movie in all_movies:
-            if search_term.lower().strip() in movie.lower():
+            if movie.lower().startswith(search_term.lower().strip()):
                 matches.append(movie.replace(',', ''))
     return json.dumps(matches)
 
 
+#popular movies
 @app.route('/', methods=['GET', 'POST'])
 def index():
-    img_base_url = 'https://image.tmdb.org/t/p/w500'
-    
+
     params = (
         ('api_key', api_key),
         ('language', 'en-US'),
@@ -64,8 +66,6 @@ def index():
     popular_rating = []
     popular_poster = []
     popular_date = []
-    
-    
 
     if CACHED_POPULAR_MOVIES_RESPONSE.status_code == 200:
         json = CACHED_POPULAR_MOVIES_RESPONSE.json() 
@@ -82,35 +82,44 @@ def index():
             popular_poster.append(img_base_url + response['poster_path'])
             popular_rating.append(response['vote_average'])
             popular_date.append(response['release_date'].split('-')[0])
-            
 
-
-        return(render_template('index.html', movie_title = popular_title,
+    return(render_template('index.html', movie_title = popular_title,
                                             posters = popular_poster, year = popular_date, 
-                                            ratings = popular_rating,
-                                ))
+                                            ratings = popular_rating,))
 
-
+#recommendation
 @app.route('/show-recommendation/<movie_title>')
 def show_recommendations(movie_title: str):
-    img_base_url = 'https://image.tmdb.org/t/p/w500'
+    recommendation_data = pd.DataFrame()
 
-    with concurrent.futures.ThreadPoolExecutor() as executor:
-        t1 = executor.submit(functions.cosine_similarities, movies, 'Processed_feature', 0, 3050)
-        t2 = executor.submit(functions.cosine_similarities, movies, 'Processed_feature', 3050, 6100)
-        t3 = executor.submit(functions.cosine_similarities, movies, 'Processed_feature', 6100, 9150)
-        t4 = executor.submit(functions.cosine_similarities, movies, 'Processed_feature', 9150, 12200)
-        t5 = executor.submit(functions.cosine_similarities, movies, 'Processed_feature', 12200, 15250)
-    
-    cosine_similarity_df = t1.result() +  t2.result() +  t3.result() + t4.result() +  t5.result() 
+    ### SEARCH QUERY IS NOT IN DATAFRAME
+    if movie_title not in all_movies:
+        g = ''
+        search = tmdb.Search()
+
+        response = search.movie(query=movie_title)
+
+        ## SEARCH QUERY NOT FOUND IN TMDB
+        if len(response['results']) < 1:
+            render_template('negative.html', movie_title=movie_title)
+        else:
+            recommendation_data = functions.add_unknown_movie(movie_title, movies)
+
+    ##### SEARCH QUERY IS PRESENT IN DATAFRAME        
+    else:
+        recommendation_data = movies.copy()
+
+    cosine_similarity_df = functions.cosine_similarities(recommendation_data, 'Genres')
+
     names = functions.get_recommendations(cosine_similarity_df, movie_title)
 
-    fetched_img_files = []
-    fetched_titles = []
-    fetched_overview = []
-    fetched_rating = []
-    fetched_date = []
+    fetched_imgs = []
+    fetched_overviews = []
+    fetched_ratings = []
+    fetched_dates = []
     fetched_genres = []
+
+    print(fetched_imgs)
 
     #API CALL TO GET INFORMATION ON RECOMMENDED MOVIES
     search = tmdb.Search()
@@ -118,20 +127,25 @@ def show_recommendations(movie_title: str):
         g = ''
         response = search.movie(query=n)
         response = response['results'][0]
-        fetched_titles.append(response['title'])
-        fetched_img_files.append(img_base_url + response['poster_path'])
-        fetched_overview.append(response['overview'])
-        fetched_rating.append(response['vote_average'])
-        fetched_date.append(response['release_date'].split('-')[0])
+
+        fetched_overviews.append(response['overview'])
+
+        poster_path = response['poster_path']
+        fetched_imgs.append(img_base_url + poster_path)
+
+        fetched_ratings.append(response['vote_average'])
+
+        fetched_dates.append(response['release_date'].split('-')[0])
+
         genre_ids = response['genre_ids']
         for k in genre_ids:
             if k in genre_key:
                 g += genre_key[k] +', '
         fetched_genres.append(g)
-
-    return(render_template('positive.html', movie_title = movie_title, recommended_movies = fetched_titles, 
-                                            posters = fetched_img_files, year = fetched_date, 
-                                            ratings = fetched_rating, plots = fetched_overview,
+    
+    return(render_template('positive.html', movie_title = movie_title, recommended_movies = names,
+                                            posters = fetched_imgs, year = fetched_dates, 
+                                            ratings = fetched_ratings, plots = fetched_overviews,
                                             genres = fetched_genres))
 
 if __name__ == '__main__':
