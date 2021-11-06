@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<head>
+    <title></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='positivepage.css') }}">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-bar-home">
+            <a href="/">Home</a>
+        </div>
+        <div class="nav-bar-links">
+            <a href="" target="_blank" class="nav-bar-links-items">Code</a>
+            <a href="" target="_blank" class="nav-bar-links-items">Article</a>
+            <a href="" target="_blank" class="nav-bar-links-items">Portfolio</a>
+        </div>
+    </nav>
+
+    <div class='main'>
+        <h1>Recommendations:</h1>
+        <h3 class="white">Showing recommendations for <span class="movie_title">{{ movie_title }}</span></h3>
+        
+        <!-- Movie Cards 1 -->
+        <div class="recommendations">
+            <div class="card">
+                <div class="poster-container">
+                    <img class="poster" src="{{ posters[0] }}" alt=""/>
+                </div>
+                <h3 class="title">{{ recommended_movies[0] }}</h3>
+                <div class="rating">
+                    <h5 class="star"><i class="fas fa-star"></i>{{ ratings[0] }}</h5>
+                    <h5 class="year">{{ year[0] }}</h5>
+                </div>
+                <p>{{ genres[0] }}</p>
+            </div> 
+             <!-- Movie Cards 2 -->
+            <div class="card">
+                <div class="poster-container">
+                    <img class="poster" src="{{ posters[1] }}" alt="" />
+                </div>
+                <h3 class="title">{{ recommended_movies[1] }}</h3>
+                <div class="rating">
+                    <h5 class="star"><i class="fas fa-star"></i>{{ ratings[1] }}</h5>
+                    <h5 class="year">{{ year[1] }}</h5>
+                </div>
+                <p>{{ genres[1] }}</p>
+            </div>
+             <!-- Movie Cards 3 -->
+            <div class="card">
+                <div class="poster-container">
+                    <img class="poster" src="{{ posters[2] }}" alt="" />
+                </div>
+                <h3 class="title">{{ recommended_movies[2] }}</h3>
+                <div class="rating">
+                    <h5 class="star"><i class="fas fa-star"></i>{{ ratings[2] }}</h5>
+                    <h5 class="year">{{ year[2] }}</h5>
+                </div>
+                <p>{{ genres[2] }}</p>
+            </div>
+            <!-- Movie Cards 3 -->
+            <div class="card">
+                <div class="poster-container">
+                    <img class="poster" src="{{ posters[3] }}" alt="" />
+                </div>
+                <h3 class="title">{{ recommended_movies[3] }}</h3>
+                <div class="rating">
+                    <h5 class="star"><i class="fas fa-star"></i>{{ ratings[3] }}</h5>
+                    <h5 class="year">{{ year[3] }}</h5>
+                </div>
+                <p>{{ genres[3] }}</p>
+            </div>
+            <!-- Movie Cards 5 -->
+            <div class="card">
+                <div class="poster-container">
+                    <img class="poster" src="{{ posters[4] }}" alt="" />
+                </div>
+                <h3 class="title">{{ recommended_movies[4] }}</h3>
+                <div class="rating">
+                    <h5 class="star"><i class="fas fa-star"></i>{{ ratings[4] }}</h5>
+                    <h5 class="year">{{ year[4] }}</h5>
+                </div>
+                <p>{{ genres[4] }}</p>
+            </div>
+        </div>
+    </div> 
+
+    <nav class="footer">
+        <div style="text-align: center;">
+            <a href=""><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/BBimie"><i class="fab fa-github"></i></a>
+            <a href="linkedin.com/in/temitope-babatola/"><i class="fab fa-linkedin-in"></i></a>
+            <a href=""><i class="fab fa-medium-m"></i></a>
+            <a href=""><i class="fab fa-twitter"></i></a>
+        </div>
+        <div>
+            <p style="text-align: center;">Temitope Bimbo Babatola</p>
+        </div>
+    </nav>
+
+</body>

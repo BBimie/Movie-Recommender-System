@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<head>
+    <title></title>
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='negativepage.css') }}">
+</head>
+<body>
+    <nav class="nav-bar">
+        <div class="nav-bar-home">
+            <a href="/">Home</a>
+        </div>
+        <div class="nav-bar-links">
+            <a href="" target="_blank" class="nav-bar-links-items">Code</a>
+            <a href="" target="_blank" class="nav-bar-links-items">Article</a>
+            <a href="" target="_blank" class="nav-bar-links-items">Portfolio</a>
+        </div>
+    </nav>
+
+    <div class="main">
+        <h1>Try Again</h1>
+        <h3>Failed to find any recommendations for {{ movie_title }}</h2>
+        <p>Possible cause of error</p>
+        <ul class="reasons">
+            <li>The movie you searched for is not in the database</li>
+            <li>Wrong spelling</li>
+        </ul>
+    </div>
+
+    <div class="footer">
+        <div>
+            <a href=""><i class="fas fa-envelope"></i></a>
+            <a href="https://github.com/BBimie"><i class="fab fa-github"></i></a>
+            <a href="linkedin.com/in/temitope-babatola/"><i class="fab fa-linkedin-in"></i></a>
+            <a href=""><i class="fab fa-medium-m"></i></a>
+            <a href=""><i class="fab fa-twitter"></i></a>
+        </div>
+        <p>Temitope Bimbo Babatola</p>
+    </div>
+</body>
