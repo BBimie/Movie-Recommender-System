@@ -20,10 +20,10 @@ tmdb.API_KEY = api_key
 img_base_url = 'https://image.tmdb.org/t/p/w500'
 
 #read data
-movies = pd.read_csv('./data/movie_data.csv')
+movies = pd.read_csv('./data/Movie Data.csv')
 
 #list of all movies in the dataset
-all_movies = list(movies['Title'])
+all_movies = list(movies['title'])
 
 genre_key = {28:'Action', 12:'Adventure', 16:'Animation', 35:'Comedy', 80:'Crime',
              99:'Documentary', 18:'Drama', 10751:'Family', 14:'Fantasy', 36:'History', 
@@ -90,28 +90,6 @@ def index():
 #recommendation
 @app.route('/show-recommendation/<movie_title>')
 def show_recommendations(movie_title: str):
-    recommendation_data = pd.DataFrame()
-
-    ### SEARCH QUERY IS NOT IN DATAFRAME
-    if movie_title not in all_movies:
-        g = ''
-        search = tmdb.Search()
-
-        response = search.movie(query=movie_title)
-
-        ## SEARCH QUERY NOT FOUND IN TMDB
-        if len(response['results']) < 1:
-            render_template('negative.html', movie_title=movie_title)
-        else:
-            recommendation_data = functions.add_unknown_movie(movie_title, movies)
-
-    ##### SEARCH QUERY IS PRESENT IN DATAFRAME        
-    else:
-        recommendation_data = movies.copy()
-
-    cosine_similarity_df = functions.cosine_similarities(recommendation_data, 'Genres')
-
-    names = functions.get_recommendations(cosine_similarity_df, movie_title)
 
     fetched_imgs = []
     fetched_overviews = []
@@ -119,7 +97,8 @@ def show_recommendations(movie_title: str):
     fetched_dates = []
     fetched_genres = []
 
-    print(fetched_imgs)
+    cosine_similarity_df = functions.cosine_similarities(movies, 'genres')
+    names = functions.get_recommendations(cosine_similarity_df, movie_title)
 
     #API CALL TO GET INFORMATION ON RECOMMENDED MOVIES
     search = tmdb.Search()
@@ -130,8 +109,7 @@ def show_recommendations(movie_title: str):
 
         fetched_overviews.append(response['overview'])
 
-        poster_path = response['poster_path']
-        fetched_imgs.append(img_base_url + poster_path)
+        fetched_imgs.append(img_base_url + response['poster_path'])
 
         fetched_ratings.append(response['vote_average'])
 

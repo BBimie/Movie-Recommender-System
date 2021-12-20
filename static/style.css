@@ -40,13 +40,11 @@ nav{
     height: 50px;
     width: 300px;
 }
-
 .paragraph{
     color: #919191; 
     padding: 1%;
     text-align: center;
 }
-
 .movie-cards{
     margin-top: 2%;
     display: flex;

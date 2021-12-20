@@ -11,7 +11,7 @@ def cosine_similarities(df, text_col):
 
     tfidf_df = pd.DataFrame(vectorized_data.toarray(), columns=vectorizer.get_feature_names())
     
-    tfidf_df.index = df['Title']
+    tfidf_df.index = df['title']
     
     # Create the array of cosine similarity values
     cosine_similarity_array = cosine_similarity(tfidf_df)
@@ -76,4 +76,3 @@ def add_unknown_movie(title, df):
     df.to_csv('data/movie_data.csv', index=False)
 
     return df
-    
