@@ -5,6 +5,14 @@ from sklearn.metrics.pairwise import cosine_similarity
 import tmdbsimple as tmdb
 
 def cosine_similarities(df, text_col):
+    """
+    INPUT:
+        df - dataframe
+        text_col - the column containing the text to be compared
+
+    OUTPUT:
+        cosine_similarity_df - dataframe containing the cosine similarity values
+    """
     #transform the feature column
     vectorizer = TfidfVectorizer(max_df=0.2, min_df=0.1)
     vectorized_data = vectorizer.fit_transform(df[text_col])
@@ -23,6 +31,13 @@ def cosine_similarities(df, text_col):
     return cosine_similarity_df
 
 def get_recommendations(cosine_similarity_df, title):
+    """
+    INPUT:
+        cosine_similarity_df - dataframe containing the cosine similarity values
+        title - the title of the movie entered by user
+    OUTPUT:
+        recommendations - list of recommended movies
+    """
     # Find the values for the movie rio
     cosine_similarity_series = cosine_similarity_df.loc[title]
     
@@ -30,24 +45,16 @@ def get_recommendations(cosine_similarity_df, title):
     ordered_similarities = cosine_similarity_series.sort_values(ascending=False)
 
     recommendations = list(ordered_similarities[1:6].index)
-    
     return recommendations
-
-def create_feature(plot, genres):
-    """ This function combines the plots and genre columns together to create a single text column that would
-        be used to train the recommendation system.
-    INPUT: 
-        df - dataframe
-        plots - the plot column
-        genres - the genre column
-    OUTPUT:
-        df - the modified dataframe containing the new feature column
-    """
-    feature = plot + genres
-    return feature
 
 def add_unknown_movie(title, df):
     """
+    INPUT:
+        title - the title of the movie entered by user not present in the dataframe
+        df - dataframe
+
+    OUTPUT:
+        df - dataframe with the new movie added
     """
     #TMDB Genre key
     genre_key = {28:'Action', 12:'Adventure', 16:'Animation', 35:'Comedy', 80:'Crime',
@@ -60,19 +67,13 @@ def add_unknown_movie(title, df):
     response = search.movie(query=title)
     response = response['results'][0]
 
-    plot = response['overview']
     year = response['release_date'].split('-')[0]
     genre_ids = response['genre_ids']
-
 
     for k in genre_ids:
         if k in genre_key:
             genres += genre_key[k] +','
-
-    ## create the feature column
-    feature = create_feature(plot, genres)
-            
-    df.loc[-1] = [title, year, genres, plot, feature]
+ 
+    df.loc[-1] = [title, genres, year]
     df.to_csv('data/movie_data.csv', index=False)
-
     return df
