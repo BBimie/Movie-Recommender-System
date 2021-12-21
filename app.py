@@ -201,9 +201,9 @@ def show_recommendations(movie_title: str):
         fetched_genres.append(g)
     
     return(render_template('positive.html', movie_title = movie_title, recommended_movies = names,
-                                            posters = fetched_imgs, year = fetched_dates, 
+                                          posters = fetched_imgs, year = fetched_dates, 
                                             ratings = fetched_ratings, plots = fetched_overviews,
                                             genres = fetched_genres))
 
 if __name__ == '__main__':
-    app.run(debug=True)
+    app.run(debug=True, port=33507)
