@@ -34,6 +34,11 @@ nav{
     text-align: center;
     padding-top: 2%;
 }
+.popular-movies-title{
+    color: tomato;
+    padding-top: 2%;
+    text-align: center;
+}
 
 /* Input Form */
 #movie_name{
