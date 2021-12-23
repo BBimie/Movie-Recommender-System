@@ -13,7 +13,7 @@ def cosine_similarities(df, text_col):
     OUTPUT:
         cosine_similarity_df - dataframe containing the cosine similarity values
     """
-    #transform the feature column
+    #transform the text column
     vectorizer = TfidfVectorizer(max_df=0.2, min_df=0.1)
     vectorized_data = vectorizer.fit_transform(df[text_col])
 
@@ -29,6 +29,7 @@ def cosine_similarities(df, text_col):
     print(cosine_similarity_df.head(20))
     
     return cosine_similarity_df
+
 
 def get_recommendations(cosine_similarity_df, title):
     """
