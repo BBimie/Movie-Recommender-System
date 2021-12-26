@@ -43,7 +43,7 @@ I have written a simple step by step documentation on this app which you can rea
 
     <code>pip install -r requirements.txt</code>
    
-5. Edit the app.py line to add your TMDB API key
+5. Edit the app.py (lines 16 & 17) to add your TMDB API key
 
 6. Launch the app
 
