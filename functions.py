@@ -26,7 +26,6 @@ def cosine_similarities(df, text_col):
 
     # Wrap the array in a pandas DataFrame
     cosine_similarity_df = pd.DataFrame(cosine_similarity_array, index=tfidf_df.index, columns=tfidf_df.index)
-    print(cosine_similarity_df.head(20))
     
     return cosine_similarity_df
 
