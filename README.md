@@ -24,6 +24,34 @@ I used the built-in [cosine similarity](https://scikit-learn.org/stable/modules/
 
 I have written a simple step by step documentation on this app which you can read [here]().
 
+### How to run the project on your local machine
+
+1. Clone this git repository
+
+    <code>git clone https://github.com/BBimie/Movie-Recommender-System.git</code>
+    
+2. Create a virtual environment in your project folder 
+
+    <code>cd -filepath-</code>
+    <code>virtualenv venv</code>
+    
+3. Activate virual environment
+
+    <code>source venv/bin/activate</code>
+    
+4. Install python packages by running the following command
+
+    <code>pip install -r requirements.txt</code>
+   
+5. Edit the app.py line to add your TMDB API key
+
+6. Launch the app
+
+    <code>python app.py</code>
+
+### How to get the API key
+Create an account in https://www.themoviedb.org/ and login click the "API" link from the left hand sidebar within your account settings page. You will see the API key in your API sidebar once your request is approved.
+
 
 ### Deployment
 
