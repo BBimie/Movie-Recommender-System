@@ -1,9 +1,8 @@
 <!DOCTYPE html>
 <head>
-    <title></title>
+    <title>{ movie_title } recommendations</title>
 
     <meta name="viewport" content="width=device-width, initial-scale=1">
-
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
     <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='positivepage.css') }}">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css"/>
@@ -24,7 +23,7 @@
         <h1>Recommendations:</h1>
         <h3 class="white">Showing recommendations for <span class="movie_title">{{ movie_title }}</span></h3>
         
-        <!-- Movie Cards 1 -->
+        <!-- Movie Card 1 -->
         <div class="recommendations">
             <div class="card">
                 <div class="poster-container">
@@ -37,7 +36,7 @@
                 </div>
                 <p>{{ genres[0] }}</p>
             </div> 
-             <!-- Movie Cards 2 -->
+             <!-- Movie Card 2 -->
             <div class="card">
                 <div class="poster-container">
                     <img class="poster" src="{{ posters[1] }}" alt="recommendation2" />
@@ -49,7 +48,7 @@
                 </div>
                 <p>{{ genres[1] }}</p>
             </div>
-             <!-- Movie Cards 3 -->
+             <!-- Movie Card 3 -->
             <div class="card">
                 <div class="poster-container">
                     <img class="poster" src="{{ posters[2] }}" alt="recommendation3" />
@@ -61,7 +60,7 @@
                 </div>
                 <p>{{ genres[2] }}</p>
             </div>
-            <!-- Movie Cards 3 -->
+            <!-- Movie Card 4 -->
             <div class="card">
                 <div class="poster-container">
                     <img class="poster" src="{{ posters[3] }}" alt="recommendation4" />
@@ -73,7 +72,7 @@
                 </div>
                 <p>{{ genres[3] }}</p>
             </div>
-            <!-- Movie Cards 5 -->
+            <!-- Movie Card 5 -->
             <div class="card">
                 <div class="poster-container">
                     <img class="poster" src="{{ posters[4] }}" alt="recommendation5" />
