@@ -33,12 +33,16 @@ I have written a simple step by step documentation on this app which you can rea
 2. Create a virtual environment in your project folder 
 
     <code>cd -filepath-</code>
-    
+
     <code>virtualenv venv</code>
     
 3. Activate virual environment
 
+    Mac
     <code>source venv/bin/activate</code>
+
+    Windows 10
+    <code>source venv/Scripts/activate</code>
     
 4. Install python packages by running the following command
 
