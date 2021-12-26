@@ -38,12 +38,13 @@ def get_recommendations(cosine_similarity_df, title):
     OUTPUT:
         recommendations - list of recommended movies
     """
-    # Find the values for the movie rio
+    # Find the values for the movie entered by the user
     cosine_similarity_series = cosine_similarity_df.loc[title]
     
-    # Sort these values highest to lowest and select the first 
+    # Sort the cosine similarities highest to lowest
     ordered_similarities = cosine_similarity_series.sort_values(ascending=False)
 
+    #select the 2nd:6th highest values (the first value is the movie itself)
     recommendations = list(ordered_similarities[1:6].index)
     return recommendations
 

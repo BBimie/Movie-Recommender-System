@@ -11,6 +11,9 @@ A Content-Based Recommender System that recommends movies similar to the movie e
 - Python
 - Tmdbv3API (TMDBSIMPLE)
 
+### Data
+[TMDB 5000 Movies](https://www.kaggle.com/tmdb/tmdb-movie-metadata?select=tmdb_5000_movies.csv)
+
 
 ### How Does it Work?
 
@@ -60,9 +63,4 @@ Create an account in https://www.themoviedb.org/ and login click the "API" link 
 
 ### Deployment
 
-Take a look at the live app [here](https://mysterious-river-47014.herokuapp.com/)
-
-### Docker
-
-I also dockerized this app to make it easier to set up on another local machine.
-Follow the following steps to use the docker image.
+Take a look at the deployed app [here](https://mysterious-river-47014.herokuapp.com/)
