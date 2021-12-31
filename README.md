@@ -25,7 +25,7 @@ I used the built-in [cosine similarity](https://scikit-learn.org/stable/modules/
 
 ### Technical Documentation
 
-I have written a simple step by step documentation on this app which you can read [here]().
+I have written a simple step by step documentation on this app which you can read [here](https://medium.com/p/931360f8e2a0/edit).
 
 ### How to run the project on your local machine
 

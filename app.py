@@ -1,8 +1,6 @@
-import re
 from flask import Flask, render_template, request
 from datetime import datetime
 import pandas as pd
-import numpy as np
 import tmdbsimple as tmdb
 import requests
 import os
@@ -13,7 +11,7 @@ import functions
 app = Flask(__name__)
 
 #api key
-api_key = os.environ['api_key']
+api_key = os.getenv("MOVIE_API_KEY")
 tmdb.API_KEY = api_key
 
 ##tmdb image base url
@@ -51,7 +49,7 @@ def suggest_movies():
 #popular movies
 @app.route('/', methods=['GET', 'POST'])
 def index():
-
+    #set endpoint parameters
     params = (
         ('api_key', api_key),
         ('language', 'en-US'),
@@ -71,22 +69,17 @@ def index():
     if CACHED_POPULAR_MOVIES_RESPONSE.status_code == 200:
         json = CACHED_POPULAR_MOVIES_RESPONSE.json() 
         results = json['results']
-        for i in range(0, len(results)):
-            popular_title.append(results[i]['title'])
-        random.shuffle(popular_title)
-        popular_title = popular_title[:5]
+        random.shuffle(results)
+        random_five = results[:5]
+        for m in random_five:
+            popular_title.append(m['title'])
+            popular_rating.append(m['vote_average'])
+            popular_poster.append(img_base_url + m['poster_path'])
+            popular_date.append(m['release_date'].split('-')[0])
 
-        search = tmdb.Search()
-        for n in popular_title:
-            response = search.movie(query=n)
-            response = response['results'][0]
-            popular_poster.append(img_base_url + response['poster_path'])
-            popular_rating.append(response['vote_average'])
-            popular_date.append(response['release_date'].split('-')[0])
-
-    return(render_template('index.html', movie_title = popular_title,
-                                            posters = popular_poster, year = popular_date, 
-                                            ratings = popular_rating,))
+    return(render_template('index.html', movie_title = popular_title,posters = popular_poster, 
+                                         year = popular_date, ratings = popular_rating,)
+            )
 
 #recommendation
 @app.route('/show-recommendation/<movie_title>')
@@ -109,13 +102,9 @@ def show_recommendations(movie_title: str):
         response = response['results'][0]
 
         fetched_overviews.append(response['overview'])
-
         fetched_imgs.append(img_base_url + response['poster_path'])
-
         fetched_ratings.append(response['vote_average'])
-
         fetched_dates.append(response['release_date'].split('-')[0])
-
         genre_ids = response['genre_ids']
         for k in genre_ids:
             if k in genre_key:
