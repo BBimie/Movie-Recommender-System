@@ -11,7 +11,7 @@ import functions
 app = Flask(__name__)
 
 #api key
-api_key = os.environ['api_key']
+api_key = os.getenv("MOVIE_API_KEY")
 tmdb.API_KEY = api_key
 
 ##tmdb image base url

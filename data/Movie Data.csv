@@ -43,7 +43,7 @@ Cars 2,"Animation,Family,Adventure,Comedy"
 Green Lantern,"Adventure,Action,Thriller,Science Fiction"
 Toy Story 3,"Animation,Family,Comedy"
 Terminator Salvation,"Action,Science Fiction,Thriller"
-Furious 7,"A,c,t,i,o,n"
+Furious 7,Action
 World War Z,"Action,Drama,Horror,Science Fiction,Thriller"
 X-Men: Days of Future Past,"Action,Adventure,Fantasy,Science Fiction"
 Star Trek Into Darkness,"Action,Adventure,Science Fiction"
@@ -63,7 +63,7 @@ A Christmas Carol,"Animation,Drama"
 Jupiter Ascending,"Science Fiction,Fantasy,Action,Adventure"
 The Legend of Tarzan,"Action,Adventure"
 "The Chronicles of Narnia: The Lion, the Witch and the Wardrobe","Adventure,Family,Fantasy"
-X-Men: Apocalypse,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+X-Men: Apocalypse,Science Fiction
 The Dark Knight,"Drama,Action,Crime,Thriller"
 Up,"Animation,Comedy,Family,Adventure"
 Monsters vs Aliens,"Animation,Family,Adventure,Science Fiction"
@@ -104,7 +104,7 @@ X-Men: First Class,"Action,Science Fiction,Adventure"
 The Hunger Games: Mockingjay - Part 2,"Action,Adventure,Science Fiction"
 The Sorcerer's Apprentice,"Fantasy,Adventure,Action,Comedy,Drama"
 Poseidon,"Adventure,Action,Drama,Thriller"
-Alice Through the Looking Glass,"F,a,n,t,a,s,y"
+Alice Through the Looking Glass,Fantasy
 Shrek the Third,"Fantasy,Adventure,Animation,Comedy,Family"
 Warcraft,"Action,Adventure,Fantasy"
 Terminator Genisys,"Science Fiction,Action,Thriller,Adventure"
@@ -131,7 +131,7 @@ Angels & Demons,"Thriller,Mystery"
 Thor,"Adventure,Fantasy,Action"
 Bolt,"Animation,Family,Adventure,Comedy"
 G-Force,"Fantasy,Action,Adventure,Family,Comedy"
-Wrath of the Titans,"A,d,v,e,n,t,u,r,e"
+Wrath of the Titans,Adventure
 Dark Shadows,"Comedy,Fantasy"
 Mission: Impossible - Rogue Nation,"Action,Adventure,Thriller"
 The Wolfman,"Drama,Horror,Thriller"
@@ -154,14 +154,14 @@ Beowulf,"Adventure,Action,Animation"
 Kung Fu Panda 3,"Action,Adventure,Animation,Comedy,Family"
 Mission: Impossible - Ghost Protocol,"Action,Thriller,Adventure"
 Rise of the Guardians,"Fantasy,Animation,Family"
-Fun with Dick and Jane,"C,o,m,e,d,y"
+Fun with Dick and Jane,Comedy
 The Last Samurai,"Drama,Action,War,History"
 Exodus: Gods and Kings,"Adventure,Drama,Action"
 Star Trek,"Science Fiction,Action,Adventure"
 Spider-Man,"Fantasy,Action"
 How to Train Your Dragon 2,"Fantasy,Action,Adventure,Animation,Comedy,Family"
-Gods of Egypt,"F,a,n,t,a,s,y"
-Stealth,"A,c,t,i,o,n"
+Gods of Egypt,Fantasy
+Stealth,Action
 Watchmen,"Action,Mystery,Science Fiction"
 Lethal Weapon 4,"Action,Adventure,Comedy,Crime,Thriller"
 Hulk,"Drama,Action,Science Fiction"
@@ -170,7 +170,7 @@ Sahara,"Action,Adventure,Comedy,Drama,Mystery"
 Final Fantasy: The Spirits Within,"Adventure,Action,Animation,Fantasy,Science Fiction,Thriller"
 Captain America: The First Avenger,"Action,Adventure,Science Fiction"
 The World Is Not Enough,"Adventure,Action,Thriller"
-Master and Commander: The Far Side of the World,"A,d,v,e,n,t,u,r,e"
+Master and Commander: The Far Side of the World,Adventure
 The Twilight Saga: Breaking Dawn - Part 2,"Adventure,Fantasy,Drama,Romance"
 Happy Feet Two,"Animation,Comedy,Family"
 The Incredible Hulk,"Science Fiction,Action,Adventure"
@@ -191,7 +191,7 @@ Salt,"Action,Mystery,Thriller"
 Noah,"Drama,Adventure"
 The Adventures of Tintin,"Adventure,Animation,Mystery"
 Harry Potter and the Prisoner of Azkaban,"Adventure,Fantasy,Family"
-Australia,"D,r,a,m,a"
+Australia,Drama
 After Earth,"Science Fiction,Action,Adventure"
 Dinosaur,"Animation,Family"
 Night at the Museum: Secret of the Tomb,"Adventure,Comedy,Fantasy,Family"
@@ -213,7 +213,7 @@ Batman & Robin,"Action,Crime,Fantasy"
 How the Grinch Stole Christmas,"Family,Comedy,Fantasy"
 The Day After Tomorrow,"Action,Adventure,Science Fiction,Thriller"
 Mission: Impossible II,"Adventure,Action,Thriller"
-The Perfect Storm,"D,r,a,m,a"
+The Perfect Storm,Drama
 Fantastic 4: Rise of the Silver Surfer,"Adventure,Fantasy,Action,Thriller"
 Life of Pi,"Adventure,Drama,Action"
 Ghost Rider,"Thriller,Action,Fantasy,Horror"
@@ -249,8 +249,8 @@ The Patriot,"Drama,History,War,Action"
 Ocean's Twelve,"Thriller,Crime"
 Mr. & Mrs. Smith,"Action,Comedy,Drama,Thriller"
 Insurgent,"Adventure,Science Fiction,Thriller"
-The Aviator,"D,r,a,m,a"
-Gulliver's Travels,"C,o,m,e,d,y"
+The Aviator,Drama
+Gulliver's Travels,Comedy
 The Green Hornet,"Action,Crime,Comedy"
 300: Rise of an Empire,"Action,War"
 The Smurfs,"Animation,Family,Adventure,Comedy,Fantasy"
@@ -263,7 +263,7 @@ Ender's Game,"Science Fiction,Action,Adventure"
 Live Free or Die Hard,"Action,Thriller"
 The Lord of the Rings: The Fellowship of the Ring,"Adventure,Fantasy,Action"
 Around the World in 80 Days,"Action,Adventure,Comedy"
-Ali,"D,r,a,m,a"
+Ali,Drama
 The Cat in the Hat,"Comedy,Fantasy,Family"
 "I, Robot","Action,Science Fiction"
 Kingdom of Heaven,"Drama,Action,Adventure,History,War"
@@ -312,7 +312,7 @@ Son of the Mask,"Fantasy,Comedy,Family,Adventure"
 In the Heart of the Sea,"Thriller,Drama,Adventure,Action,History"
 The Adventures of Pluto Nash,"Action,Comedy,Science Fiction"
 Green Zone,"War,Action,Adventure,Drama,Thriller"
-The Peanuts Movie,"A,n,i,m,a,t,i,o,n"
+The Peanuts Movie,Animation
 The Spanish Prisoner,"Crime,Drama,Mystery,Thriller"
 The Mummy Returns,"Adventure,Action,Fantasy"
 Gangs of New York,"Drama,History,Crime"
@@ -320,7 +320,7 @@ The Flowers of War,"Drama,History,War"
 Surf's Up,"Animation,Comedy,Family"
 The Stepford Wives,"Action,Comedy,Science Fiction"
 Black Hawk Down,"Action,History,War"
-The Campaign,"C,o,m,e,d,y"
+The Campaign,Comedy
 The Fifth Element,"Adventure,Fantasy,Action,Thriller,Science Fiction"
 Sex and the City 2,"Comedy,Drama,Romance"
 The Road to El Dorado,"Adventure,Animation,Comedy,Family"
@@ -356,7 +356,7 @@ Tropic Thunder,"Action,Comedy"
 The Girl with the Dragon Tattoo,"Thriller,Crime,Mystery,Drama"
 Die Hard: With a Vengeance,"Action,Thriller"
 Sherlock Holmes,"Action,Adventure,Crime,Mystery"
-Ben-Hur,"D,r,a,m,a"
+Ben-Hur,Drama
 Atlantis: The Lost Empire,"Animation,Family,Adventure,Science Fiction"
 Alvin and the Chipmunks: The Road Chip,"Adventure,Animation,Comedy,Family"
 Valkyrie,"Drama,Thriller,History,War"
@@ -372,7 +372,7 @@ Lara Croft Tomb Raider: The Cradle of Life,"Action,Adventure,Fantasy,Thriller"
 Now You See Me 2,"Action,Adventure,Comedy,Crime,Mystery,Thriller"
 The Saint,"Thriller,Action,Romance,Science Fiction,Adventure"
 Spy Game,"Action,Crime,Thriller"
-Mission to Mars,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Mission to Mars,Science Fiction
 Rio,"Animation,Adventure,Comedy,Family"
 Bicentennial Man,"Comedy,Science Fiction"
 Volcano,"Science Fiction,Action,Drama,Thriller"
@@ -400,7 +400,7 @@ It's Complicated,"Comedy,Romance"
 Ocean's Thirteen,"Crime,Thriller"
 Open Season,"Adventure,Animation,Family"
 Divergent,"Adventure,Action,Science Fiction"
-Enemy at the Gates,"W,a,r"
+Enemy at the Gates,War
 The Rundown,"Adventure,Action,Comedy,Thriller"
 Last Action Hero,"Adventure,Fantasy,Action,Comedy,Family"
 Memoirs of a Geisha,"Drama,History,Romance"
@@ -421,12 +421,12 @@ Cats & Dogs 2 : The Revenge of Kitty Galore,"Comedy,Family"
 Jumper,"Adventure,Fantasy,Science Fiction"
 Hellboy II: The Golden Army,"Adventure,Fantasy,Science Fiction"
 Zodiac,"Crime,Drama,Mystery,Thriller"
-The 6th Day,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+The 6th Day,Science Fiction
 Bruce Almighty,"Fantasy,Comedy"
 The Expendables,"Thriller,Adventure,Action"
 Mission: Impossible,"Adventure,Action,Thriller"
 The Hunger Games,"Science Fiction,Adventure,Fantasy"
-The Hangover Part II,"C,o,m,e,d,y"
+The Hangover Part II,Comedy
 Batman Returns,"Action,Fantasy"
 Over the Hedge,"Comedy,Animation,Family"
 Lilo & Stitch,"Animation,Family"
@@ -435,7 +435,7 @@ Deep Impact,"Action,Drama,Romance"
 RED 2,"Action,Comedy,Crime,Thriller"
 The Longest Yard,"Comedy,Drama"
 Alvin and the Chipmunks: Chipwrecked,"Comedy,Fantasy,Family,Music,Animation"
-Grown Ups 2,"C,o,m,e,d,y"
+Grown Ups 2,Comedy
 Get Smart,"Action,Comedy,Thriller"
 Something's Gotta Give,"Drama,Comedy,Romance"
 Shutter Island,"Drama,Thriller,Mystery"
@@ -447,7 +447,7 @@ Road to Perdition,"Thriller,Crime,Drama"
 Just Go with It,"Romance,Comedy"
 Con Air,"Action,Thriller,Crime"
 Eagle Eye,"Mystery,Thriller,Action"
-Cold Mountain,"D,r,a,m,a"
+Cold Mountain,Drama
 The Book of Eli,"Action,Thriller,Science Fiction"
 Flubber,"Comedy,Family,Science Fiction"
 The Haunting,"Horror,Thriller,Fantasy,Mystery"
@@ -498,7 +498,7 @@ Journey 2: The Mysterious Island,"Adventure,Action,Science Fiction"
 Cloudy with a Chance of Meatballs 2,"Animation,Family,Comedy"
 Red Dragon,"Crime,Thriller,Horror"
 Hidalgo,"Western,Adventure"
-Jack and Jill,"C,o,m,e,d,y"
+Jack and Jill,Comedy
 2 Fast 2 Furious,"Action,Crime,Thriller"
 The Little Prince,"Adventure,Animation,Fantasy"
 The Invasion,"Science Fiction,Thriller"
@@ -519,19 +519,19 @@ Hairspray,"Family,Comedy,Music,Romance"
 Exorcist: The Beginning,"Horror,Mystery,Thriller"
 Inspector Gadget,"Action,Adventure,Comedy,Family"
 Now You See Me,"Thriller,Crime"
-Grown Ups,"C,o,m,e,d,y"
+Grown Ups,Comedy
 The Terminal,"Comedy,Drama"
 Hotel for Dogs,"Comedy,Family"
 Vertical Limit,"Action,Adventure,Thriller"
 Charlie Wilson's War,"Comedy,Drama,History"
 Shark Tale,"Animation,Action,Comedy,Family"
-Dreamgirls,"D,r,a,m,a"
+Dreamgirls,Drama
 Be Cool,"Comedy,Crime"
 Munich,"Drama,Action,History,Thriller"
 Tears of the Sun,"Action,Drama,War"
 Killers,"Action,Comedy,Thriller,Romance"
 The Man from U.N.C.L.E.,"Comedy,Action,Adventure"
-Spanglish,"C,o,m,e,d,y"
+Spanglish,Comedy
 Monster House,"Animation,Comedy,Family,Fantasy"
 Bandits,"Action,Comedy,Crime,Romance"
 First Knight,"Action,Adventure,Drama,Romance"
@@ -548,18 +548,18 @@ Unbreakable,"Science Fiction,Thriller,Drama"
 Minions,"Family,Animation,Adventure,Comedy"
 Sucker Punch,"Action,Fantasy,Thriller"
 Snake Eyes,"Crime,Mystery"
-Sphere,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Sphere,Science Fiction
 The Angry Birds Movie,"Family,Animation"
 Fool's Gold,"Romance,Comedy,Adventure"
 Funny People,"Comedy,Drama"
 The Kingdom,"Thriller,Action,Drama"
-Talladega Nights: The Ballad of Ricky Bobby,"C,o,m,e,d,y"
+Talladega Nights: The Ballad of Ricky Bobby,Comedy
 Dr. Dolittle 2,"Comedy,Family,Romance,Fantasy"
 Braveheart,"Action,Drama,History,War"
 Jarhead,"Drama,War"
 The Simpsons Movie,"Animation,Comedy,Family"
 The Majestic,"Drama,Romance"
-Driven,"A,c,t,i,o,n"
+Driven,Action
 Two Brothers,"Adventure,Drama,Family"
 The Village,"Drama,Mystery,Thriller"
 Doctor Dolittle,"Comedy,Family,Fantasy"
@@ -583,7 +583,7 @@ Olympus Has Fallen,"Action,Thriller"
 Star Trek: Insurrection,"Science Fiction,Action,Adventure,Thriller"
 Battle: Los Angeles,"Action,Science Fiction"
 Big Fish,"Adventure,Fantasy,Drama"
-Wolf,"F,a,n,t,a,s,y"
+Wolf,Fantasy
 War Horse,"Drama,War"
 The Monuments Men,"War,Drama,History,Action"
 The Abyss,"Adventure,Action,Thriller,Science Fiction"
@@ -602,7 +602,7 @@ Hart's War,"Drama,War"
 Killer Elite,"Action,Adventure,Thriller"
 Rollerball,"Action,Science Fiction,Thriller"
 Ballistic: Ecks vs. Sever,"Action,Adventure,Thriller"
-Hard Rain,"T,h,r,i,l,l,e,r"
+Hard Rain,Thriller
 Osmosis Jones,"Adventure,Animation,Action,Comedy,Family"
 Legends of Oz: Dorothy's Return,"Animation,Music,Family"
 Blackhat,"Crime,Drama,Mystery"
@@ -615,14 +615,14 @@ The Twilight Saga: Eclipse,"Adventure,Fantasy,Drama,Romance"
 The Score,"Action,Crime,Thriller"
 Despicable Me,"Animation,Family"
 Money Train,"Action,Comedy,Crime"
-Ted 2,"C,o,m,e,d,y"
+Ted 2,Comedy
 Agora,"Adventure,Drama,History"
 Mystery Men,"Adventure,Fantasy,Action,Comedy,Science Fiction"
-Hall Pass,"C,o,m,e,d,y"
+Hall Pass,Comedy
 The Insider,"Drama,Thriller"
 The Finest Hours,"Action,Drama,History,Thriller"
 Body of Lies,"Action,Drama,Thriller"
-Dinner for Schmucks,"C,o,m,e,d,y"
+Dinner for Schmucks,Comedy
 Abraham Lincoln: Vampire Hunter,"Action,Fantasy,Horror"
 Entrapment,"Romance,Drama,Mystery"
 The X Files,"Mystery,Science Fiction,Thriller"
@@ -634,11 +634,11 @@ Ice Age,"Animation,Comedy,Family,Adventure"
 Dreamcatcher,"Drama,Horror,Science Fiction,Thriller"
 Lincoln,"History,Drama"
 The Matrix,"Action,Science Fiction"
-Apollo 13,"D,r,a,m,a"
+Apollo 13,Drama
 The Santa Clause 2,"Fantasy,Comedy,Family"
 Les Misérables,"Drama,Music,Romance"
 You've Got Mail,"Comedy,Romance"
-Step Brothers,"C,o,m,e,d,y"
+Step Brothers,Comedy
 The Mask of Zorro,"Action,Adventure"
 Due Date,"Comedy,Drama"
 Unbroken,"Drama,War"
@@ -648,7 +648,7 @@ Broken Arrow,"Action,Adventure,Drama,Thriller"
 The Kid,"Fantasy,Comedy,Family"
 World Trade Center,"Drama,History,Thriller"
 Mona Lisa Smile,"Drama,Romance"
-The Dictator,"C,o,m,e,d,y"
+The Dictator,Comedy
 Eyes Wide Shut,"Mystery,Drama"
 Annie,"Comedy,Drama,Family"
 Focus,"Romance,Comedy,Crime,Drama"
@@ -661,8 +661,8 @@ Death Race,"Action,Thriller,Science Fiction"
 The Long Kiss Goodnight,"Crime,Action,Mystery,Thriller"
 Proof of Life,"Action,Adventure,Drama,Romance,Thriller"
 Zathura: A Space Adventure,"Family,Fantasy,Science Fiction,Adventure"
-Fight Club,"D,r,a,m,a"
-We Are Marshall,"D,r,a,m,a"
+Fight Club,Drama
+We Are Marshall,Drama
 Hudson Hawk,"Action,Adventure,Comedy"
 Lucky Numbers,"Action,Adventure,Comedy,Crime,Romance,Thriller"
 "I, Frankenstein","Horror,Thriller"
@@ -705,13 +705,13 @@ The Italian Job,"Action,Crime"
 Two Weeks Notice,"Romance,Comedy"
 Antz,"Adventure,Animation,Comedy,Family"
 Couples Retreat,"Comedy,Romance"
-Days of Thunder,"A,d,v,e,n,t,u,r,e"
-Cheaper by the Dozen 2,"C,o,m,e,d,y"
-Maze Runner: The Scorch Trials,"A,c,t,i,o,n"
-Eat Pray Love,"D,r,a,m,a"
+Days of Thunder,Adventure
+Cheaper by the Dozen 2,Comedy
+Maze Runner: The Scorch Trials,Action
+Eat Pray Love,Drama
 The Family Man,"Comedy,Drama,Romance,Fantasy"
 RED,"Action,Adventure,Comedy,Crime,Thriller"
-Any Given Sunday,"D,r,a,m,a"
+Any Given Sunday,Drama
 The Horse Whisperer,"Drama,Romance"
 Collateral,"Drama,Crime,Thriller"
 The Scorpion King,"Action,Fantasy,Adventure"
@@ -728,7 +728,7 @@ The Shaggy Dog,"Comedy,Family"
 Starsky & Hutch,"Comedy,Crime"
 Jingle All the Way,"Family,Comedy"
 Hellboy,"Fantasy,Action,Science Fiction"
-A Civil Action,"D,r,a,m,a"
+A Civil Action,Drama
 ParaNorman,"Family,Animation,Adventure,Comedy"
 The Jackal,"Action,Thriller,Adventure,Crime"
 Paycheck,"Action,Adventure,Mystery,Science Fiction,Thriller"
@@ -749,7 +749,7 @@ Reign of Fire,"Adventure,Action,Fantasy"
 Gangster Squad,"Crime,Drama,Action,Thriller"
 Year One,"Comedy,Adventure"
 Invictus,"Drama,History"
-State of Play,"A,c,t,i,o,n"
+State of Play,Action
 Duplicity,"Romance,Comedy,Crime"
 My Favorite Martian,"Comedy,Drama,Family,Science Fiction"
 The Sentinel,"Action,Thriller,Crime"
@@ -762,7 +762,7 @@ The Relic,"Horror,Mystery,Thriller"
 Analyze That,"Comedy,Crime"
 Righteous Kill,"Action,Crime,Drama,Thriller"
 Mercury Rising,"Action,Crime,Drama,Thriller"
-The Soloist,"D,r,a,m,a"
+The Soloist,Drama
 The Legend of Bagger Vance,"Fantasy,Drama"
 Almost Famous,"Drama,Music"
 Garfield: A Tail of Two Kitties,"Animation,Comedy,Family"
@@ -770,8 +770,8 @@ xXx: State of the Union,"Action,Adventure,Crime,Drama,Mystery,Thriller"
 Priest,"Action,Science Fiction,Fantasy,Thriller,Horror"
 Sinbad: Legend of the Seven Seas,"Family,Animation,Adventure"
 Event Horizon,"Horror,Science Fiction,Mystery"
-Dragonfly,"D,r,a,m,a"
-The Black Dahlia,"D,r,a,m,a"
+Dragonfly,Drama
+The Black Dahlia,Drama
 Flyboys,"Action,Adventure,Drama,History,Romance,War"
 The Last Castle,"Action,Drama,Thriller"
 Supernova,"Horror,Science Fiction,Thriller"
@@ -779,7 +779,7 @@ Winter's Tale,"Drama,Fantasy,Mystery,Romance"
 The Mortal Instruments: City of Bones,"Action,Adventure,Drama,Mystery,Romance,Fantasy"
 Meet Dave,"Comedy,Science Fiction,Adventure,Family"
 Dark Water,"Drama,Horror,Thriller"
-Edtv,"C,o,m,e,d,y"
+Edtv,Comedy
 Inkheart,"Adventure,Family,Fantasy"
 The Spirit,"Action,Comedy,Thriller,Crime,Science Fiction"
 Mortdecai,"Comedy,Adventure"
@@ -796,13 +796,13 @@ The Flintstones in Viva Rock Vegas,"Science Fiction,Comedy,Family,Romance"
 Rambo III,"Action,Adventure,Thriller,War"
 Leatherheads,"Comedy,Romance,Drama"
 The Ridiculous 6,"Comedy,Western"
-Did You Hear About the Morgans?,"C,o,m,e,d,y"
-The Internship,"C,o,m,e,d,y"
+Did You Hear About the Morgans?,Comedy
+The Internship,Comedy
 Resident Evil: Afterlife,"Action,Adventure,Horror,Science Fiction"
 Red Tails,"Drama,Action,Adventure,History,War"
 The Devil's Advocate,"Drama,Horror,Mystery,Thriller"
-That's My Boy,"C,o,m,e,d,y"
-DragonHeart,"F,a,n,t,a,s,y"
+That's My Boy,Comedy
+DragonHeart,Fantasy
 After the Sunset,"Action,Comedy,Crime,Drama"
 Ghost Rider: Spirit of Vengeance,"Action,Fantasy,Thriller"
 Captain Corelli's Mandolin,"Drama,History,Romance"
@@ -818,17 +818,17 @@ Hitch,"Comedy,Drama,Romance"
 George of the Jungle,"Adventure,Comedy,Family,Romance"
 American Wedding,"Comedy,Romance"
 Captain Phillips,"Action,Drama,Thriller"
-Date Night,"C,o,m,e,d,y"
+Date Night,Comedy
 Casper,"Fantasy,Comedy,Family"
 The Equalizer,"Thriller,Action,Crime"
 Maid in Manhattan,"Comedy,Drama,Romance"
 Crimson Tide,"Action,Thriller,Drama"
-The Pursuit of Happyness,"D,r,a,m,a"
+The Pursuit of Happyness,Drama
 Flightplan,"Thriller,Drama,Mystery"
 Disclosure,"Drama,Thriller,Crime,Mystery,Romance"
 City of Angels,"Drama,Fantasy,Romance"
 Kill Bill: Vol. 1,"Action,Crime"
-Bowfinger,"C,o,m,e,d,y"
+Bowfinger,Comedy
 Kill Bill: Vol. 2,"Action,Crime,Thriller"
 Tango & Cash,"Action,Adventure,Comedy"
 Death Becomes Her,"Fantasy,Comedy"
@@ -840,13 +840,13 @@ Free Birds,"Animation,Comedy,Family"
 Alien³,"Science Fiction,Action,Horror"
 Evita,"History,Drama,Music"
 Ronin,"Action,Thriller,Crime,Adventure"
-The Ghost and the Darkness,"A,d,v,e,n,t,u,r,e"
+The Ghost and the Darkness,Adventure
 Paddington,"Family,Comedy"
-The Watch,"C,o,m,e,d,y"
+The Watch,Comedy
 The Hunted,"Drama,Action,Thriller,Crime"
 Instinct,"Drama,Mystery,Thriller"
-Stuck on You,"C,o,m,e,d,y"
-Semi-Pro,"C,o,m,e,d,y"
+Stuck on You,Comedy
+Semi-Pro,Comedy
 The Pirates! In an Adventure with Scientists!,"Animation,Adventure,Family,Comedy"
 Changeling,"Crime,Drama,Mystery"
 Chain Reaction,"Action,Drama,Science Fiction,Thriller"
@@ -856,21 +856,21 @@ Elizabeth: The Golden Age,"Drama,History,Romance"
 Æon Flux,"Action,Science Fiction"
 Gods and Generals,"Drama,History,War"
 Turbulence,"Action,Thriller,Crime"
-Imagine That,"C,o,m,e,d,y"
+Imagine That,Comedy
 Muppets Most Wanted,"Comedy,Adventure,Crime,Family"
 Thunderbirds,"Action,Adventure,Comedy,Family,Fantasy,Science Fiction"
 Burlesque,"Drama,Romance"
-A Very Long Engagement,"D,r,a,m,a"
+A Very Long Engagement,Drama
 Lolita,"Drama,Romance"
 D-Tox,"Action,Thriller"
 Blade II,"Fantasy,Horror,Action,Thriller"
-Seven Pounds,"D,r,a,m,a"
+Seven Pounds,Drama
 Bullet to the Head,"Action,Crime,Thriller"
 The Godfather: Part III,"Crime,Drama,Thriller"
 Elizabethtown,"Comedy,Drama,Romance"
 "You, Me and Dupree","Comedy,Romance"
 Superman II,"Action,Adventure,Fantasy,Science Fiction"
-Gigli,"D,r,a,m,a"
+Gigli,Drama
 All the King's Men,"Drama,Thriller"
 Shaft,"Action,Adventure,Crime,Thriller"
 Anastasia,"Animation,Family"
@@ -889,45 +889,45 @@ Mamma Mia!,"Comedy,Romance"
 Valentine's Day,"Comedy,Romance"
 The Dukes of Hazzard,"Action,Adventure,Comedy"
 The Thin Red Line,"Drama,History,War"
-The Change-Up,"C,o,m,e,d,y"
+The Change-Up,Comedy
 Man on the Moon,"Comedy,Drama,Romance"
 Casino,"Drama,Crime"
 From Paris with Love,"Action,Crime,Thriller"
 Bulletproof Monk,"Action,Comedy,Fantasy"
-"Me, Myself & Irene","C,o,m,e,d,y"
+"Me, Myself & Irene",Comedy
 Barnyard,"Animation,Comedy,Family"
 Deck the Halls,"Comedy,Family"
 The Twilight Saga: New Moon,"Adventure,Fantasy,Drama,Romance"
 Shrek,"Adventure,Animation,Comedy,Family,Fantasy"
 The Adjustment Bureau,"Science Fiction,Thriller,Romance"
-Robin Hood: Prince of Thieves,"A,d,v,e,n,t,u,r,e"
+Robin Hood: Prince of Thieves,Adventure
 Jerry Maguire,"Comedy,Drama,Romance"
 Ted,"Comedy,Fantasy"
 As Good as It Gets,"Comedy,Romance"
 Patch Adams,"Comedy,Drama"
-Anchorman 2: The Legend Continues,"C,o,m,e,d,y"
+Anchorman 2: The Legend Continues,Comedy
 Mr. Deeds,"Comedy,Romance"
 Super 8,"Thriller,Science Fiction,Mystery"
-Erin Brockovich,"D,r,a,m,a"
+Erin Brockovich,Drama
 How to Lose a Guy in 10 Days,"Comedy,Romance"
 22 Jump Street,"Crime,Comedy,Action"
 Interview with the Vampire,"Horror,Romance"
-Yes Man,"C,o,m,e,d,y"
+Yes Man,Comedy
 Central Intelligence,"Action,Comedy"
 Stepmom,"Drama,Romance"
-Daddy's Home,"C,o,m,e,d,y"
+Daddy's Home,Comedy
 Into the Woods,"Fantasy,Comedy,Music"
 Inside Man,"Crime,Drama,Thriller"
 Payback,"Drama,Action,Thriller,Crime"
 Congo,"Action,Adventure,Drama,Mystery,Science Fiction,Thriller"
 We Bought a Zoo,"Drama,Comedy,Family"
 Knowing,"Action,Adventure,Drama,Mystery,Science Fiction,Thriller"
-Failure to Launch,"C,o,m,e,d,y"
+Failure to Launch,Comedy
 The Ring Two,"Drama,Horror,Thriller"
 "Crazy, Stupid, Love.","Comedy,Drama,Romance"
 Garfield,"Animation,Comedy,Family"
 Christmas with the Kranks,"Comedy,Family"
-Moneyball,"D,r,a,m,a"
+Moneyball,Drama
 Outbreak,"Action,Drama,Science Fiction,Thriller"
 Non-Stop,"Action,Thriller,Mystery"
 Race to Witch Mountain,"Adventure,Family,Fantasy,Science Fiction,Thriller,Action"
@@ -935,25 +935,25 @@ V for Vendetta,"Action,Thriller,Fantasy"
 Shanghai Knights,"Action,Adventure,Comedy,Western"
 Curious George,"Adventure,Animation,Comedy,Family"
 Herbie Fully Loaded,"Comedy,Family,Adventure,Fantasy,Romance"
-Don't Say a Word,"T,h,r,i,l,l,e,r"
+Don't Say a Word,Thriller
 Hansel & Gretel: Witch Hunters,"Fantasy,Horror,Action"
 Unfaithful,"Thriller,Drama"
 I Am Number Four,"Action,Thriller,Science Fiction,Adventure"
 Syriana,"Drama,Thriller"
 13 Hours: The Secret Soldiers of Benghazi,"Action,Drama,History,Thriller,War"
 The Book of Life,"Romance,Animation,Adventure,Comedy,Family,Fantasy"
-Firewall,"T,h,r,i,l,l,e,r"
+Firewall,Thriller
 Absolute Power,"Crime,Drama,Thriller"
 G.I. Jane,"Action,Drama"
 The Game,"Drama,Thriller,Mystery"
 Silent Hill,"Horror,Mystery"
-The Replacements,"C,o,m,e,d,y"
-American Reunion,"C,o,m,e,d,y"
+The Replacements,Comedy
+American Reunion,Comedy
 The Negotiator,"Action,Adventure,Crime,Drama,Mystery,Thriller"
 Into the Storm,"Action,Thriller"
 Beverly Hills Cop III,"Action,Comedy,Crime"
 Gremlins 2: The New Batch,"Comedy,Horror,Fantasy"
-The Judge,"D,r,a,m,a"
+The Judge,Drama
 The Peacemaker,"Action,Thriller"
 Resident Evil: Apocalypse,"Horror,Action,Science Fiction"
 Bridget Jones: The Edge of Reason,"Comedy,Romance"
@@ -985,7 +985,7 @@ Run All Night,"Action,Crime,Drama,Mystery,Thriller"
 Eastern Promises,"Thriller,Crime,Mystery"
 Into the Blue,"Action,Thriller,Adventure,Crime"
 The Messenger: The Story of Joan of Arc,"Adventure,Drama,Action,History,War"
-Your Highness,"C,o,m,e,d,y"
+Your Highness,Comedy
 Dream House,"Drama,Thriller,Mystery"
 Mad City,"Action,Drama,Thriller"
 Baby's Day Out,"Action,Adventure,Comedy,Family"
@@ -996,7 +996,7 @@ Jade,"Action,Thriller,Mystery,Romance"
 Gamer,"Action,Thriller,Science Fiction"
 Beautiful Creatures,"Fantasy,Drama,Romance"
 Death to Smoochy,"Comedy,Crime,Drama,Thriller"
-Zoolander 2,"C,o,m,e,d,y"
+Zoolander 2,Comedy
 The Big Bounce,"Comedy,Crime"
 What Planet Are You From?,"Comedy,Drama,Romance,Science Fiction"
 Drive Angry,"Fantasy,Thriller,Action,Crime"
@@ -1010,7 +1010,7 @@ Anna Karenina,"Drama,Romance"
 Chappie,"Crime,Action,Science Fiction"
 The Bone Collector,"Drama,Mystery,Thriller,Crime"
 Panic Room,"Crime,Drama,Thriller"
-The Tooth Fairy,"H,o,r,r,o,r"
+The Tooth Fairy,Horror
 Three Kings,"Action,Adventure,Comedy"
 Child 44,"Crime,Thriller"
 Rat Race,"Adventure,Comedy"
@@ -1018,11 +1018,11 @@ K-PAX,"Drama,Science Fiction"
 Kate & Leopold,"Comedy,Fantasy,Romance,Science Fiction"
 Bedazzled,"Fantasy,Comedy,Romance"
 The Cotton Club,"Music,Drama,Crime,Romance"
-3:10 to Yuma,"W,e,s,t,e,r,n"
+3:10 to Yuma,Western
 Taken 3,"Thriller,Action"
 Out of Sight,"Romance,Comedy,Crime"
 The Cable Guy,"Comedy,Drama,Thriller"
-Earth,"D,r,a,m,a"
+Earth,Drama
 Dick Tracy,"Adventure,Action,Comedy,Thriller,Crime"
 The Thomas Crown Affair,"Drama,Crime,Romance"
 Riding in Cars with Boys,"Comedy,Drama,Romance"
@@ -1036,12 +1036,12 @@ Insomnia,"Crime,Mystery,Thriller"
 Star Trek: First Contact,"Science Fiction,Action,Adventure,Thriller"
 Jonah Hex,"Action,Western,Drama,Fantasy,Thriller"
 Courage Under Fire,"Drama,Thriller,Mystery,War"
-Liar Liar,"C,o,m,e,d,y"
+Liar Liar,Comedy
 The Infiltrator,"Crime,Drama,Thriller"
 Inchon,"Drama,History,War"
 The Flintstones,"Fantasy,Comedy,Family"
 Taken 2,"Action,Crime,Thriller"
-Scary Movie 3,"C,o,m,e,d,y"
+Scary Movie 3,Comedy
 Miss Congeniality,"Comedy,Crime,Action"
 Journey to the Center of the Earth,"Action,Science Fiction,Adventure,Comedy,Family"
 The Princess Diaries 2: Royal Engagement,"Comedy,Drama,Family,Romance"
@@ -1053,13 +1053,13 @@ Monster-in-Law,"Romance,Comedy"
 Prisoners,"Drama,Thriller,Crime"
 Training Day,"Action,Crime,Drama,Thriller"
 Galaxy Quest,"Comedy,Family,Science Fiction"
-Scary Movie 2,"C,o,m,e,d,y"
+Scary Movie 2,Comedy
 The Muppets,"Comedy,Family,Music"
 Blade,"Horror,Action"
-Coach Carter,"D,r,a,m,a"
+Coach Carter,Drama
 Changing Lanes,"Action,Adventure,Crime,Thriller"
 Anaconda,"Adventure,Horror,Thriller"
-Coyote Ugly,"C,o,m,e,d,y"
+Coyote Ugly,Comedy
 Love Actually,"Comedy,Romance,Drama"
 A Bug's Life,"Adventure,Animation,Comedy,Family"
 From Hell,"Horror,Mystery,Thriller"
@@ -1070,7 +1070,7 @@ Kicking & Screaming,"Romance,Comedy,Family"
 The Hitchhiker's Guide to the Galaxy,"Adventure,Comedy,Family,Science Fiction"
 Fat Albert,"Comedy,Drama,Family"
 Resident Evil: Extinction,"Horror,Action,Science Fiction"
-Blended,"C,o,m,e,d,y"
+Blended,Comedy
 Last Holiday,"Adventure,Comedy,Drama"
 The River Wild,"Action,Adventure,Crime,Thriller"
 The Indian in the Cupboard,"Adventure,Family,Fantasy"
@@ -1103,7 +1103,7 @@ Johnny English Reborn,"Crime,Adventure,Action,Comedy,Thriller"
 Foodfight!,"Animation,Action,Comedy,Family"
 Argo,"Drama,Thriller"
 The Fugitive,"Adventure,Action,Thriller,Crime,Mystery"
-The Bounty Hunter,"A,c,t,i,o,n"
+The Bounty Hunter,Action
 Sleepers,"Crime,Drama,Thriller"
 Rambo: First Blood Part II,"Action,Adventure,Thriller,War"
 The Juror,"Drama,Thriller"
@@ -1111,12 +1111,12 @@ Pinocchio,"Animation,Family"
 Heaven's Gate,"Action,Drama,History,Western"
 Underworld: Evolution,"Fantasy,Action,Science Fiction,Thriller"
 Victor Frankenstein,"Drama,Science Fiction,Thriller"
-Finding Forrester,"D,r,a,m,a"
+Finding Forrester,Drama
 28 Days,"Comedy,Drama"
 Unleashed,"Action,Crime"
 The Sweetest Thing,"Romance,Comedy"
 The Firm,"Drama,Mystery,Thriller"
-Charlie St. Cloud,"D,r,a,m,a"
+Charlie St. Cloud,Drama
 The Mechanic,"Action,Thriller,Crime"
 21 Jump Street,"Action,Comedy,Crime"
 Notting Hill,"Romance,Comedy,Drama"
@@ -1125,11 +1125,11 @@ Along Came Polly,"Comedy,Romance"
 Boomerang,"Comedy,Romance"
 The Heat,"Action,Comedy,Crime"
 Cleopatra,"Drama,History,Romance"
-Here Comes the Boom,"C,o,m,e,d,y"
+Here Comes the Boom,Comedy
 High Crimes,"Drama,Mystery,Thriller,Crime"
 The Mirror Has Two Faces,"Comedy,Drama,Romance"
 The Mothman Prophecies,"Drama,Horror,Mystery"
-Brüno,"C,o,m,e,d,y"
+Brüno,Comedy
 Licence to Kill,"Adventure,Action,Thriller"
 Red Riding Hood,"Fantasy,Thriller,Horror"
 15 Minutes,"Action,Crime,Thriller"
@@ -1140,14 +1140,14 @@ One for the Money,"Action,Comedy,Crime"
 The Interview,"Action,Comedy"
 The Warrior's Way,"Adventure,Fantasy,Action,Western,Thriller"
 Micmacs,"Action,Comedy,Crime"
-8 Mile,"D,r,a,m,a"
+8 Mile,Drama
 Why I Did (Not) Eat My Father,"Adventure,Comedy,Animation"
 A Knight's Tale,"Adventure,Drama,Romance,Action"
 The Medallion,"Thriller,Fantasy,Action,Comedy"
 The Sixth Sense,"Mystery,Thriller,Drama"
 Man on a Ledge,"Action,Thriller,Crime"
-The Big Year,"C,o,m,e,d,y"
-The Karate Kid,"D,r,a,m,a"
+The Big Year,Comedy
+The Karate Kid,Drama
 American Hustle,"Drama,Crime"
 The Proposal,"Comedy,Romance,Drama"
 Double Jeopardy,"Crime,Drama,Mystery,Thriller"
@@ -1156,39 +1156,39 @@ Lucy,"Action,Science Fiction"
 Fifty Shades of Grey,"Drama,Romance,Thriller"
 Spy Kids 3-D: Game Over,"Action,Adventure,Comedy,Family,Science Fiction"
 A Time to Kill,"Crime,Drama,Thriller"
-Cheaper by the Dozen,"C,o,m,e,d,y"
+Cheaper by the Dozen,Comedy
 Lone Survivor,"Action,Drama,Thriller,War"
-A League of Their Own,"C,o,m,e,d,y"
-The Conjuring 2,"H,o,r,r,o,r"
-The Social Network,"D,r,a,m,a"
+A League of Their Own,Comedy
+The Conjuring 2,Horror
+The Social Network,Drama
 He's Just Not That Into You,"Comedy,Romance,Drama"
-Scary Movie 4,"C,o,m,e,d,y"
+Scary Movie 4,Comedy
 Scream 3,"Horror,Mystery"
 Back to the Future Part III,"Adventure,Comedy,Family,Science Fiction"
-Get Hard,"C,o,m,e,d,y"
+Get Hard,Comedy
 Dracula,"Romance,Horror"
 Julie & Julia,"Romance,Drama"
-42,"D,r,a,m,a"
+42,Drama
 The Talented Mr. Ripley,"Thriller,Crime,Drama"
-Dumb and Dumber To,"C,o,m,e,d,y"
+Dumb and Dumber To,Comedy
 Eight Below,"Adventure,Drama,Family"
-The Intern,"C,o,m,e,d,y"
+The Intern,Comedy
 Ride Along 2,"Action,Comedy"
 The Last of the Mohicans,"Action,Adventure,Drama,History,Romance,War"
 Ray,"Drama,Music"
 Sin City,"Action,Thriller,Crime"
 Vantage Point,"Drama,Action,Thriller,Crime"
-"I Love You, Man","C,o,m,e,d,y"
+"I Love You, Man",Comedy
 Shallow Hal,"Comedy,Romance"
 JFK,"Drama,Thriller,History"
 Big Momma's House 2,"Comedy,Crime"
 The Mexican,"Action,Comedy,Crime,Romance"
-17 Again,"C,o,m,e,d,y"
+17 Again,Comedy
 The Other Woman,"Comedy,Romance"
 The Final Destination,"Horror,Mystery"
 Bridge of Spies,"Thriller,Drama"
 Behind Enemy Lines,"Action,Drama,Thriller,War"
-Get Him to the Greek,"C,o,m,e,d,y"
+Get Him to the Greek,Comedy
 Shall We Dance?,"Drama,Romance,Comedy"
 Small Soldiers,"Comedy,Adventure,Fantasy,Science Fiction,Action"
 Spawn,"Action,Adventure,Fantasy,Horror,Science Fiction,Thriller"
@@ -1196,7 +1196,7 @@ The Count of Monte Cristo,"Action,Adventure,Drama,Thriller"
 The Lincoln Lawyer,"Crime,Drama,Thriller"
 Unknown,"Action,Mystery,Thriller"
 The Prestige,"Drama,Mystery,Thriller"
-Horrible Bosses 2,"C,o,m,e,d,y"
+Horrible Bosses 2,Comedy
 Escape from Planet Earth,"Animation,Comedy,Adventure,Family,Science Fiction"
 Apocalypto,"Action,Adventure,Drama,Thriller"
 The Living Daylights,"Action,Adventure,Thriller"
@@ -1211,46 +1211,46 @@ Jersey Boys,"Music,Drama"
 The Rainmaker,"Drama,Crime,Thriller"
 Gothika,"Horror,Thriller"
 Amistad,"Drama,History,Mystery"
-Medicine Man,"A,d,v,e,n,t,u,r,e"
+Medicine Man,Adventure
 Aliens vs Predator: Requiem,"Fantasy,Action,Science Fiction,Thriller,Horror"
 Ri¢hie Ri¢h,"Comedy,Family"
 Autumn in New York,"Drama,Romance"
 Music and Lyrics,"Comedy,Music,Romance"
 Paul,"Adventure,Comedy,Science Fiction"
-The Guilt Trip,"C,o,m,e,d,y"
+The Guilt Trip,Comedy
 Scream 4,"Horror,Mystery"
 8MM,"Thriller,Crime,Mystery"
 The Doors,"Drama,Music"
-Sex Tape,"C,o,m,e,d,y"
+Sex Tape,Comedy
 Hanging Up,"Comedy,Drama"
 Final Destination 5,"Horror,Mystery"
 Mickey Blue Eyes,"Comedy,Crime,Romance"
 Pay It Forward,"Drama,Romance"
 Fever Pitch,"Comedy,Drama,Romance"
-Drillbit Taylor,"C,o,m,e,d,y"
+Drillbit Taylor,Comedy
 A Million Ways to Die in the West,"Comedy,Western"
 The Shadow,"Adventure,Fantasy,Action,Thriller,Science Fiction"
-Extremely Loud & Incredibly Close,"D,r,a,m,a"
+Extremely Loud & Incredibly Close,Drama
 Morning Glory,"Comedy,Drama,Romance"
-Get Rich or Die Tryin',"D,r,a,m,a"
+Get Rich or Die Tryin',Drama
 The Art of War,"Crime,Action,Adventure"
 Rent,"Drama,Romance"
 Bless the Child,"Drama,Horror,Thriller,Crime"
-The Out-of-Towners,"C,o,m,e,d,y"
+The Out-of-Towners,Comedy
 The Island of Dr. Moreau,"Fantasy,Horror,Science Fiction"
 The Musketeer,"Action,Adventure,Drama"
-The Other Boleyn Girl,"D,r,a,m,a"
+The Other Boleyn Girl,Drama
 Sweet November,"Drama,Romance"
-The Reaping,"H,o,r,r,o,r"
+The Reaping,Horror
 Mean Streets,"Drama,Crime"
 Renaissance Man,"Comedy,War"
 Colombiana,"Action,Thriller,Crime,Drama"
 Quest for Camelot,"Fantasy,Animation,Drama,Romance,Family"
 City By The Sea,"Crime,Drama,Mystery"
 At First Sight,"Drama,Romance"
-Torque,"A,c,t,i,o,n"
+Torque,Action
 City Hall,"Drama,Thriller"
-Showgirls,"D,r,a,m,a"
+Showgirls,Drama
 Marie Antoinette,"Drama,History"
 Kiss of Death,"Action,Crime,Drama,Thriller"
 Get Carter,"Action,Drama,Thriller,Crime"
@@ -1260,8 +1260,8 @@ Fantastic Mr. Fox,"Adventure,Animation,Comedy,Family"
 Life or Something Like It,"Comedy,Drama,Romance"
 Memoirs of an Invisible Man,"Comedy,Fantasy,Science Fiction"
 Amélie,"Comedy,Romance"
-New York Minute,"C,o,m,e,d,y"
-Alfie,"C,o,m,e,d,y"
+New York Minute,Comedy
+Alfie,Comedy
 Big Miracle,"Adventure,Drama,Romance"
 The Deep End of the Ocean,"Drama,Mystery"
 FearDotCom,"Horror,Thriller"
@@ -1291,12 +1291,12 @@ The Last Shot,"Action,Comedy"
 The Crow,"Fantasy,Action,Thriller"
 Baahubali: The Beginning,"Action,Adventure,War,History"
 The Time Traveler's Wife,"Drama,Romance,Fantasy"
-Because I Said So,"C,o,m,e,d,y"
+Because I Said So,Comedy
 Frankenweenie,"Animation,Comedy,Family"
 Serenity,"Science Fiction,Action,Adventure,Thriller"
 Against the Ropes,"Romance,Drama"
 Superman III,"Comedy,Action,Adventure,Fantasy,Science Fiction"
-Grudge Match,"C,o,m,e,d,y"
+Grudge Match,Comedy
 Red Cliff,"Adventure,Drama,Action"
 Sweet Home Alabama,"Comedy,Romance"
 The Ugly Truth,"Comedy,Romance"
@@ -1306,33 +1306,33 @@ Star Trek: Generations,"Science Fiction,Action,Adventure,Thriller"
 The Grandmaster,"Action,Drama,History"
 Water for Elephants,"Drama,Romance"
 Dragon Nest: Warriors' Dawn,"Adventure,Family,Fantasy,Animation"
-The Hurricane,"D,r,a,m,a"
+The Hurricane,Drama
 Enough,"Drama,Thriller"
 Heartbreakers,"Crime,Comedy,Romance"
 Paul Blart: Mall Cop 2,"Action,Comedy,Family"
 Angel Eyes,"Drama,Romance,Thriller"
-Joe Somebody,"C,o,m,e,d,y"
+Joe Somebody,Comedy
 The Ninth Gate,"Horror,Mystery,Thriller"
 Extreme Measures,"Drama,Thriller"
 Rock Star,"Music,Drama,Comedy"
-Precious,"D,r,a,m,a"
+Precious,Drama
 White Squall,"Action,Drama"
 The Thing,"Horror,Mystery,Science Fiction"
 Riddick,"Science Fiction,Action,Thriller"
 Switchback,"Action,Adventure,Mystery,Thriller"
 Texas Rangers,"Action,Western"
 City of Ember,"Adventure,Family,Fantasy"
-The Master,"D,r,a,m,a"
+The Master,Drama
 Virgin Territory,"Adventure,Action,Comedy,Romance"
-The Express,"D,r,a,m,a"
+The Express,Drama
 The 5th Wave,"Adventure,Science Fiction"
-Creed,"D,r,a,m,a"
+Creed,Drama
 The Town,"Crime,Drama,Thriller"
 What to Expect When You're Expecting,"Romance,Comedy,Drama"
 Burn After Reading,"Comedy,Drama"
 Nim's Island,"Adventure,Comedy,Family,Fantasy"
 Rush,"Drama,Action"
-Magnolia,"D,r,a,m,a"
+Magnolia,Drama
 Cop Out,"Action,Comedy,Crime"
 How to Be Single,"Comedy,Romance"
 Dolphin Tale,"Drama,Family"
@@ -1345,7 +1345,7 @@ Breakdown,"Drama,Action,Thriller"
 Never Say Never Again,"Adventure,Action,Thriller"
 Hot Tub Time Machine,"Science Fiction,Comedy,Adventure"
 Dolphin Tale 2,"Family,Drama"
-Reindeer Games,"T,h,r,i,l,l,e,r"
+Reindeer Games,Thriller
 A Man Apart,"Action,Drama"
 Aloha,"Drama,Comedy,Romance"
 Ghosts of Mississippi,"History,Drama"
@@ -1354,14 +1354,14 @@ The Rite,"Drama,Thriller,Horror"
 Gattaca,"Thriller,Science Fiction,Mystery,Romance"
 Isn't She Great,"Drama,Comedy"
 Space Chimps,"Animation,Family"
-Head of State,"C,o,m,e,d,y"
-The Hangover,"C,o,m,e,d,y"
+Head of State,Comedy
+The Hangover,Comedy
 Ip Man 3,"Action,Drama,History"
 Austin Powers: The Spy Who Shagged Me,"Adventure,Comedy,Crime,Science Fiction"
 Batman,"Fantasy,Action"
-There Be Dragons,"D,r,a,m,a"
+There Be Dragons,Drama
 Lethal Weapon 3,"Adventure,Action,Comedy,Thriller,Crime"
-The Blind Side,"D,r,a,m,a"
+The Blind Side,Drama
 Spy Kids,"Action,Comedy,Family,Adventure"
 Horrible Bosses,"Comedy,Crime"
 True Grit,"Drama,Adventure,Western"
@@ -1370,34 +1370,34 @@ Star Trek: The Motion Picture,"Science Fiction,Adventure,Mystery"
 Identity Thief,"Comedy,Crime"
 Cape Fear,"Crime,Thriller"
 21,"Drama,Crime"
-Trainwreck,"C,o,m,e,d,y"
+Trainwreck,Comedy
 Guess Who,"Comedy,Romance"
 The English Patient,"Drama,Romance,War"
 L.A. Confidential,"Crime,Drama,Mystery,Thriller"
 Sky High,"Adventure,Comedy,Family"
 In & Out,"Comedy,Romance"
 Species,"Science Fiction,Horror,Action"
-A Nightmare on Elm Street,"H,o,r,r,o,r"
+A Nightmare on Elm Street,Horror
 The Cell,"Horror,Science Fiction,Thriller"
 The Man in the Iron Mask,"Action,Adventure,Drama"
-Secretariat,"D,r,a,m,a"
+Secretariat,Drama
 TMNT,"Adventure,Animation,Comedy,Family"
-Radio,"D,r,a,m,a"
+Radio,Drama
 Friends with Benefits,"Romance,Comedy"
-Neighbors 2: Sorority Rising,"C,o,m,e,d,y"
+Neighbors 2: Sorority Rising,Comedy
 Saving Mr. Banks,"Comedy,Drama,History"
 Malcolm X,"Drama,History"
-This Is 40,"C,o,m,e,d,y"
+This Is 40,Comedy
 Old Dogs,"Comedy,Family"
 Underworld: Rise of the Lycans,"Fantasy,Action,Adventure,Science Fiction,Thriller"
-License to Wed,"C,o,m,e,d,y"
-The Benchwarmers,"C,o,m,e,d,y"
+License to Wed,Comedy
+The Benchwarmers,Comedy
 Must Love Dogs,"Comedy,Romance"
 Donnie Brasco,"Crime,Drama,Thriller"
 Resident Evil,"Horror,Action,Science Fiction"
-Poltergeist,"H,o,r,r,o,r"
+Poltergeist,Horror
 The Ladykillers,"Comedy,Crime,Thriller"
-Max Payne,"A,c,t,i,o,n"
+Max Payne,Action
 In Time,"Action,Thriller,Science Fiction"
 The Back-Up Plan,"Comedy,Romance"
 Something Borrowed,"Comedy,Drama,Romance"
@@ -1406,15 +1406,15 @@ The Bad News Bears,"Comedy,Family"
 Street Fighter,"Action,Adventure,Thriller"
 The Pianist,"Drama,War"
 The Nativity Story,"Drama,History"
-House of Wax,"H,o,r,r,o,r"
+House of Wax,Horror
 Closer,"Drama,Romance"
 J. Edgar,"Drama,Crime,History"
 Mirrors,"Horror,Mystery,Thriller"
 Queen of the Damned,"Drama,Fantasy,Horror"
 Predator 2,"Science Fiction,Action,Thriller"
-Untraceable,"D,r,a,m,a"
+Untraceable,Drama
 Blast from the Past,"Comedy,Romance"
-Flash Gordon,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Flash Gordon,Science Fiction
 Jersey Girl,"Comedy,Romance"
 Alex Cross,"Action,Thriller,Crime,Mystery"
 Midnight in the Garden of Good and Evil,"Crime,Drama,Mystery,Thriller"
@@ -1423,7 +1423,7 @@ Nanny McPhee and the Big Bang,"Comedy,Fantasy"
 Hoffa,"Crime,History"
 The X Files: I Want to Believe,"Drama,Mystery,Science Fiction,Thriller"
 Ella Enchanted,"Family,Fantasy,Comedy"
-Concussion,"D,r,a,m,a"
+Concussion,Drama
 Abduction,"Thriller,Action,Mystery"
 Valiant,"Animation,Family,Adventure"
 Wonder Boys,"Comedy,Drama"
@@ -1435,7 +1435,7 @@ Hot Pursuit,"Action,Comedy,Crime"
 The Four Feathers,"War,Adventure,Drama,Romance"
 Parker,"Action,Crime"
 Wimbledon,"Comedy,Romance"
-Furry Vengeance,"C,o,m,e,d,y"
+Furry Vengeance,Comedy
 Bait,"Action,Horror,Thriller"
 Krull,"Fantasy,Action,Adventure"
 Lions for Lambs,"Action,Adventure,Drama,History"
@@ -1454,18 +1454,18 @@ Zoom,"Family,Fantasy,Comedy"
 The Walk,"Adventure,Drama,Thriller"
 Warriors of Virtue,"Fantasy,Family,Action"
 A Good Year,"Comedy,Drama,Romance"
-Radio Flyer,"D,r,a,m,a"
+Radio Flyer,Drama
 Bound by Honor,"Action,Crime,Drama,Thriller"
 Smilla's Sense of Snow,"Action,Crime,Drama,Mystery,Thriller"
 Femme Fatale,"Thriller,Crime,Romance"
 Lion of the Desert,"Action,History,War"
 The Horseman on the Roof,"War,Adventure,Drama,Romance"
 Ride with the Devil,"Drama,War,Romance,Western"
-Biutiful,"D,r,a,m,a"
+Biutiful,Drama
 Bandidas,"Action,Comedy,Western,Crime"
 Black Water Transit,"Drama,Crime"
 The Maze Runner,"Action,Mystery,Science Fiction,Thriller"
-Unfinished Business,"C,o,m,e,d,y"
+Unfinished Business,Comedy
 The Age of Innocence,"Drama,Romance"
 The Fountain,"Drama,Adventure,Science Fiction,Romance"
 Chill Factor,"Action,Comedy,Thriller"
@@ -1477,7 +1477,7 @@ I Dreamed of Africa,"Romance,Drama,Adventure"
 Playing for Keeps,"Comedy,Romance"
 Mandela: Long Walk to Freedom,"Drama,History"
 Reds,"Drama,History"
-A Few Good Men,"D,r,a,m,a"
+A Few Good Men,Drama
 Exit Wounds,"Action,Crime,Thriller"
 Big Momma's House,"Crime,Comedy"
 Thunder and the House of Magic,"Family,Fantasy,Animation,Adventure"
@@ -1486,13 +1486,13 @@ Step Up Revolution,"Music,Drama,Romance"
 Snakes on a Plane,"Action,Crime,Horror,Thriller"
 The Watcher,"Mystery,Thriller"
 The Punisher,"Action,Crime,Drama"
-Goal!: The Dream Begins,"D,r,a,m,a"
+Goal!: The Dream Begins,Drama
 Safe,"Action,Crime,Thriller"
 Pushing Tin,"Comedy,Drama"
 Return of the Jedi,"Adventure,Action,Science Fiction"
 Doomsday,"Action,Thriller,Science Fiction"
 The Reader,"Drama,Romance"
-Wanderlust,"C,o,m,e,d,y"
+Wanderlust,Comedy
 Elf,"Comedy,Family,Fantasy"
 Phenomenon,"Drama,Fantasy,Romance,Science Fiction"
 Snow Dogs,"Adventure,Comedy,Family"
@@ -1500,10 +1500,10 @@ Scrooged,"Fantasy,Comedy,Drama"
 Nacho Libre,"Comedy,Family"
 Bridesmaids,"Comedy,Romance"
 This Is the End,"Action,Comedy"
-Stigmata,"H,o,r,r,o,r"
-Men of Honor,"D,r,a,m,a"
+Stigmata,Horror
+Men of Honor,Drama
 Takers,"Action,Crime,Drama,Thriller"
-The Big Wedding,"C,o,m,e,d,y"
+The Big Wedding,Comedy
 "Big Mommas: Like Father, Like Son","Crime,Comedy,Action"
 Source Code,"Thriller,Science Fiction,Mystery"
 Alive,"Action,Adventure,Drama,Thriller"
@@ -1515,27 +1515,27 @@ A History of Violence,"Drama,Thriller,Crime"
 Transporter 2,"Action,Thriller,Crime"
 The Quick and the Dead,"Action,Western"
 Laws of Attraction,"Action,Comedy,Romance,Thriller"
-Bringing Out the Dead,"D,r,a,m,a"
+Bringing Out the Dead,Drama
 Repo Men,"Action,Science Fiction,Thriller,Crime"
 Dragon Wars: D-War,"Fantasy,Drama,Horror,Action,Thriller,Science Fiction"
 Bogus,"Fantasy,Comedy,Family"
-The Incredible Burt Wonderstone,"C,o,m,e,d,y"
+The Incredible Burt Wonderstone,Comedy
 Cats Don't Dance,"Animation,Comedy,Family,Music"
-Cradle Will Rock,"D,r,a,m,a"
+Cradle Will Rock,Drama
 The Good German,"War,Crime,Drama,Mystery,Romance,Thriller"
-George and the Dragon,"A,d,v,e,n,t,u,r,e"
+George and the Dragon,Adventure
 Apocalypse Now,"Drama,War"
 Going the Distance,"Comedy,Drama,Romance"
 Mr. Holland's Opus,"Music,Drama,Family"
-Criminal,"A,c,t,i,o,n"
-Out of Africa,"D,r,a,m,a"
-Flight,"D,r,a,m,a"
+Criminal,Action
+Out of Africa,Drama
+Flight,Drama
 Moonraker,"Action,Adventure,Thriller,Science Fiction"
 The Grand Budapest Hotel,"Comedy,Drama"
 Hearts in Atlantis,"Drama,Mystery"
 Arachnophobia,"Comedy,Horror"
 Frequency,"Crime,Drama,Science Fiction,Thriller"
-Vacation,"C,o,m,e,d,y"
+Vacation,Comedy
 Get Shorty,"Comedy,Thriller,Crime"
 Chicago,"Action,Comedy,Crime,Drama,Music"
 Big Daddy,"Comedy,Drama"
@@ -1543,20 +1543,20 @@ American Pie 2,"Comedy,Romance"
 Toy Story,"Animation,Comedy,Family"
 Speed,"Action,Adventure,Crime"
 The Vow,"Drama,Romance"
-Extraordinary Measures,"D,r,a,m,a"
-Remember the Titans,"D,r,a,m,a"
+Extraordinary Measures,Drama
+Remember the Titans,Drama
 The Hunt for Red October,"Action,Adventure,Thriller"
-The Butler,"D,r,a,m,a"
-DodgeBall: A True Underdog Story,"C,o,m,e,d,y"
+The Butler,Drama
+DodgeBall: A True Underdog Story,Comedy
 The Addams Family,"Horror,Comedy,Fantasy"
 Ace Ventura: When Nature Calls,"Crime,Comedy,Adventure"
 The Princess Diaries,"Comedy,Family,Romance"
-The First Wives Club,"C,o,m,e,d,y"
+The First Wives Club,Comedy
 Se7en,"Crime,Mystery,Thriller"
-District 9,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+District 9,Science Fiction
 The SpongeBob SquarePants Movie,"Animation,Comedy,Family"
 Mystic River,"Thriller,Crime,Drama,Mystery"
-Million Dollar Baby,"D,r,a,m,a"
+Million Dollar Baby,Drama
 Analyze This,"Comedy,Crime"
 The Notebook,"Romance,Drama"
 27 Dresses,"Comedy,Romance"
@@ -1573,9 +1573,9 @@ Babe,"Fantasy,Drama,Comedy,Family"
 Hope Springs,"Drama,Comedy,Romance"
 Forgetting Sarah Marshall,"Comedy,Romance,Drama"
 Four Brothers,"Action,Crime"
-Baby Mama,"C,o,m,e,d,y"
+Baby Mama,Comedy
 Hope Floats,"Drama,Romance"
-Bride Wars,"C,o,m,e,d,y"
+Bride Wars,Comedy
 Without a Paddle,"Action,Adventure,Comedy,Thriller"
 13 Going on 30,"Comedy,Fantasy,Romance"
 Midnight in Paris,"Fantasy,Comedy,Romance"
@@ -1588,24 +1588,24 @@ The Naked Gun 33⅓: The Final Insult,"Comedy,Crime"
 A View to a Kill,"Adventure,Action,Thriller"
 The Curse of the Were-Rabbit,"Adventure,Animation,Comedy,Family"
 P.S. I Love You,"Drama,Romance"
-Racing Stripes,"C,o,m,e,d,y"
+Racing Stripes,Comedy
 Atonement,"Drama,Romance"
 Letters to Juliet,"Comedy,Drama,Romance"
 Black Rain,"Action,Thriller,Crime"
-The Three Stooges,"C,o,m,e,d,y"
+The Three Stooges,Comedy
 Corpse Bride,"Romance,Fantasy,Animation,Music"
-Glory Road,"D,r,a,m,a"
+Glory Road,Drama
 Sicario,"Action,Crime,Drama,Mystery,Thriller"
 Southpaw,"Action,Drama"
 Drag Me to Hell,"Horror,Thriller"
 The Age of Adaline,"Fantasy,Drama,Romance"
 Secondhand Lions,"Comedy,Drama,Family"
 Step Up 3D,"Drama,Romance"
-Blue Crush,"A,d,v,e,n,t,u,r,e"
+Blue Crush,Adventure
 Stranger Than Fiction,"Comedy,Drama,Fantasy,Romance"
 30 Days of Night,"Horror,Thriller"
 The Cabin in the Woods,"Horror,Thriller"
-Meet the Spartans,"C,o,m,e,d,y"
+Meet the Spartans,Comedy
 Midnight Run,"Adventure,Comedy,Crime"
 The Running Man,"Action,Science Fiction"
 Little Shop of Horrors,"Horror,Comedy,Music"
@@ -1613,14 +1613,14 @@ Hanna,"Action,Thriller,Adventure"
 Mortal Kombat: Annihilation,"Action,Fantasy,Science Fiction"
 Larry Crowne,"Comedy,Romance,Drama"
 Carrie,"Drama,Horror"
-Take the Lead,"M,u,s,i,c"
+Take the Lead,Music
 Gridiron Gang,"Action,Adventure,Crime,Drama"
 What's the Worst That Could Happen?,"Action,Comedy"
 9,"Action,Adventure,Animation,Science Fiction,Thriller"
 Side Effects,"Thriller,Crime,Drama"
 The Prince & Me,"Comedy,Romance"
 Winnie the Pooh,"Animation,Family"
-Dumb and Dumberer: When Harry Met Lloyd,"C,o,m,e,d,y"
+Dumb and Dumberer: When Harry Met Lloyd,Comedy
 Bulworth,"Comedy,Drama"
 Get on Up,"Drama,Music"
 One True Thing,"Drama,Romance"
@@ -1629,17 +1629,17 @@ My Super Ex-Girlfriend,"Fantasy,Drama,Action,Comedy,Crime,Science Fiction"
 Deliver Us from Evil,"Thriller,Crime,Horror"
 Sanctum,"Action,Thriller"
 Little Black Book,"Comedy,Romance,Drama"
-The Five-Year Engagement,"C,o,m,e,d,y"
+The Five-Year Engagement,Comedy
 Mr. 3000,"Comedy,Drama"
 The Next Three Days,"Romance,Drama,Thriller,Crime"
 Ultraviolet,"Science Fiction,Action,Thriller"
-Assault on Precinct 13,"T,h,r,i,l,l,e,r"
+Assault on Precinct 13,Thriller
 The Replacement Killers,"Action,Drama,Crime,Thriller"
 Fled,"Action,Comedy,Thriller"
 Eight Legged Freaks,"Action,Comedy,Horror,Thriller"
 Love & Other Drugs,"Drama,Comedy,Romance"
 88 Minutes,"Crime,Mystery,Thriller"
-North Country,"D,r,a,m,a"
+North Country,Drama
 The Whole Ten Yards,"Comedy,Thriller,Crime"
 Splice,"Horror,Thriller,Science Fiction"
 Howard the Duck,"Comedy,Fantasy,Science Fiction"
@@ -1656,12 +1656,12 @@ The Last Stand,"Action,Crime,Thriller"
 Godsend,"Drama,Horror,Science Fiction,Thriller"
 Chasing Liberty,"Comedy,Romance"
 Hoodwinked Too! Hood VS. Evil,"Comedy,Animation,Family"
-An Unfinished Life,"D,r,a,m,a"
+An Unfinished Life,Drama
 The Imaginarium of Doctor Parnassus,"Adventure,Fantasy,Mystery"
 Barney's Version,"Comedy,Drama"
 Runner Runner,"Crime,Thriller,Drama"
 Antitrust,"Action,Crime,Drama"
-Glory,"W,a,r"
+Glory,War
 Once Upon a Time in America,"Drama,Crime"
 Dead Man Down,"Thriller,Action,Crime,Drama"
 The Merchant of Venice,"Drama,Romance"
@@ -1672,25 +1672,25 @@ The Promise,"Fantasy,Drama,Action,Thriller,Romance"
 DOA: Dead or Alive,"Adventure,Action,Thriller"
 The Assassination of Jesse James by the Coward Robert Ford,"Action,Drama,Western"
 1911,"Adventure,Drama,Action,History,War"
-Little Nicholas,"C,o,m,e,d,y"
+Little Nicholas,Comedy
 Wild Card,"Thriller,Crime,Drama"
 Machine Gun Preacher,"Action,Thriller,Crime"
 Animals United,"Animation,Family,Comedy"
 Goodbye Bafana,"History,Drama"
-United Passions,"D,r,a,m,a"
+United Passions,Drama
 Grace of Monaco,"Romance,Drama"
 Savva. Heart of the Warrior,"Fantasy,Adventure,Animation"
 Ripley's Game,"Crime,Thriller"
 Sausage Party,"Adventure,Animation,Comedy,Fantasy"
 Pitch Perfect 2,"Comedy,Music"
 Walk the Line,"Drama,Music,Romance"
-Keeping the Faith,"C,o,m,e,d,y"
+Keeping the Faith,Comedy
 The Borrowers,"Adventure,Fantasy,Action,Comedy,Family"
 Frost/Nixon,"Drama,History"
 Confessions of a Dangerous Mind,"Comedy,Crime,Drama,Romance,Thriller"
 Serving Sara,"Comedy,Romance"
-The Boss,"C,o,m,e,d,y"
-Cry Freedom,"D,r,a,m,a"
+The Boss,Comedy
+Cry Freedom,Drama
 Mumford,"Comedy,Drama,Romance"
 Seed of Chucky,"Drama,Horror,Comedy"
 The Jacket,"Drama,Mystery,Thriller,Fantasy"
@@ -1700,36 +1700,36 @@ Indiana Jones and the Temple of Doom,"Adventure,Action"
 The Rugrats Movie,"Animation,Family"
 Along Came a Spider,"Crime,Mystery,Thriller,Action"
 Florence Foster Jenkins,"Comedy,Drama"
-Once Upon a Time in Mexico,"A,c,t,i,o,n"
+Once Upon a Time in Mexico,Action
 Die Hard,"Action,Thriller"
-Role Models,"C,o,m,e,d,y"
+Role Models,Comedy
 The Big Short,"Comedy,Drama"
 Taking Woodstock,"Music,Comedy,Drama"
 Miracle,"Drama,History"
 Dawn of the Dead,"Fantasy,Horror,Action"
-The Wedding Planner,"C,o,m,e,d,y"
+The Wedding Planner,Comedy
 Space Pirate Captain Harlock,"Animation,Science Fiction"
 The Royal Tenenbaums,"Comedy,Drama"
 Identity,"Mystery,Thriller"
-Last Vegas,"C,o,m,e,d,y"
+Last Vegas,Comedy
 For Your Eyes Only,"Adventure,Action,Thriller"
 Serendipity,"Comedy,Romance"
 Timecop,"Thriller,Science Fiction,Action,Crime"
-Zoolander,"C,o,m,e,d,y"
-Safe Haven,"R,o,m,a,n,c,e"
+Zoolander,Comedy
+Safe Haven,Romance
 Hocus Pocus,"Comedy,Family,Fantasy"
-No Reservations,"C,o,m,e,d,y"
+No Reservations,Comedy
 Kick-Ass,"Action,Crime"
 30 Minutes or Less,"Action,Adventure,Comedy"
 Dracula 2000,"Thriller,Horror"
 "Alexander and the Terrible, Horrible, No Good, Very Bad Day","Family,Comedy"
 Pride & Prejudice,"Drama,Romance"
 Blade Runner,"Science Fiction,Drama,Thriller"
-Rob Roy,"A,d,v,e,n,t,u,r,e"
+Rob Roy,Adventure
 3 Days to Kill,"Action,Drama,Thriller,Crime"
 We Own the Night,"Drama,Crime,Thriller"
 Lost Souls,"Horror,Thriller"
-Winged Migration,"D,o,c,u,m,e,n,t,a,r,y"
+Winged Migration,Documentary
 Just My Luck,"Comedy,Drama,Family,Fantasy,Romance"
 "Mystery, Alaska","Drama,Comedy"
 The Spy Next Door,"Action,Comedy,Family"
@@ -1737,14 +1737,14 @@ A Simple Wish,"Adventure,Comedy,Family,Fantasy"
 Ghosts of Mars,"Action,Horror,Science Fiction"
 Our Brand Is Crisis,"Comedy,Drama"
 Pride and Prejudice and Zombies,"Romance,Horror,Comedy,Thriller"
-Kundun,"D,r,a,m,a"
+Kundun,Drama
 How to Lose Friends & Alienate People,"Comedy,Romance,Drama"
 Kick-Ass 2,"Action,Adventure,Crime"
-Alatriste,"A,c,t,i,o,n"
+Alatriste,Action
 Brick Mansions,"Action,Crime,Drama"
 Octopussy,"Adventure,Action,Thriller"
 Knocked Up,"Comedy,Romance,Drama"
-My Sister's Keeper,"D,r,a,m,a"
+My Sister's Keeper,Drama
 Welcome Home Roscoe Jenkins,"Comedy,Drama"
 A Passage to India,"Drama,Adventure,History"
 Notes on a Scandal,"Drama,Romance"
@@ -1767,9 +1767,9 @@ Return to Oz,"Adventure,Family,Fantasy"
 The Newton Boys,"Crime,Action,Drama"
 Case 39,"Horror,Mystery,Thriller"
 Suspect Zero,"Crime,Thriller"
-Martian Child,"D,r,a,m,a"
+Martian Child,Drama
 Spy Kids: All the Time in the World,"Family,Comedy,Action"
-Money Monster,"T,h,r,i,l,l,e,r"
+Money Monster,Thriller
 The 51st State,"Thriller,Action,Comedy,Crime"
 Flawless,"Comedy,Drama"
 Mindhunters,"Mystery,Thriller,Crime"
@@ -1777,30 +1777,30 @@ What Just Happened,"Comedy,Drama"
 The Statement,"Drama,Thriller"
 The Magic Flute,"Comedy,Drama,Music"
 Paul Blart: Mall Cop,"Action,Adventure,Comedy,Family"
-Freaky Friday,"C,o,m,e,d,y"
+Freaky Friday,Comedy
 The 40 Year Old Virgin,"Comedy,Romance"
 Shakespeare in Love,"Romance,History"
 A Walk Among the Tombstones,"Crime,Drama,Mystery,Thriller"
-Kindergarten Cop,"C,o,m,e,d,y"
+Kindergarten Cop,Comedy
 Pineapple Express,"Action,Comedy"
 Ever After: A Cinderella Story,"Drama,Romance,Comedy"
-Open Range,"W,e,s,t,e,r,n"
+Open Range,Western
 Flatliners,"Drama,Horror,Science Fiction,Thriller"
 A Bridge Too Far,"Drama,History,War"
 Red Eye,"Horror,Thriller"
 Final Destination 2,"Horror,Mystery"
 "O Brother, Where Art Thou?","Action,Adventure,Comedy"
-Legion,"H,o,r,r,o,r"
+Legion,Horror
 Pain & Gain,"Thriller,Crime,Action"
 In Good Company,"Comedy,Drama,Romance"
 Clockstoppers,"Adventure,Family,Science Fiction,Thriller"
 Silverado,"Action,Crime,Drama,Western"
 Brothers,"Drama,Thriller,War"
-Agent Cody Banks 2: Destination London,"C,o,m,e,d,y"
+Agent Cody Banks 2: Destination London,Comedy
 New Year's Eve,"Comedy,Romance"
 Original Sin,"Drama,Thriller,Mystery,Romance"
 The Raven,"Crime,Thriller,Mystery"
-Welcome to Mooseport,"C,o,m,e,d,y"
+Welcome to Mooseport,Comedy
 Highlander: The Final Dimension,"Action,Fantasy,Science Fiction"
 Blood and Wine,"Crime,Drama,Thriller"
 Snow White: A Tale of Terror,"Fantasy,Horror"
@@ -1809,20 +1809,20 @@ Accidental Love,"Romance,Comedy"
 Flipper,"Adventure,Family"
 Self/less,"Science Fiction,Mystery,Thriller"
 The Constant Gardener,"Drama,Mystery,Thriller"
-The Passion of the Christ,"D,r,a,m,a"
+The Passion of the Christ,Drama
 Mrs. Doubtfire,"Comedy,Drama,Family"
-Rain Man,"D,r,a,m,a"
-Gran Torino,"D,r,a,m,a"
+Rain Man,Drama
+Gran Torino,Drama
 W.,"Drama,History"
 Taken,"Action,Thriller"
 The Best of Me,"Drama,Romance"
 The Bodyguard,"Thriller,Action,Drama,Music,Romance"
 Schindler's List,"Drama,History,War"
-The Help,"D,r,a,m,a"
+The Help,Drama
 The Fifth Estate,"Drama,Thriller"
 Scooby-Doo 2: Monsters Unleashed,"Mystery,Fantasy,Adventure,Comedy"
 Forbidden Kingdom,"Thriller,Adventure,Mystery,Fantasy"
-Freddy vs. Jason,"H,o,r,r,o,r"
+Freddy vs. Jason,Horror
 The Face of an Angel,"Thriller,Drama"
 Jimmy Neutron: Boy Genius,"Action,Adventure,Animation,Comedy,Family,Fantasy,Science Fiction"
 Cloverfield,"Action,Thriller,Science Fiction"
@@ -1832,8 +1832,8 @@ No Country for Old Men,"Crime,Drama,Thriller"
 Ride Along,"Action,Comedy"
 Bridget Jones's Diary,"Comedy,Romance,Drama"
 Chocolat,"Comedy,Drama,Romance"
-"Legally Blonde 2: Red, White & Blonde","C,o,m,e,d,y"
-Parental Guidance,"C,o,m,e,d,y"
+"Legally Blonde 2: Red, White & Blonde",Comedy
+Parental Guidance,Comedy
 No Strings Attached,"Comedy,Romance"
 Tombstone,"Action,Adventure,Drama,History,Western"
 Romeo Must Die,"Action,Crime,Thriller"
@@ -1841,20 +1841,20 @@ The Omen,"Horror,Thriller"
 Final Destination 3,"Horror,Mystery"
 The Lucky One,"Drama,Romance"
 Bridge to Terabithia,"Adventure,Drama,Family"
-Finding Neverland,"D,r,a,m,a"
+Finding Neverland,Drama
 A Madea Christmas,"Comedy,Drama"
 The Grey,"Action,Drama,Thriller"
 Hide and Seek,"Horror,Mystery,Thriller"
-Anchorman: The Legend of Ron Burgundy,"C,o,m,e,d,y"
+Anchorman: The Legend of Ron Burgundy,Comedy
 GoodFellas,"Drama,Crime"
-Agent Cody Banks,"A,c,t,i,o,n"
+Agent Cody Banks,Action
 Nanny McPhee,"Fantasy,Comedy,Family"
 Scarface,"Action,Crime,Drama,Thriller"
 Nothing to Lose,"Action,Adventure,Comedy"
 The Last Emperor,"Drama,History"
 Contraband,"Thriller,Action,Drama,Crime"
 Money Talks,"Action,Adventure,Comedy"
-There Will Be Blood,"D,r,a,m,a"
+There Will Be Blood,Drama
 The Wild Thornberrys Movie,"Animation,Adventure,Family"
 Rugrats Go Wild,"Animation,Family"
 Undercover Brother,"Action,Comedy"
@@ -1862,60 +1862,60 @@ The Sisterhood of the Traveling Pants,"Drama,Comedy"
 Kiss of the Dragon,"Action,Crime,Thriller"
 The House Bunny,"Romance,Comedy"
 Beauty Shop,"Comedy,Romance"
-Million Dollar Arm,"D,r,a,m,a"
+Million Dollar Arm,Drama
 The Giver,"Drama,Science Fiction"
-What a Girl Wants,"C,o,m,e,d,y"
+What a Girl Wants,Comedy
 Jeepers Creepers 2,"Horror,Thriller"
 Good Luck Chuck,"Comedy,Drama,Romance"
 Cradle 2 the Grave,"Action,Crime,Drama"
-The Hours,"D,r,a,m,a"
+The Hours,Drama
 She's the Man,"Comedy,Drama,Family,Romance"
 Mr. Bean's Holiday,"Family,Comedy"
 Anacondas: The Hunt for the Blood Orchid,"Adventure,Action,Horror,Science Fiction,Thriller"
 Blood Ties,"Thriller,Crime,Drama"
-August Rush,"D,r,a,m,a"
+August Rush,Drama
 Elizabeth,"Drama,History"
 Bride of Chucky,"Horror,Comedy"
 Tora! Tora! Tora!,"History,Action,Drama,Adventure,War"
 Spice World,"Adventure,Fantasy,Drama,Comedy,Music"
-The Sitter,"C,o,m,e,d,y"
+The Sitter,Comedy
 Dance Flick,"Action,Comedy,Music"
 The Shawshank Redemption,"Drama,Crime"
 Crocodile Dundee in Los Angeles,"Adventure,Comedy"
-Kingpin,"C,o,m,e,d,y"
+Kingpin,Comedy
 The Gambler,"Thriller,Crime,Drama"
 August: Osage County,"Comedy,Drama"
 Ice Princess,"Drama,Comedy,Family"
-A Lot Like Love,"C,o,m,e,d,y"
+A Lot Like Love,Comedy
 Eddie the Eagle,"Comedy,Drama,History"
-He Got Game,"D,r,a,m,a"
+He Got Game,Drama
 Don Juan DeMarco,"Romance,Drama,Comedy"
 Dear John,"Drama,Romance,War"
 The Losers,"Action,Adventure,Crime,Mystery,Thriller"
 Don't Be Afraid of the Dark,"Fantasy,Horror,Thriller"
 War,"Action,Thriller,Crime"
 Punch-Drunk Love,"Comedy,Drama,Romance"
-EuroTrip,"C,o,m,e,d,y"
+EuroTrip,Comedy
 Half Past Dead,"Crime,Action,Thriller"
 Unaccompanied Minors,"Comedy,Family"
-"Bright Lights, Big City","D,r,a,m,a"
+"Bright Lights, Big City",Drama
 The Adventures of Pinocchio,"Animation,Family,Fantasy"
 The Greatest Game Ever Played,"Drama,Family"
 The Box,"Thriller,Science Fiction"
 The Ruins,"Drama,Horror"
-The Next Best Thing,"C,o,m,e,d,y"
+The Next Best Thing,Comedy
 My Soul to Take,"Drama,Horror,Mystery,Thriller"
-The Girl Next Door,"C,o,m,e,d,y"
+The Girl Next Door,Comedy
 Maximum Risk,"Action,Adventure,Thriller"
 Stealing Harvard,"Action,Comedy,Drama"
 Legend,"Crime,Thriller"
 Hot Rod,"Action,Comedy"
 Shark Night,"Horror,Thriller"
-Angela's Ashes,"D,r,a,m,a"
-Draft Day,"D,r,a,m,a"
+Angela's Ashes,Drama
+Draft Day,Drama
 Lifeforce,"Fantasy,Horror,Science Fiction,Thriller"
 The Conspirator,"Crime,Drama,History"
-Lords of Dogtown,"D,r,a,m,a"
+Lords of Dogtown,Drama
 The 33,"Drama,History"
 Big Trouble in Little China,"Action,Adventure,Comedy,Fantasy"
 Fly Me to the Moon,"Comedy,Romance"
@@ -1934,7 +1934,7 @@ The Road,"Adventure,Drama"
 Sheena,"Action,Adventure,Comedy,Fantasy,Science Fiction"
 Underclassman,"Action,Comedy"
 Say It Isn't So,"Comedy,Romance"
-The World's Fastest Indian,"D,r,a,m,a"
+The World's Fastest Indian,Drama
 Tank Girl,"Action,Comedy,Fantasy,Science Fiction"
 King's Ransom,"Comedy,Crime"
 Blindness,"Drama,Mystery,Science Fiction,Thriller"
@@ -1942,13 +1942,13 @@ BloodRayne,"Action,Adventure,Fantasy,Horror"
 Carnage,"Comedy,Drama"
 Where the Truth Lies,"Drama,Mystery,Thriller"
 Cirque du Soleil: Worlds Away,"Fantasy,Family"
-Without Limits,"D,r,a,m,a"
+Without Limits,Drama
 Me and Orson Welles,"Comedy,Drama,Romance"
 The Best Offer,"Drama,Romance,Crime,Mystery"
 The Bad Lieutenant: Port of Call - New Orleans,"Drama,Crime"
 A Turtle's Tale: Sammy's Adventures,"Animation,Family"
 Little White Lies,"Comedy,Drama"
-Love Ranch,"D,r,a,m,a"
+Love Ranch,Drama
 The True Story of Puss 'n Boots,"Family,Adventure,Animation"
 Space Dogs,"Family,Animation"
 The Counselor,"Thriller,Crime,Drama"
@@ -1959,21 +1959,21 @@ Red Sky,"Action,Thriller"
 Dangerous Liaisons,"Drama,Romance"
 On the Road,"Adventure,Drama"
 Star Trek IV: The Voyage Home,"Science Fiction,Adventure"
-Rocky Balboa,"D,r,a,m,a"
+Rocky Balboa,Drama
 Scream 2,"Horror,Mystery"
 Jane Got a Gun,"Action,Drama,Western"
 Think Like a Man Too,"Comedy,Romance"
 The Whole Nine Yards,"Comedy,Crime"
 Footloose,"Drama,Family,Music,Romance"
-Old School,"C,o,m,e,d,y"
+Old School,Comedy
 The Fisher King,"Comedy,Drama"
 I Still Know What You Did Last Summer,"Horror,Mystery,Thriller"
 Return to Me,"Romance,Comedy,Drama"
-Zack and Miri Make a Porno,"C,o,m,e,d,y"
+Zack and Miri Make a Porno,Comedy
 Nurse Betty,"Comedy,Crime,Thriller"
 The Men Who Stare at Goats,"Comedy,War"
 Double Take,"Adventure,Drama,Action,Comedy,Romance"
-"Girl, Interrupted","D,r,a,m,a"
+"Girl, Interrupted",Drama
 Win a Date with Tad Hamilton!,"Comedy,Romance"
 Muppets from Space,"Fantasy,Comedy,Science Fiction,Family"
 The Wiz,"Adventure,Family,Fantasy,Music"
@@ -1988,12 +1988,12 @@ The Bridge of San Luis Rey,"Romance,Drama"
 Faster,"Crime,Drama,Action,Thriller"
 Howl's Moving Castle,"Fantasy,Animation,Adventure"
 Zombieland,"Comedy,Horror"
-The Waterboy,"C,o,m,e,d,y"
+The Waterboy,Comedy
 The Empire Strikes Back,"Adventure,Action,Science Fiction"
 Bad Boys,"Action,Comedy,Crime,Thriller"
 The Naked Gun 2½: The Smell of Fear,"Comedy,Crime"
-Final Destination,"H,o,r,r,o,r"
-The Ides of March,"D,r,a,m,a"
+Final Destination,Horror
+The Ides of March,Drama
 Pitch Black,"Thriller,Science Fiction,Action"
 Someone Like You...,"Comedy,Romance"
 Her,"Romance,Science Fiction,Drama"
@@ -2003,9 +2003,9 @@ Anywhere But Here,"Drama,Comedy,Romance"
 The Crew,"Action,Comedy"
 Haywire,"Action,Thriller"
 Jaws: The Revenge,"Adventure,Thriller"
-Marvin's Room,"D,r,a,m,a"
+Marvin's Room,Drama
 The Longshots,"Drama,Family"
-The End of the Affair,"D,r,a,m,a"
+The End of the Affair,Drama
 Harley Davidson and the Marlboro Man,"Action,Thriller"
 In the Valley of Elah,"History,Drama,Thriller,Crime,Mystery"
 Coco Before Chanel,"Drama,History"
@@ -2024,21 +2024,21 @@ The Game Plan,"Comedy,Family"
 The Bridges of Madison County,"Drama,Romance"
 The Animal,"Action,Comedy"
 Gandhi,"Drama,History"
-The Hundred-Foot Journey,"D,r,a,m,a"
+The Hundred-Foot Journey,Drama
 The Net,"Crime,Drama,Mystery,Thriller,Action"
-I Am Sam,"D,r,a,m,a"
-Son of God,"D,r,a,m,a"
+I Am Sam,Drama
+Son of God,Drama
 Underworld,"Fantasy,Action,Thriller"
 Derailed,"Drama,Thriller"
 The Informant!,"Drama,Comedy,Crime"
 Shadowlands,"Drama,Romance"
-Deuce Bigalow: European Gigolo,"C,o,m,e,d,y"
-Delivery Man,"C,o,m,e,d,y"
-Our Kind of Traitor,"T,h,r,i,l,l,e,r"
+Deuce Bigalow: European Gigolo,Comedy
+Delivery Man,Comedy
+Our Kind of Traitor,Thriller
 Saving Silverman,"Comedy,Crime,Romance"
 Diary of a Wimpy Kid: Dog Days,"Comedy,Family"
 Summer of Sam,"Thriller,Drama,Crime,Romance"
-Jay and Silent Bob Strike Back,"C,o,m,e,d,y"
+Jay and Silent Bob Strike Back,Comedy
 The Glass House,"Drama,Thriller"
 "Hail, Caesar!","Comedy,Drama,Mystery"
 Josie and the Pussycats,"Comedy,Music"
@@ -2057,7 +2057,7 @@ Hit & Run,"Action,Comedy,Romance"
 Mad Money,"Action,Comedy,Crime"
 Before I Go to Sleep,"Mystery,Thriller"
 Sorcerer,"Action,Thriller,Adventure"
-Stone,"D,r,a,m,a"
+Stone,Drama
 Moliere,"Romance,Drama,Comedy"
 Out of the Furnace,"Thriller,Drama,Crime"
 Michael Clayton,"Drama,Mystery,Crime"
@@ -2072,7 +2072,7 @@ Teenage Mutant Ninja Turtles III,"Action,Adventure,Comedy,Family,Fantasy,Science
 Hardball,"Comedy,Romance"
 Silver Linings Playbook,"Drama,Comedy,Romance"
 Freedom Writers,"Crime,Drama"
-For Colored Girls,"D,r,a,m,a"
+For Colored Girls,Drama
 The Transporter,"Action,Crime,Thriller"
 Never Back Down,"Drama,Action"
 The Rage: Carrie 2,"Horror,Thriller,Science Fiction"
@@ -2081,15 +2081,15 @@ Swing Vote,"Drama,Comedy"
 Moonlight Mile,"Romance,Drama"
 Tinker Tailor Soldier Spy,"Drama,Thriller,Mystery"
 Molly,"Drama,Comedy,Romance"
-The Beaver,"D,r,a,m,a"
-The Best Little Whorehouse in Texas,"C,o,m,e,d,y"
+The Beaver,Drama
+The Best Little Whorehouse in Texas,Comedy
 eXistenZ,"Action,Thriller,Science Fiction,Horror"
 Raiders of the Lost Ark,"Adventure,Action"
 Home Alone 2: Lost in New York,"Comedy,Family,Adventure,Crime"
 Close Encounters of the Third Kind,"Science Fiction,Drama"
 Pulse,"Horror,Thriller"
 Beverly Hills Cop II,"Action,Comedy,Crime"
-Bringing Down the House,"C,o,m,e,d,y"
+Bringing Down the House,Comedy
 The Silence of the Lambs,"Crime,Drama,Thriller"
 Wayne's World,"Music,Comedy"
 Jackass 3D,"Comedy,Documentary,Action"
@@ -2097,10 +2097,10 @@ Jaws 2,"Horror,Thriller"
 Beverly Hills Chihuahua,"Adventure,Comedy,Family"
 The Conjuring,"Horror,Thriller"
 Are We There Yet?,"Adventure,Comedy,Family,Romance"
-Tammy,"C,o,m,e,d,y"
+Tammy,Comedy
 School of Rock,"Comedy,Music"
 Mortal Kombat,"Action,Fantasy"
-White Chicks,"C,o,m,e,d,y"
+White Chicks,Comedy
 The Descendants,"Comedy,Drama"
 Holes,"Adventure,Family,Drama,Comedy"
 The Last Song,"Drama,Family,Romance"
@@ -2111,8 +2111,8 @@ Edward Scissorhands,"Fantasy,Drama,Romance"
 Me Before You,"Drama,Romance"
 Madea's Witness Protection,"Drama,Comedy,Crime"
 The French Connection,"Action,Crime,Thriller"
-Bad Moms,"C,o,m,e,d,y"
-Date Movie,"C,o,m,e,d,y"
+Bad Moms,Comedy
+Date Movie,Comedy
 Return to Never Land,"Adventure,Fantasy,Animation,Family"
 Selma,"History,Drama"
 The Jungle Book 2,"Family,Animation,Adventure"
@@ -2130,20 +2130,20 @@ Bill & Ted's Bogus Journey,"Adventure,Comedy,Family,Fantasy,Science Fiction"
 Man of the Year,"Comedy,Drama,Romance,Thriller"
 The Black Hole,"Adventure,Family,Science Fiction,Action"
 The American,"Crime,Drama,Thriller"
-Selena,"D,r,a,m,a"
+Selena,Drama
 Vampires Suck,"Horror,Comedy"
-Babel,"D,r,a,m,a"
+Babel,Drama
 This Is Where I Leave You,"Drama,Comedy"
 Doubt,"Drama,Mystery"
 Team America: World Police,"Music,Adventure,Animation,Action,Comedy"
 Texas Chainsaw 3D,"Horror,Thriller"
 Copycat,"Drama,Thriller"
-Scary Movie 5,"C,o,m,e,d,y"
+Scary Movie 5,Comedy
 Paint Your Wagon,"Drama,Action,Comedy,Western,Music"
 Milk,"History,Drama"
-Risen,"A,c,t,i,o,n"
+Risen,Action
 Ghost Ship,"Horror,Mystery,Thriller"
-A Very Harold & Kumar Christmas,"C,o,m,e,d,y"
+A Very Harold & Kumar Christmas,Comedy
 Wild Things,"Crime,Drama,Mystery"
 The Stepfather,"Horror,Thriller,Mystery"
 The Debt,"Drama,Thriller"
@@ -2173,10 +2173,10 @@ Psycho,"Drama,Horror,Thriller"
 My Best Friend's Girl,"Romance,Comedy"
 Endless Love,"Drama,Romance"
 Georgia Rule,"Comedy,Drama,Romance"
-Under the Rainbow,"C,o,m,e,d,y"
+Under the Rainbow,Comedy
 Ladyhawke,"Adventure,Drama,Fantasy,Romance"
 Simon Birch,"Comedy,Drama,Family"
-Reign Over Me,"D,r,a,m,a"
+Reign Over Me,Drama
 Into the Wild,"Adventure,Drama"
 School for Scoundrels,"Comedy,Drama,Romance"
 Silent Hill: Revelation 3D,"Thriller,Horror,Mystery"
@@ -2185,12 +2185,12 @@ Pooh's Heffalump Movie,"Animation,Family"
 Home for the Holidays,"Comedy,Drama,Romance"
 Kung Fu Hustle,"Action,Comedy,Crime,Fantasy"
 The Country Bears,"Adventure,Comedy,Family"
-The Kite Runner,"D,r,a,m,a"
+The Kite Runner,Drama
 21 Grams,"Drama,Crime,Thriller"
 Paparazzi,"Action,Drama,Thriller"
 A Guy Thing,"Comedy,Romance"
 Loser,"Drama,Comedy,Romance,Family"
-Capitalism: A Love Story,"D,o,c,u,m,e,n,t,a,r,y"
+Capitalism: A Love Story,Documentary
 The Greatest Story Ever Told,"Drama,History"
 Secret in Their Eyes,"Crime,Drama,Mystery"
 Disaster Movie,"Action,Comedy"
@@ -2198,10 +2198,10 @@ Armored,"Action,Crime,Drama,Thriller"
 The Man Who Knew Too Little,"Comedy,Thriller,Crime,Action"
 What's Your Number?,"Comedy,Romance"
 Lockout,"Action,Thriller,Science Fiction"
-Envy,"C,o,m,e,d,y"
+Envy,Comedy
 Crank: High Voltage,"Action,Thriller,Crime"
 Bullets Over Broadway,"Action,Comedy,Thriller"
-One Night with the King,"D,r,a,m,a"
+One Night with the King,Drama
 The Quiet American,"Drama,Action,Thriller,Romance"
 The Weather Man,"Comedy,Drama"
 Undisputed,"Action,Adventure,Drama,Thriller"
@@ -2214,53 +2214,53 @@ Mrs Henderson Presents,"Comedy,Drama"
 Triple 9,"Action,Thriller"
 Deconstructing Harry,"Comedy,Drama"
 Three to Tango,"Comedy,Romance"
-Burnt,"D,r,a,m,a"
+Burnt,Drama
 We're No Angels,"Comedy,Crime,Drama"
 Everyone Says I Love You,"Music,Comedy,Romance"
 Death Sentence,"Action,Crime,Drama,Thriller"
-Everybody's Fine,"D,r,a,m,a"
+Everybody's Fine,Drama
 Superbabies: Baby Geniuses 2,"Comedy,Family"
 The Man,"Action,Comedy,Crime"
 Code Name: The Cleaner,"Action,Comedy,Crime"
-Connie and Carla,"C,o,m,e,d,y"
+Connie and Carla,Comedy
 Sweet Charity,"Comedy,Drama,Music,Romance"
 Inherent Vice,"Comedy,Romance,Crime,Drama,Mystery"
-Doogal,"F,a,m,i,l,y"
+Doogal,Family
 Battle of the Year,"Music,Drama"
 An American Carol,"Comedy,Fantasy"
 Machete Kills,"Action,Crime,Thriller"
-Willard,"H,o,r,r,o,r"
-Strange Wilderness,"C,o,m,e,d,y"
+Willard,Horror
+Strange Wilderness,Comedy
 Topsy-Turvy,"Comedy,Drama,Music"
 Little Boy,"Comedy,Drama,War"
 A Dangerous Method,"Drama,Thriller"
 A Scanner Darkly,"Animation,Science Fiction,Thriller"
-Chasing Mavericks,"D,r,a,m,a"
+Chasing Mavericks,Drama
 Alone in the Dark,"Action,Fantasy,Horror,Thriller"
 Bandslam,"Comedy,Drama,Family,Music"
 Birth,"Drama,Mystery,Thriller"
 A Most Violent Year,"Crime,Drama,Thriller"
 Passchendaele,"Drama,Romance,War,History"
-Flash of Genius,"D,r,a,m,a"
+Flash of Genius,Drama
 I'm Not There.,"Drama,Music"
 The Cold Light of Day,"Action,Thriller"
 The Brothers Bloom,"Adventure,Comedy,Drama,Romance"
-"Synecdoche, New York","D,r,a,m,a"
+"Synecdoche, New York",Drama
 Princess Mononoke,"Adventure,Fantasy,Animation"
 Bon voyage,"Comedy,Drama,Foreign"
 Can't Stop the Music,"Comedy,Music"
 The Proposition,"Action,Adventure,Crime,Drama,Thriller,Western"
-My All American,"D,r,a,m,a"
-Marci X,"C,o,m,e,d,y"
+My All American,Drama
+Marci X,Comedy
 Equilibrium,"Action,Science Fiction,Thriller"
 The Children of Huang Shi,"Drama,War"
 The Yards,"Drama,Action,Thriller,Crime"
-The Oogieloves in the Big Balloon Adventure,"F,a,m,i,l,y"
+The Oogieloves in the Big Balloon Adventure,Family
 By the Sea,"Drama,Romance"
 Steamboy,"Animation,Fantasy,Science Fiction"
-The Game of Their Lives,"D,r,a,m,a"
+The Game of Their Lives,Drama
 All Good Things,"Drama,Mystery,Thriller,Crime,Romance"
-Rapa Nui,"A,d,v,e,n,t,u,r,e"
+Rapa Nui,Adventure
 CJ7,"Comedy,Drama,Family,Fantasy,Science Fiction"
 The Visitors II: The Corridors of Time,"Comedy,Fantasy"
 Dylan Dog: Dead of Night,"Action,Comedy,Horror,Mystery,Science Fiction,Thriller"
@@ -2271,16 +2271,16 @@ Three Kingdoms: Resurrection of the Dragon,"Action,History,Drama"
 Butterfly on a Wheel,"Crime,Drama,Thriller"
 Zambezia,"Comedy,Animation,Adventure,Family"
 Ramanujan,"Drama,History"
-Dwegons,"A,n,i,m,a,t,i,o,n"
-Hands of Stone,"D,r,a,m,a"
-Survivor,"T,h,r,i,l,l,e,r"
+Dwegons,Animation
+Hands of Stone,Drama
+Survivor,Thriller
 The Frozen Ground,"Thriller,Crime"
 The Painted Veil,"Drama,Romance"
 The Baader Meinhof Complex,"Action,Crime,Drama,History,Thriller"
 Dances with Wolves,"Adventure,Drama,Western"
-Bad Teacher,"C,o,m,e,d,y"
+Bad Teacher,Comedy
 Sea of Love,"Drama,Crime,Mystery"
-A Cinderella Story,"C,o,m,e,d,y"
+A Cinderella Story,Comedy
 Scream,"Crime,Horror,Mystery"
 Thir13en Ghosts,"Horror,Thriller"
 The Shining,"Horror,Thriller"
@@ -2289,36 +2289,36 @@ House on Haunted Hill,"Horror,Mystery,Thriller"
 I Can Do Bad All By Myself,"Drama,Comedy"
 Fight Valley,"Action,Drama"
 The Switch,"Comedy,Romance,Drama"
-Just Married,"C,o,m,e,d,y"
+Just Married,Comedy
 The Devil's Double,"Drama,Action,Thriller,Crime,War"
 Thomas and the Magic Railroad,"Animation,Drama,Family,Science Fiction"
 The Crazies,"Mystery,Horror,Action"
 Spirited Away,"Fantasy,Adventure,Animation,Family"
 Firestorm,"Action,Crime"
 The Bounty,"Action,Drama,History"
-The Book Thief,"D,r,a,m,a"
+The Book Thief,Drama
 Sex Drive,"Comedy,Adventure,Romance"
 Leap Year,"Romance,Comedy"
 The Fall of the Roman Empire,"Drama,History"
 Take Me Home Tonight,"Comedy,Drama,Romance"
-Won't Back Down,"D,r,a,m,a"
+Won't Back Down,Drama
 The Nutcracker,"Family,Fantasy,Music"
 Kansas City,"Thriller,Drama,Music,Crime"
-Indignation,"D,r,a,m,a"
+Indignation,Drama
 The Amityville Horror,"Horror,Thriller,Drama"
 Adaptation.,"Comedy,Crime,Drama"
-Land of the Dead,"H,o,r,r,o,r"
-Out of Inferno,"A,c,t,i,o,n"
+Land of the Dead,Horror
+Out of Inferno,Action
 Fear and Loathing in Las Vegas,"Adventure,Drama,Comedy"
 The Invention of Lying,"Comedy,Romance,Fantasy"
-Neighbors,"C,o,m,e,d,y"
+Neighbors,Comedy
 The Mask,"Romance,Comedy,Crime,Fantasy"
 Big,"Fantasy,Drama,Comedy,Romance,Family"
-Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,"C,o,m,e,d,y"
-Legally Blonde,"C,o,m,e,d,y"
+Borat: Cultural Learnings of America for Make Benefit Glorious Nation of Kazakhstan,Comedy
+Legally Blonde,Comedy
 Star Trek III: The Search for Spock,"Science Fiction,Action,Adventure,Thriller"
 The Exorcism of Emily Rose,"Crime,Drama,Horror,Thriller"
-Deuce Bigalow: Male Gigolo,"C,o,m,e,d,y"
+Deuce Bigalow: Male Gigolo,Comedy
 Left Behind,"Thriller,Action,Science Fiction"
 The Family Stone,"Comedy,Drama,Romance"
 Barbershop 2:  Back in Business,"Comedy,Drama"
@@ -2329,7 +2329,7 @@ Diary of a Wimpy Kid: Rodrick Rules,"Family,Comedy"
 Predator,"Science Fiction,Action,Adventure,Thriller"
 Amadeus,"Drama,History,Music"
 Prom Night,"Crime,Horror"
-Mean Girls,"C,o,m,e,d,y"
+Mean Girls,Comedy
 Under the Tuscan Sun,"Comedy,Drama,Romance"
 Gosford Park,"Drama,Mystery,Thriller"
 Peggy Sue Got Married,"Comedy,Drama,Fantasy,Romance"
@@ -2338,12 +2338,12 @@ Blue Jasmine,"Comedy,Drama"
 United 93,"Drama,History,Crime,Thriller,Action"
 Honey,"Romance,Music,Family"
 Spy Hard,"Action,Comedy"
-The Fog,"H,o,r,r,o,r"
+The Fog,Horror
 Soul Surfer,"Action,Drama"
 Catch-22,"War,Comedy,Drama"
 Observe and Report,"Comedy,Crime,Drama"
 Conan the Destroyer,"Adventure,Fantasy,Action"
-Raging Bull,"D,r,a,m,a"
+Raging Bull,Drama
 Love Happens,"Drama,Romance"
 Young Sherlock Holmes,"Action,Adventure,Crime,Drama,Family,Mystery,Thriller"
 Fame,"Music,Comedy,Drama,Romance"
@@ -2352,7 +2352,7 @@ Small Time Crooks,"Action,Comedy,Crime"
 Center Stage,"Drama,Music"
 Love the Coopers,"Comedy,Family"
 Catch That Kid,"Family,Action,Adventure"
-Life as a House,"D,r,a,m,a"
+Life as a House,Drama
 Steve Jobs,"Drama,History"
 "I Love You, Beth Cooper","Comedy,Romance"
 Youth in Revolt,"Drama,Comedy,Romance"
@@ -2360,29 +2360,29 @@ The Legend of the Lone Ranger,"Action,Adventure,Romance,Western"
 The Tailor of Panama,"Drama,Thriller"
 Blow Out,"Drama,Mystery,Thriller"
 Getaway,"Action,Crime"
-The Ice Storm,"D,r,a,m,a"
+The Ice Storm,Drama
 And So It Goes,"Comedy,Drama,Romance"
 Troop Beverly Hills,"Adventure,Comedy,Family"
 Being Julia,"Comedy,Drama,Romance"
 Nine 1/2 Weeks,"Drama,Romance"
-Dragonslayer,"F,a,n,t,a,s,y"
+Dragonslayer,Fantasy
 The Last Station,"Drama,Romance"
 Ed Wood,"Comedy,Drama,History"
-Labor Day,"D,r,a,m,a"
-Mongol: The Rise of Genghis Khan,"H,i,s,t,o,r,y"
+Labor Day,Drama
+Mongol: The Rise of Genghis Khan,History
 RockNRolla,"Action,Crime,Thriller"
 Megaforce,"Adventure,Action,Science Fiction"
-Hamlet,"D,r,a,m,a"
+Hamlet,Drama
 Mao's Last Dancer,"Drama,Romance"
 Midnight Special,"Adventure,Drama,Science Fiction"
 Anything Else,"Comedy,Romance"
 The Railway Man,"Drama,History"
 The White Ribbon,"Crime,Drama,Mystery"
-Restoration,"H,o,r,r,o,r"
+Restoration,Horror
 The Wraith,"Romance,Science Fiction,Horror,Action,Crime"
 Salton Sea,"Drama,Mystery,Thriller"
-Metallica: Through the Never,"M,u,s,i,c"
-The Informers,"D,r,a,m,a"
+Metallica: Through the Never,Music
+The Informers,Drama
 Carlos,"Crime,Drama,Thriller,History"
 I Come with the Rain,"Thriller,Drama"
 One Man's Hero,"Western,Action,Drama,History"
@@ -2390,8 +2390,8 @@ Day of the Dead,"Horror,Science Fiction"
 I Am Wrath,"Action,Crime,Drama,Thriller"
 Renaissance,"Action,Animation,Science Fiction"
 Red Sonja,"Adventure,Fantasy,Action"
-Red Lights,"T,h,r,i,l,l,e,r"
-Superbad,"C,o,m,e,d,y"
+Red Lights,Thriller
+Superbad,Comedy
 Madea Goes to Jail,"Comedy,Crime,Drama"
 Wolves,"Horror,Action"
 Step Up 2: The Streets,"Music,Drama,Romance"
@@ -2400,43 +2400,43 @@ Hotel Rwanda,"Drama,History,War"
 Hitman,"Action,Crime,Drama,Thriller"
 Black Nativity,"Drama,Music"
 The Prince,"Thriller,Action"
-City of Ghosts,"T,h,r,i,l,l,e,r"
+City of Ghosts,Thriller
 The Others,"Horror,Drama,Mystery,Thriller"
 Aliens,"Horror,Action,Thriller,Science Fiction"
 My Fair Lady,"Drama,Family,Music,Romance"
 I Know What You Did Last Summer,"Horror,Thriller,Mystery"
-Let's Be Cops,"C,o,m,e,d,y"
+Let's Be Cops,Comedy
 Sideways,"Comedy,Drama,Romance"
-Beerfest,"C,o,m,e,d,y"
+Beerfest,Comedy
 Halloween,"Horror,Thriller"
 Good Boy!,"Comedy,Family,Science Fiction"
-The Best Man Holiday,"C,o,m,e,d,y"
+The Best Man Holiday,Comedy
 Smokin' Aces,"Action,Comedy,Crime,Thriller"
 Saw: The Final Chapter,"Horror,Crime"
 40 Days and 40 Nights,"Comedy,Romance"
-A Night at the Roxbury,"C,o,m,e,d,y"
+A Night at the Roxbury,Comedy
 Beastly,"Drama,Fantasy,Romance"
 The Hills Have Eyes,"Horror,Thriller"
-Dickie Roberts: Former Child Star,"C,o,m,e,d,y"
-"McFarland, USA","D,r,a,m,a"
-Lottery Ticket,"C,o,m,e,d,y"
-ATL,"D,r,a,m,a"
+Dickie Roberts: Former Child Star,Comedy
+"McFarland, USA",Drama
+Lottery Ticket,Comedy
+ATL,Drama
 Pitch Perfect,"Comedy,Music,Romance"
 Summer Catch,"Drama,Comedy,Romance"
 A Simple Plan,"Drama,Crime,Thriller"
 They,"Horror,Thriller"
-Larry the Cable Guy: Health Inspector,"C,o,m,e,d,y"
-The Adventures of Elmo in Grouchland,"F,a,m,i,l,y"
+Larry the Cable Guy: Health Inspector,Comedy
+The Adventures of Elmo in Grouchland,Family
 Brooklyn's Finest,"Crime,Drama,Thriller"
 55 Days at Peking,"Action,Drama,History"
-Evil Dead,"H,o,r,r,o,r"
+Evil Dead,Horror
 My Life in Ruins,"Comedy,Romance"
 American Dreamz,"Comedy,Drama,Family"
 Superman IV: The Quest for Peace,"Action,Adventure,Science Fiction"
-How She Move,"D,r,a,m,a"
+How She Move,Drama
 Running Scared,"Action,Crime,Drama,Thriller"
-Bobby Jones: Stroke of Genius,"D,r,a,m,a"
-Shanghai Surprise,"A,d,v,e,n,t,u,r,e"
+Bobby Jones: Stroke of Genius,Drama
+Shanghai Surprise,Adventure
 The Illusionist,"Fantasy,Drama,Thriller,Romance"
 Roar,"Adventure,Thriller"
 Veronica Guerin,"Drama,Crime,Thriller"
@@ -2450,19 +2450,19 @@ Fur: An Imaginary Portrait of Diane Arbus,"Drama,Mystery,Romance"
 Wall Street,"Crime,Drama"
 Sense and Sensibility,"Drama,Romance"
 Becoming Jane,"Drama,Romance"
-Sydney White,"C,o,m,e,d,y"
-House of Sand and Fog,"D,r,a,m,a"
-Dead Poets Society,"D,r,a,m,a"
-Dumb and Dumber,"C,o,m,e,d,y"
+Sydney White,Comedy
+House of Sand and Fog,Drama
+Dead Poets Society,Drama
+Dumb and Dumber,Comedy
 When Harry Met Sally...,"Comedy,Romance,Drama"
-The Verdict,"D,r,a,m,a"
+The Verdict,Drama
 Road Trip,"Comedy,Adventure"
 Varsity Blues,"Comedy,Drama,Romance"
 The Artist,"Drama,Comedy,Romance"
 The Unborn,"Horror,Thriller,Mystery"
 Moonrise Kingdom,"Comedy,Drama,Romance"
-The Texas Chainsaw Massacre: The Beginning,"H,o,r,r,o,r"
-The Young Messiah,"D,r,a,m,a"
+The Texas Chainsaw Massacre: The Beginning,Horror
+The Young Messiah,Drama
 The Master of Disguise,"Comedy,Family"
 Pan's Labyrinth,"Fantasy,Drama,War"
 See Spot Run,"Action,Comedy,Family"
@@ -2475,14 +2475,14 @@ The Women,"Comedy,Drama,Romance"
 Vicky Cristina Barcelona,"Drama,Romance"
 Arn: The Knight Templar,"Action,Adventure,Drama,Romance"
 Boys and Girls,"Comedy,Drama,Romance"
-White Oleander,"D,r,a,m,a"
+White Oleander,Drama
 Jennifer's Body,"Comedy,Horror"
 Drowning Mona,"Comedy,Crime,Mystery"
 Radio Days,"Comedy,Drama"
 Remember Me,"Drama,Romance"
 How to Deal,"Drama,Comedy,Romance"
 My Stepmother is an Alien,"Comedy,Science Fiction"
-Philadelphia,"D,r,a,m,a"
+Philadelphia,Drama
 The Thirteenth Floor,"Thriller,Science Fiction,Mystery"
 The Cookout,"Comedy,Drama"
 Meteor,"Action,Science Fiction,Thriller"
@@ -2490,14 +2490,14 @@ Duets,"Comedy,Drama,Music"
 Hollywood Ending,"Comedy,Drama"
 Detroit Rock City,"Comedy,Music"
 Highlander,"Adventure,Action,Fantasy"
-Things We Lost in the Fire,"D,r,a,m,a"
+Things We Lost in the Fire,Drama
 Steel,"Science Fiction,Action,Adventure"
 The Immigrant,"Drama,Romance"
 The White Countess,"Drama,History,Family,Romance"
 Trance,"Thriller,Crime,Drama,Mystery"
 Soul Plane,"Romance,Comedy"
-Welcome to the Sticks,"C,o,m,e,d,y"
-Good,"D,r,a,m,a"
+Welcome to the Sticks,Comedy
+Good,Drama
 Enter the Void,"Fantasy,Drama"
 Vamps,"Comedy,Romance,Horror"
 Hachi: A Dog's Tale,"Drama,Family"
@@ -2515,20 +2515,20 @@ Three Men and a Baby,"Family,Comedy,Drama"
 Tootsie,"Comedy,Romance"
 Top Gun,"Action,Romance,War"
 "Crouching Tiger, Hidden Dragon","Adventure,Drama,Action,Romance"
-American Beauty,"D,r,a,m,a"
+American Beauty,Drama
 The King's Speech,"Drama,History"
-Twins,"C,o,m,e,d,y"
+Twins,Comedy
 The Yellow Handkerchief,"Drama,Romance"
-The Color Purple,"D,r,a,m,a"
+The Color Purple,Drama
 Tidal Wave,"Action,Adventure,Drama,Thriller"
 The Imitation Game,"History,Drama,Thriller,War"
-Private Benjamin,"C,o,m,e,d,y"
+Private Benjamin,Comedy
 Coal Miner's Daughter,"Drama,Music"
 Diary of a Wimpy Kid,"Comedy,Family"
-Mama,"H,o,r,r,o,r"
+Mama,Horror
 National Lampoon's Vacation,"Comedy,Adventure,Romance"
-Bad Grandpa,"C,o,m,e,d,y"
-The Queen,"D,r,a,m,a"
+Bad Grandpa,Comedy
+The Queen,Drama
 Beetlejuice,"Fantasy,Comedy"
 Why Did I Get Married?,"Comedy,Drama"
 Little Women,"Drama,Romance"
@@ -2543,39 +2543,39 @@ Krampus,"Horror,Comedy,Fantasy"
 The Faculty,"Horror,Mystery,Science Fiction"
 What's Love Got to Do with It,"Drama,Music"
 Cop Land,"Action,Crime,Drama"
-Not Another Teen Movie,"C,o,m,e,d,y"
+Not Another Teen Movie,Comedy
 End of Watch,"Crime,Drama,Thriller"
 The Skulls,"Crime,Drama,Thriller"
 The Theory of Everything,"Drama,Romance"
 Malibu's Most Wanted,"Comedy,Crime"
 Where the Heart Is,"Comedy,Drama,Romance"
 Lawrence of Arabia,"Adventure,Drama,History,War"
-Halloween II,"H,o,r,r,o,r"
-Wild,"D,r,a,m,a"
+Halloween II,Horror
+Wild,Drama
 The Last House on the Left,"Crime,Thriller,Horror,Drama"
 The Wedding Date,"Comedy,Romance"
 Halloween: Resurrection,"Horror,Thriller"
 The Princess Bride,"Adventure,Family,Fantasy,Comedy,Romance"
-The Great Debaters,"D,r,a,m,a"
+The Great Debaters,Drama
 Drive,"Drama,Action,Thriller,Crime"
-Confessions of a Teenage Drama Queen,"C,o,m,e,d,y"
+Confessions of a Teenage Drama Queen,Comedy
 The Object of My Affection,"Comedy,Drama,Romance"
 28 Weeks Later,"Horror,Thriller,Science Fiction"
-When the Game Stands Tall,"D,r,a,m,a"
+When the Game Stands Tall,Drama
 Because of Winn-Dixie,"Comedy,Drama,Family"
 Love & Basketball,"Action,Comedy,Drama,Romance"
 Grosse Pointe Blank,"Action,Comedy,Thriller,Romance"
-All About Steve,"C,o,m,e,d,y"
+All About Steve,Comedy
 Book of Shadows: Blair Witch 2,"Mystery,Thriller,Horror"
 The Craft,"Drama,Fantasy,Horror,Thriller"
 Match Point,"Drama,Thriller,Crime,Romance"
 Ramona and Beezus,"Comedy,Family"
 The Remains of the Day,"Drama,Romance"
-Boogie Nights,"D,r,a,m,a"
+Boogie Nights,Drama
 Nowhere to Run,"Action,Adventure,Drama,Thriller"
-Flicka,"D,r,a,m,a"
+Flicka,Drama
 The Hills Have Eyes 2,"Horror,Thriller"
-Urban Legends: Final Cut,"H,o,r,r,o,r"
+Urban Legends: Final Cut,Horror
 Tuck Everlasting,"Fantasy,Drama,Science Fiction,Romance,Family"
 The Marine,"Action,Adventure,Drama,Thriller"
 Keanu,"Action,Comedy"
@@ -2587,41 +2587,41 @@ Eye of the Beholder,"Drama,Mystery,Thriller"
 The Hurt Locker,"Drama,Thriller,War"
 Firestarter,"Fantasy,Drama,Horror,Action,Thriller"
 Killing Them Softly,"Crime,Thriller"
-A Most Wanted Man,"T,h,r,i,l,l,e,r"
-Freddy Got Fingered,"C,o,m,e,d,y"
+A Most Wanted Man,Thriller
+Freddy Got Fingered,Comedy
 VeggieTales: The Pirates Who Don't Do Anything,"Adventure,Animation,Comedy,Science Fiction,Family"
 U2 3D,"Music,Documentary"
 Highlander: Endgame,"Action,Fantasy,Science Fiction"
 Idlewild,"Crime,Drama,Music"
 One Day,"Drama,Romance"
-Whip It,"D,r,a,m,a"
+Whip It,Drama
 Knockaround Guys,"Crime,Thriller"
 Confidence,"Action,Comedy,Thriller,Crime"
 The Muse,"Fantasy,Comedy"
 De-Lovely,"Drama,Music"
 New York Stories,"Comedy,Drama,Romance"
-Barney's Great Adventure,"F,a,m,i,l,y"
-The Man with the Iron Fists,"A,c,t,i,o,n"
+Barney's Great Adventure,Family
+The Man with the Iron Fists,Action
 Home Fries,"Drama,Comedy,Romance"
-Here On Earth,"R,o,m,a,n,c,e"
+Here On Earth,Romance
 Brazil,"Comedy,Science Fiction"
 Raise Your Voice,"Music,Drama,Romance"
 The Big Lebowski,"Comedy,Crime"
-Black Snake Moan,"D,r,a,m,a"
+Black Snake Moan,Drama
 Dark Blue,"Action,Crime,Drama,Thriller"
 A Mighty Heart,"Drama,Thriller"
 Whatever It Takes,"Drama,Comedy,Romance"
-Boat Trip,"C,o,m,e,d,y"
+Boat Trip,Comedy
 The Importance of Being Earnest,"Comedy,Drama,History,Romance"
 The Love Letter,"Comedy,Drama,Fantasy,Romance"
 Hoot,"Drama,Family"
 In Bruges,"Comedy,Drama,Crime"
-Peeples,"C,o,m,e,d,y"
+Peeples,Comedy
 The Rocker,"Comedy,Music"
-Post Grad,"C,o,m,e,d,y"
-Promised Land,"D,r,a,m,a"
+Post Grad,Comedy
+Promised Land,Drama
 Whatever Works,"Comedy,Romance"
-The In Crowd,"T,h,r,i,l,l,e,r"
+The In Crowd,Thriller
 The Three Burials of Melquiades Estrada,"Adventure,Crime,Drama,Mystery,Western"
 Jakob the Liar,"Comedy,Drama,History"
 Kiss Kiss Bang Bang,"Action,Comedy,Crime,Mystery"
@@ -2630,13 +2630,13 @@ Mulholland Drive,"Thriller,Drama,Mystery"
 Blood and Chocolate,"Drama,Fantasy,Horror,Romance"
 You Will Meet a Tall Dark Stranger,"Comedy,Drama,Romance"
 Never Let Me Go,"Drama,Romance,Science Fiction"
-The Company,"D,r,a,m,a"
+The Company,Drama
 Transsiberian,"Thriller,Crime,Mystery"
 The Clan of the Cave Bear,"Adventure,Drama"
 Crazy in Alabama,"Comedy,Drama"
 Funny Games,"Horror,Thriller,Crime"
 Listening,"Drama,Thriller,Science Fiction"
-Felicia's Journey,"D,r,a,m,a"
+Felicia's Journey,Drama
 Metropolis,"Drama,Science Fiction"
 District B13,"Action,Thriller,Science Fiction"
 Things to Do in Denver When You're Dead,"Drama,Crime"
@@ -2647,7 +2647,7 @@ Ong Bak 2,"Adventure,Action,Thriller"
 Centurion,"Adventure,Action,Drama"
 Silent Trigger,"Drama,Action,Thriller"
 The Midnight Meat Train,"Mystery,Drama,Crime,Thriller,Horror"
-Winnie Mandela,"D,r,a,m,a"
+Winnie Mandela,Drama
 The Son of No One,"Drama,Thriller,Crime"
 All The Queen's Men,"Action,Comedy,Drama,History"
 The Good Night,"Comedy,Drama,Romance,Fantasy,Music"
@@ -2655,23 +2655,23 @@ Bathory: Countess of Blood,"Drama,Fantasy"
 Khumba,"Animation,Adventure,Family"
 Automata,"Thriller,Science Fiction"
 Dungeons & Dragons: Wrath of the Dragon God,"Action,Adventure,Fantasy"
-Chiamatemi Francesco - Il Papa della gente,"D,r,a,m,a"
+Chiamatemi Francesco - Il Papa della gente,Drama
 Shinjuku Incident,"Drama,Action,Thriller,Crime"
 Pandaemonium,"Drama,Foreign"
 Groundhog Day,"Romance,Fantasy,Drama,Comedy"
 Magic Mike XXL,"Comedy,Drama,Music"
 Romeo + Juliet,"Drama,Romance"
 Sarah's Key,"Drama,War"
-Freedom,"D,r,a,m,a"
-Unforgiven,"W,e,s,t,e,r,n"
-Manderlay,"D,r,a,m,a"
+Freedom,Drama
+Unforgiven,Western
+Manderlay,Drama
 Slumdog Millionaire,"Drama,Romance"
 Fatal Attraction,"Drama,Romance,Thriller"
 Pretty Woman,"Romance,Comedy"
 Crocodile Dundee II,"Adventure,Comedy"
 Broken Horses,"Thriller,Mystery,Drama,Crime"
 Born on the Fourth of July,"Drama,War"
-Cool Runnings,"C,o,m,e,d,y"
+Cool Runnings,Comedy
 My Bloody Valentine,"Mystery,Horror"
 Stomp the Yard,"Drama,Music"
 The Spy Who Loved Me,"Adventure,Action,Thriller"
@@ -2688,8 +2688,8 @@ Exorcist II: The Heretic,"Horror,Thriller,Fantasy"
 An American Haunting,"Horror,Thriller"
 My Boss's Daughter,"Comedy,Romance"
 A Perfect Getaway,"Thriller,Mystery,Adventure"
-Our Family Wedding,"C,o,m,e,d,y"
-Dead Man on Campus,"C,o,m,e,d,y"
+Our Family Wedding,Comedy
+Dead Man on Campus,Comedy
 Tea with Mussolini,"Comedy,Drama,War"
 Thinner,"Horror,Thriller"
 "New York, New York","Drama,Music,Romance"
@@ -2698,8 +2698,8 @@ I Think I Love My Wife,"Comedy,Romance"
 Jason X,"Horror,Science Fiction"
 Bobby,"History,Drama"
 Head Over Heels,"Comedy,Romance"
-Fun Size,"C,o,m,e,d,y"
-The Diving Bell and the Butterfly,"D,r,a,m,a"
+Fun Size,Comedy
+The Diving Bell and the Butterfly,Drama
 Little Children,"Romance,Drama"
 Gossip,"Drama,Mystery,Thriller"
 A Walk on the Moon,"Drama,Romance"
@@ -2713,18 +2713,18 @@ Wild Grass,"Drama,Romance"
 Amen.,"Drama,History"
 Reign of Assassins,"History,Action"
 The Lucky Ones,"Comedy,Drama,History"
-Margaret,"D,r,a,m,a"
+Margaret,Drama
 Stan Helsing,"Comedy,Horror"
 Flipped,"Romance,Drama"
 Brokeback Mountain,"Drama,Romance"
 Clueless,"Comedy,Drama,Romance"
 Far from Heaven,"Drama,Romance"
-Hot Tub Time Machine 2,"C,o,m,e,d,y"
-Quills,"D,r,a,m,a"
+Hot Tub Time Machine 2,Comedy
+Quills,Drama
 Seven Psychopaths,"Comedy,Crime"
 The Caveman's Valentine,"Drama,Mystery,Thriller"
 Downfall,"Drama,History,War"
-The Sea Inside,"D,r,a,m,a"
+The Sea Inside,Drama
 Under the Skin,"Thriller,Science Fiction,Drama"
 "Good Morning, Vietnam","Comedy,Drama,War"
 The Last Godfather,"Action,Comedy,Thriller"
@@ -2733,14 +2733,14 @@ Black Swan,"Drama,Thriller"
 The Godfather: Part II,"Drama,Crime"
 Save the Last Dance,"Drama,Family,Romance,Music"
 A Nightmare on Elm Street 4: The Dream Master,"Horror,Thriller"
-Miracles from Heaven,"D,r,a,m,a"
-"Dude, Where’s My Car?","C,o,m,e,d,y"
+Miracles from Heaven,Drama
+"Dude, Where’s My Car?",Comedy
 Young Guns,"Crime,Action,Adventure,Drama,Western"
-St. Vincent,"C,o,m,e,d,y"
+St. Vincent,Comedy
 About Last Night,"Comedy,Romance"
 10 Things I Hate About You,"Comedy,Romance,Drama"
 The New Guy,"Comedy,Family"
-National Lampoon's Loaded Weapon 1,"C,o,m,e,d,y"
+National Lampoon's Loaded Weapon 1,Comedy
 The Shallows,"Horror,Drama,Thriller"
 The Butterfly Effect,"Science Fiction,Thriller"
 Snow Day,"Comedy,Family"
@@ -2760,24 +2760,24 @@ Letters from Iwo Jima,"Action,Adventure,Drama,War"
 The Astronaut Farmer,"Adventure,Comedy,Drama,Science Fiction"
 Woo,"Comedy,Romance"
 Room,"Drama,Thriller"
-Dirty Work,"C,o,m,e,d,y"
+Dirty Work,Comedy
 Serial Mom,"Comedy,Crime,Horror,Thriller"
-Dick,"C,o,m,e,d,y"
+Dick,Comedy
 Light It Up,"Drama,Thriller"
 54,"Music,Drama"
 Bubble Boy,"Adventure,Comedy,Drama,Romance"
 Birthday Girl,"Comedy,Crime,Thriller"
-21 & Over,"C,o,m,e,d,y"
+21 & Over,Comedy
 "Paris, je t'aime","Drama,Romance"
-Resurrecting the Champ,"D,r,a,m,a"
+Resurrecting the Champ,Drama
 Admission,"Comedy,Drama,Romance"
 The Widow of Saint-Pierre,"Romance,Drama"
 Chloe,"Drama,Thriller,Mystery"
 Faithful,"Comedy,Crime,Drama"
 Find Me Guilty,"Drama,Action,Comedy,Crime"
 The Perks of Being a Wallflower,"Drama,Romance"
-Excessive Force,"A,c,t,i,o,n"
-Infamous,"D,r,a,m,a"
+Excessive Force,Action
+Infamous,Drama
 The Claim,"Drama,Romance,Western"
 The Vatican Tapes,"Thriller,Horror"
 Attack the Block,"Action,Comedy,Science Fiction"
@@ -2833,7 +2833,7 @@ One Hour Photo,"Horror,Thriller"
 Quarantine,"Horror,Science Fiction,Thriller"
 The Eye,"Drama,Horror,Thriller"
 Johnson Family Vacation,"Comedy,Family"
-How High,"C,o,m,e,d,y"
+How High,Comedy
 The Muppet Christmas Carol,"Comedy,Family,Fantasy,Drama"
 Frida,"Drama,Romance"
 Katy Perry: Part of Me,"Documentary,Music"
@@ -2842,12 +2842,12 @@ Rounders,"Drama,Crime"
 Top Five,"Drama,Comedy"
 Prophecy,"Horror,Science Fiction"
 Stir of Echoes,"Horror,Mystery,Thriller"
-Philomena,"D,r,a,m,a"
+Philomena,Drama
 The Upside of Anger,"Comedy,Drama"
 The Boys from Brazil,"Horror,Drama,Thriller,Science Fiction"
 Aquamarine,"Fantasy,Romance,Family,Comedy"
 Paper Towns,"Drama,Mystery,Romance"
-My Baby's Daddy,"C,o,m,e,d,y"
+My Baby's Daddy,Comedy
 Nebraska,"Drama,Adventure"
 Tales from the Crypt: Demon Knight,"Horror,Comedy,Thriller"
 Max Keeble's Big Move,"Comedy,Family,Fantasy,Science Fiction"
@@ -2856,11 +2856,11 @@ Crank,"Action,Thriller,Crime"
 Def Jam's How to Be a Player,"Comedy,Romance"
 Living Out Loud,"Comedy,Drama,Romance"
 Just Wright,"Comedy,Drama,Romance"
-Rachel Getting Married,"D,r,a,m,a"
+Rachel Getting Married,Drama
 The Postman Always Rings Twice,"Romance,Crime,Drama"
 Girl with a Pearl Earring,"Drama,Romance"
 Das Boot,"Action,Drama,History,War,Adventure"
-Sorority Boys,"C,o,m,e,d,y"
+Sorority Boys,Comedy
 About Time,"Comedy,Drama,Science Fiction"
 House of Flying Daggers,"Adventure,Drama,Action,Romance"
 Arbitrage,"Drama,Thriller"
@@ -2872,7 +2872,7 @@ For Your Consideration,"Comedy,Drama"
 Celebrity,"Drama,Comedy"
 Running with Scissors,"Drama,Comedy"
 From Justin to Kelly,"Comedy,Romance"
-Girl 6,"C,o,m,e,d,y"
+Girl 6,Comedy
 In the Cut,"Mystery,Thriller"
 Two Lovers,"Drama,Romance"
 Last Orders,"Comedy,Drama"
@@ -2888,61 +2888,61 @@ Married Life,"Crime,Drama,Romance"
 Duma,"Adventure,Drama,Family"
 Ondine,"Drama,Romance"
 Brother,"Crime,Drama,Thriller"
-Welcome to Collinwood,"C,o,m,e,d,y"
+Welcome to Collinwood,Comedy
 Critical Care,"Comedy,Drama"
 The Life Before Her Eyes,"Thriller,Drama,Mystery"
 Darling Companion,"Drama,Romance"
 Trade,"Drama,Thriller"
 Fateless,"War,Drama"
-Breakfast of Champions,"C,o,m,e,d,y"
+Breakfast of Champions,Comedy
 "A Woman, a Gun and a Noodle Shop","Comedy,Drama,Thriller"
 Cypher,"Thriller,Science Fiction,Mystery"
 City of Life and Death,"Drama,History,War"
 Legend of a Rabbit,"Animation,Family,Action,Adventure,Comedy"
-Space Battleship Yamato,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Space Battleship Yamato,Science Fiction
 5 Days of War,"War,Drama"
-Triangle,"H,o,r,r,o,r"
-10 Days in a Madhouse,"D,r,a,m,a"
-Heaven is for Real,"D,r,a,m,a"
+Triangle,Horror
+10 Days in a Madhouse,Drama
+Heaven is for Real,Drama
 Snatch,"Thriller,Crime"
 Dancin' It's On,"Drama,Romance"
 Pet Sematary,"Drama,Horror"
-Madadayo,"D,r,a,m,a"
-The Cry of the Owl,"D,r,a,m,a"
+Madadayo,Drama
+The Cry of the Owl,Drama
 A Tale of Three Cities,"Drama,History,Romance"
 Gremlins,"Fantasy,Horror,Comedy"
 Star Wars,"Adventure,Action,Science Fiction"
-Dirty Grandpa,"C,o,m,e,d,y"
+Dirty Grandpa,Comedy
 Doctor Zhivago,"Drama,Romance,War"
 Trash,"Adventure,Crime,Drama,Thriller"
 High School Musical 3: Senior Year,"Comedy,Drama,Family,Music,Romance"
-The Fighter,"D,r,a,m,a"
+The Fighter,Drama
 Jackass Number Two,"Action,Comedy,Documentary"
 My Cousin Vinny,"Comedy,Drama"
-If I Stay,"D,r,a,m,a"
+If I Stay,Drama
 Drive Hard,"Action,Comedy,Crime"
-Major League,"C,o,m,e,d,y"
+Major League,Comedy
 St. Trinian's,"Comedy,Family,Science Fiction"
 Phone Booth,"Thriller,Drama"
 A Walk to Remember,"Drama,Romance"
-Dead Man Walking,"D,r,a,m,a"
+Dead Man Walking,Drama
 Cruel Intentions,"Drama,Romance,Thriller"
 Saw VI,"Horror,Mystery"
-History of the World: Part I,"C,o,m,e,d,y"
-The Secret Life of Bees,"A,d,v,e,n,t,u,r,e"
+History of the World: Part I,Comedy
+The Secret Life of Bees,Adventure
 Corky Romano,"Action,Comedy,Crime"
 Raising Cain,"Drama,Horror,Thriller,Crime"
 F.I.S.T.,"Drama,Action"
-Invaders from Mars,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Invaders from Mars,Science Fiction
 Brooklyn,"Drama,Romance"
 Barry Lyndon,"Drama,Romance,War"
-Out Cold,"C,o,m,e,d,y"
-The Ladies Man,"C,o,m,e,d,y"
+Out Cold,Comedy
+The Ladies Man,Comedy
 Quartet,"Drama,Comedy,Romance"
 Tomcats,"Comedy,Romance"
 Frailty,"Drama,Thriller,Crime"
-Woman in Gold,"D,r,a,m,a"
-Kinsey,"D,r,a,m,a"
+Woman in Gold,Drama
+Kinsey,Drama
 Army of Darkness,"Fantasy,Horror,Comedy"
 Slackers,"Comedy,Romance"
 What's Eating Gilbert Grape,"Romance,Drama"
@@ -2955,7 +2955,7 @@ O,"Drama,Romance,Thriller"
 Return to the Blue Lagoon,"Drama,Adventure,Romance"
 The Molly Maguires,"Drama,History"
 Romance & Cigarettes,"Comedy,Music,Romance"
-Copying Beethoven,"D,r,a,m,a"
+Copying Beethoven,Drama
 Brighton Rock,"Drama,Thriller,Crime"
 Saw V,"Horror,Thriller,Crime"
 Machine Gun McCain,"Drama,Action,Thriller,Crime,Foreign"
@@ -2964,7 +2964,7 @@ Jindabyne,"Crime,Drama,Mystery,Thriller"
 Kabhi Alvida Naa Kehna,"Drama,Romance"
 An Ideal Husband,"Drama,Comedy,Romance"
 The Last Days on Mars,"Science Fiction,Thriller,Horror"
-Darkness,"H,o,r,r,o,r"
+Darkness,Horror
 2001: A Space Odyssey,"Science Fiction,Mystery,Adventure"
 E.T. the Extra-Terrestrial,"Science Fiction,Adventure,Family,Fantasy"
 In the Land of Women,"Romance,Comedy,Drama"
@@ -2974,21 +2974,21 @@ Housefull,"Drama,Comedy,Romance,Foreign"
 September Dawn,"Drama,Action,History,Western,Romance"
 For Greater Glory - The True Story of Cristiada,"History,Drama"
 The Bélier Family,"Comedy,Drama,Music"
-Good Will Hunting,"D,r,a,m,a"
+Good Will Hunting,Drama
 Misconduct,"Drama,Thriller"
 Saw III,"Horror,Thriller,Crime"
 Stripes,"Action,Comedy"
-Bring It On,"C,o,m,e,d,y"
+Bring It On,Comedy
 The Purge: Election Year,"Action,Horror,Thriller"
 She's All That,"Comedy,Romance"
 Saw IV,"Horror,Thriller,Crime"
 White Noise,"Drama,Horror,Thriller"
 Madea's Family Reunion,"Drama,Comedy,Romance"
-The Color of Money,"D,r,a,m,a"
+The Color of Money,Drama
 The Longest Day,"Action,Drama,History,War"
 The Mighty Ducks,"Comedy,Family"
 The Grudge,"Horror,Mystery,Thriller"
-Happy Gilmore,"C,o,m,e,d,y"
+Happy Gilmore,Comedy
 Jeepers Creepers,"Horror,Thriller"
 Bill & Ted's Excellent Adventure,"Adventure,Comedy,Science Fiction"
 Oliver!,"Drama,Family,Music"
@@ -2998,7 +2998,7 @@ Mad Max Beyond Thunderdome,"Action,Adventure,Science Fiction"
 Commando,"Action,Adventure,Thriller"
 The Boy,"Horror,Mystery,Thriller"
 Devil,"Horror,Mystery,Thriller"
-Friday After Next,"C,o,m,e,d,y"
+Friday After Next,Comedy
 Insidious: Chapter 3,"Drama,Horror,Thriller"
 The Last Dragon,"Action,Adventure,Comedy"
 The Lawnmower Man,"Horror,Thriller,Science Fiction"
@@ -3014,7 +3014,7 @@ Can't Hardly Wait,"Comedy,Drama,Romance"
 The Outsiders,"Crime,Drama"
 Pete's Dragon,"Adventure,Family,Fantasy"
 The Dead Zone,"Horror,Science Fiction,Thriller"
-Sinister 2,"H,o,r,r,o,r"
+Sinister 2,Horror
 Sparkle,"Drama,Music"
 Valentine,"Horror,Thriller"
 The Fourth Kind,"Mystery,Science Fiction,Thriller"
@@ -3023,7 +3023,7 @@ Sugar Hill,"Drama,Action,Thriller"
 Invasion U.S.A.,"Action,Thriller"
 Roll Bounce,"Comedy,Drama,Family"
 Rushmore,"Comedy,Drama"
-Skyline,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Skyline,Science Fiction
 The Second Best Exotic Marigold Hotel,"Drama,Comedy"
 Kit Kittredge: An American Girl,"Comedy,Drama,Family"
 The Perfect Man,"Comedy,Drama,Family,Romance"
@@ -3033,39 +3033,39 @@ Tremors,"Action,Horror"
 Wrong Turn,"Horror,Thriller"
 The Long Riders,"Western,History"
 The Corruptor,"Action,Crime,Mystery,Thriller"
-Mud,"D,r,a,m,a"
+Mud,Drama
 Reno 911!: Miami,"Action,Adventure,Comedy,Crime"
 One Direction: This Is Us,"Documentary,Music"
-"The Goods: Live Hard, Sell Hard","C,o,m,e,d,y"
+"The Goods: Live Hard, Sell Hard",Comedy
 Hey Arnold! The Movie,"Animation,Family"
-My Week with Marilyn,"D,r,a,m,a"
+My Week with Marilyn,Drama
 The Matador,"Action,Comedy,Crime,Drama,Thriller"
 Love Jones,"Comedy,Drama,Romance"
 The Gift,"Thriller,Mystery"
 End of the Spear,"Adventure,Drama"
 Get Over It,"Comedy,Romance"
 Office Space,"Comedy,Crime"
-Drop Dead Gorgeous,"C,o,m,e,d,y"
-Big Eyes,"D,r,a,m,a"
+Drop Dead Gorgeous,Comedy
+Big Eyes,Drama
 Very Bad Things,"Comedy,Crime,Thriller"
 Sleepover,"Comedy,Family"
 Body Double,"Crime,Mystery,Horror,Thriller"
 MacGruber,"Action,Adventure,Comedy"
 Dirty Pretty Things,"Crime,Drama,Thriller"
-Movie 43,"C,o,m,e,d,y"
-Over Her Dead Body,"C,o,m,e,d,y"
+Movie 43,Comedy
+Over Her Dead Body,Comedy
 Seeking a Friend for the End of the World,"Comedy,Drama,Romance,Science Fiction"
-Cedar Rapids,"C,o,m,e,d,y"
-American History X,"D,r,a,m,a"
+Cedar Rapids,Comedy
+American History X,Drama
 The Collection,"Horror,Thriller"
 Teacher's Pet,"Animation,Drama,Family,Music"
 The Red Violin,"Drama,Thriller,Mystery,Music,Romance"
-The Straight Story,"D,r,a,m,a"
+The Straight Story,Drama
 Deuces Wild,"Action,Crime,Drama,Romance"
-Bad Words,"C,o,m,e,d,y"
+Bad Words,Comedy
 "Run, Fatboy, Run","Comedy,Romance"
 Heartbeeps,"Comedy,Romance,Family"
-Black or White,"D,r,a,m,a"
+Black or White,Drama
 On the Line,"Comedy,Family,Romance"
 Rescue Dawn,"Adventure,Drama,War"
 Danny Collins,"Comedy,Drama,Music"
@@ -3074,16 +3074,16 @@ I Am Love,"Drama,Romance"
 Atlas Shrugged Part II,"Drama,Science Fiction,Mystery"
 Romeo Is Bleeding,"Action,Crime,Drama,Thriller"
 The Limey,"Action,Crime,Drama,Mystery,Thriller"
-Crash,"D,r,a,m,a"
+Crash,Drama
 The House of Mirth,"Drama,Romance"
 Malone,"Action,Thriller"
 Peaceful Warrior,"Drama,Romance"
-Bucky Larson: Born to Be a Star,"C,o,m,e,d,y"
+Bucky Larson: Born to Be a Star,Comedy
 Bamboozled,"Comedy,Drama"
 The Forest,"Horror,Thriller"
 Sphinx,"Adventure,Mystery,Thriller"
 While We're Young,"Comedy,Drama,Mystery"
-A Better Life,"D,r,a,m,a"
+A Better Life,Drama
 Spider,"Drama,Mystery,Thriller"
 Gun Shy,"Action,Comedy,Romance,Thriller"
 Nicholas Nickleby,"Adventure,Drama,Action,Family"
@@ -3093,34 +3093,34 @@ Cecil B. Demented,"Thriller,Comedy,Crime"
 Killer Joe,"Crime,Drama,Thriller"
 The Joneses,"Comedy,Drama"
 Owning Mahowny,"Crime,Drama,Thriller"
-The Brothers Solomon,"C,o,m,e,d,y"
+The Brothers Solomon,Comedy
 My Blueberry Nights,"Drama,Romance"
-Illuminata,"D,r,a,m,a"
+Illuminata,Drama
 Swept Away,"Comedy,Romance"
 "War, Inc.","Action,Adventure,Comedy,Thriller"
 Shaolin Soccer,"Action,Comedy"
-The Brown Bunny,"D,r,a,m,a"
+The Brown Bunny,Drama
 The Swindle,"Comedy,Crime,Thriller"
-Rosewater,"D,r,a,m,a"
-The Chambermaid on the Titanic,"D,r,a,m,a"
+Rosewater,Drama
+The Chambermaid on the Titanic,Drama
 Coriolanus,"Drama,Thriller"
 Imaginary Heroes,"Comedy,Drama"
 High Heels and Low Lifes,"Action,Crime,Comedy"
 World's Greatest Dad,"Comedy,Romance"
 Severance,"Horror,Comedy,Thriller"
 Edmond,"Drama,Thriller"
-Welcome to the Rileys,"D,r,a,m,a"
+Welcome to the Rileys,Drama
 Police Academy: Mission to Moscow,"Comedy,Crime"
 Blood Done Sign My Name,"Drama,Crime"
 Cinco de Mayo: La Batalla,"War,History,Drama"
 Elsa & Fred,"Comedy,Family,Romance"
-"An Alan Smithee Film: Burn, Hollywood, Burn","C,o,m,e,d,y"
+"An Alan Smithee Film: Burn, Hollywood, Burn",Comedy
 The Open Road,"Comedy,Drama,Romance"
 The Good Guy,"Comedy,Romance"
 Motherhood,"Comedy,Drama"
 Free Style,"Drama,Family"
 Strangerland,"Drama,Thriller"
-Janky Promoters,"C,o,m,e,d,y"
+Janky Promoters,Comedy
 Blonde Ambition,"Comedy,Romance"
 The Oxford Murders,"Crime,Mystery,Thriller"
 The Reef,"Drama,Horror,Thriller"
@@ -3134,14 +3134,14 @@ Of Horses and Men,"Drama,Romance,Comedy"
 It's a Wonderful Afterlife,"Comedy,Romance"
 The Devil's Tomb,"Action,Horror,Thriller,Science Fiction"
 Partition,"Drama,Foreign,Romance"
-Good Intentions,"C,o,m,e,d,y"
+Good Intentions,Comedy
 "The Good, The Bad, The Weird","Action,Adventure,Comedy,Western"
 Nurse 3-D,"Horror,Thriller"
 Gunless,"Drama,Action,Comedy,Western"
-Adventureland,"C,o,m,e,d,y"
+Adventureland,Comedy
 The Lost City,"Drama,Romance"
-Next Friday,"C,o,m,e,d,y"
-American Heist,"A,c,t,i,o,n"
+Next Friday,Comedy
+American Heist,Action
 You Only Live Twice,"Action,Thriller,Adventure"
 Plastic,"Drama,Action,Comedy,Crime"
 Amour,"Drama,Romance"
@@ -3158,7 +3158,7 @@ Melancholia,"Drama,Science Fiction"
 Red Dog,"Drama,Comedy,Family"
 Jab Tak Hai Jaan,"Drama,Romance"
 Alien,"Horror,Action,Thriller,Science Fiction"
-The Texas Chain Saw Massacre,"H,o,r,r,o,r"
+The Texas Chain Saw Massacre,Horror
 The Runaways,"Drama,Music"
 Fiddler on the Roof,"Drama,Romance"
 Thunderball,"Adventure,Action,Thriller"
@@ -3167,24 +3167,24 @@ Loose Cannons,"Comedy,Drama,Romance"
 Set It Off,"Drama,Action,Crime"
 The Best Man,"Drama,Comedy"
 Child's Play,"Horror,Thriller"
-Sicko,"D,o,c,u,m,e,n,t,a,r,y"
+Sicko,Documentary
 The Purge: Anarchy,"Horror,Thriller"
 Down to You,"Comedy,Drama,Family,Romance"
 Harold & Kumar Go to White Castle,"Comedy,Adventure"
 The Contender,"Drama,Thriller"
 Boiler Room,"Crime,Drama,Thriller"
-Trading Places,"C,o,m,e,d,y"
+Trading Places,Comedy
 Black Christmas,"Horror,Thriller"
 Breakin' All the Rules,"Comedy,Romance"
 Henry V,"War,Drama,History,Action,Romance"
-The Savages,"D,r,a,m,a"
+The Savages,Drama
 Chasing Papi,"Comedy,Romance"
 The Way of the Gun,"Action,Crime,Drama,Thriller"
 Igby Goes Down,"Comedy,Drama"
-PCU,"C,o,m,e,d,y"
+PCU,Comedy
 The Ultimate Gift,"Romance,Drama,Family"
 The Ice Pirates,"Action,Science Fiction,Comedy"
-Gracie,"D,r,a,m,a"
+Gracie,Drama
 Trust the Man,"Comedy,Drama,Romance"
 Hamlet 2,"Comedy,Music"
 Velvet Goldmine,"Drama,Music"
@@ -3192,9 +3192,9 @@ The Wailing,"Horror,Mystery"
 Glee: The Concert Movie,"Documentary,Music,Family"
 The Legend of Suriyothai,"Drama,Foreign,History,War"
 Two Evil Eyes,"Horror,Thriller"
-Barbecue,"C,o,m,e,d,y"
+Barbecue,Comedy
 All or Nothing,"Comedy,Drama"
-Princess Kaiulani,"D,r,a,m,a"
+Princess Kaiulani,Drama
 Opal Dream,"Drama,Family,Foreign"
 Flame & Citron,"Crime,Drama,History,War"
 Undiscovered,"Comedy,Romance"
@@ -3205,18 +3205,18 @@ Crocodile Dundee,"Adventure,Comedy"
 "Ultramarines: A Warhammer 40,000 Movie","Animation,Science Fiction"
 The I Inside,"Thriller,Mystery,Science Fiction"
 Beneath Hill 60,"Drama,History,War"
-Polisse,"D,r,a,m,a"
+Polisse,Drama
 Awake,"Thriller,Crime,Mystery"
 Star Wars: Clone Wars: Volume 1,"Action,Adventure,Animation,Fantasy,Science Fiction"
 Skin Trade,"Thriller,Action,Drama"
 The Lost Boys,"Horror,Comedy"
 Crazy Heart,"Drama,Music,Romance"
 The Rose,"Drama,Music,Romance"
-Baggage Claim,"C,o,m,e,d,y"
-Barbarella,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Baggage Claim,Comedy
+Barbarella,Science Fiction
 Shipwrecked,"Adventure,Family"
-Election,"C,o,m,e,d,y"
-The Namesake,"D,r,a,m,a"
+Election,Comedy
+The Namesake,Drama
 The DUFF,"Romance,Comedy"
 Glitter,"Drama,Romance"
 The Haunting in Connecticut 2: Ghosts of Georgia,"Horror,Drama,Thriller"
@@ -3227,7 +3227,7 @@ All Is Lost,"Action,Adventure,Drama"
 Limbo,"Adventure,Drama,Thriller"
 Namastey London,"Drama,Foreign,Romance"
 The Wind That Shakes the Barley,"Drama,History,War"
-Yeh Jawaani Hai Deewani,"R,o,m,a,n,c,e"
+Yeh Jawaani Hai Deewani,Romance
 Quo Vadis,"Drama,History,Romance"
 Repo! The Genetic Opera,"Horror,Comedy,Music,Science Fiction"
 Valley of the Wolves: Iraq,"Adventure,Drama,Action"
@@ -3240,34 +3240,34 @@ Splash,"Comedy,Fantasy,Romance"
 Little Miss Sunshine,"Comedy,Drama"
 Stand by Me,"Crime,Drama"
 28 Days Later,"Horror,Thriller,Science Fiction"
-You Got Served,"D,r,a,m,a"
+You Got Served,Drama
 Escape from Alcatraz,"Crime,Drama"
 Brown Sugar,"Comedy,Romance"
 A Thin Line Between Love and Hate,"Comedy,Thriller,Crime,Romance"
 50/50,"Comedy,Drama"
 Shutter,"Horror,Mystery,Thriller"
 That Awkward Moment,"Comedy,Romance"
-Modern Problems,"C,o,m,e,d,y"
-Kicks,"A,d,v,e,n,t,u,r,e"
+Modern Problems,Comedy
+Kicks,Adventure
 Much Ado About Nothing,"Drama,Comedy,Romance"
 On Her Majesty's Secret Service,"Adventure,Action,Thriller"
 New Nightmare,"Horror,Thriller,Mystery,Fantasy"
 Drive Me Crazy,"Drama,Comedy,Romance,Family"
-Akeelah and the Bee,"D,r,a,m,a"
+Akeelah and the Bee,Drama
 Half Baked,"Comedy,Crime"
-New in Town,"C,o,m,e,d,y"
+New in Town,Comedy
 American Psycho,"Thriller,Drama,Crime"
 The Good Girl,"Drama,Comedy,Romance"
 Bon Cop Bad Cop,"Action,Comedy,Crime"
 The Boondock Saints II: All Saints Day,"Action,Thriller,Crime"
-The City of Your Final Destination,"D,r,a,m,a"
+The City of Your Final Destination,Drama
 Enough Said,"Comedy,Drama,Romance"
-Easy A,"C,o,m,e,d,y"
+Easy A,Comedy
 The Inkwell,"Comedy,Drama,Romance"
 Shadow of the Vampire,"Drama,Horror"
-Prom,"C,o,m,e,d,y"
+Prom,Comedy
 The Pallbearer,"Comedy,Romance"
-Held Up,"C,o,m,e,d,y"
+Held Up,Comedy
 Woman on Top,"Comedy,Drama,Romance"
 Howards End,"Drama,Romance"
 Anomalisa,"Animation,Comedy,Drama,Romance"
@@ -3277,7 +3277,7 @@ Showdown in Little Tokyo,"Action,Thriller"
 Clay Pigeons,"Comedy,Crime,Drama,Thriller"
 It's Kind of a Funny Story,"Comedy,Drama"
 Made in Dagenham,"Comedy,Drama,History"
-When Did You Last See Your Father?,"D,r,a,m,a"
+When Did You Last See Your Father?,Drama
 Prefontaine,"Drama,Romance"
 The Wicked Lady,"Drama,Adventure"
 The Secret of Kells,"Animation,Family,Fantasy"
@@ -3291,17 +3291,17 @@ Fido,"Romance,Comedy,Drama,Horror"
 The Wendell Baker Story,"Comedy,Drama,Romance"
 Wild Target,"Action,Comedy"
 Pathology,"Crime,Horror,Thriller"
-Wuthering Heights,"D,r,a,m,a"
+Wuthering Heights,Drama
 10th & Wolf,"Action,Crime,Drama,Mystery,Thriller"
 Dear Wendy,"Comedy,Crime,Drama,Romance"
-Aloft,"D,r,a,m,a"
+Aloft,Drama
 Akira,"Science Fiction,Animation"
 The Death and Life of Bobby Z,"Drama,Action,Thriller,Crime"
-The Rocket: The Legend of Rocket Richard,"D,r,a,m,a"
+The Rocket: The Legend of Rocket Richard,Drama
 Swelter,"Action,Drama,Thriller"
 My Lucky Star,"Comedy,Romance"
 Imagine Me & You,"Drama,Comedy,Romance"
-Mr. Church,"D,r,a,m,a"
+Mr. Church,Drama
 Swimming Pool,"Thriller,Crime"
 Green Street Hooligans: Underground,"Action,Drama"
 The Blood of Heroes,"Action,Adventure,Science Fiction"
@@ -3311,20 +3311,20 @@ Soul Food,"Comedy,Drama"
 Rumble in the Bronx,"Crime,Action,Comedy,Thriller"
 Far from Men,"Drama,War"
 Thank You for Smoking,"Comedy,Drama"
-Hostel: Part II,"H,o,r,r,o,r"
+Hostel: Part II,Horror
 An Education,"Drama,Romance"
 Shopgirl,"Comedy,Drama,Romance"
 The Hotel New Hampshire,"Comedy,Drama"
 Narc,"Action,Crime,Drama,Thriller"
-Men with Brooms,"C,o,m,e,d,y"
+Men with Brooms,Comedy
 Witless Protection,"Action,Adventure,Comedy,Crime"
 The Work and the Glory,"Drama,Romance"
-Extract,"C,o,m,e,d,y"
+Extract,Comedy
 Masked and Anonymous,"Drama,Music"
 Betty Fisher and Other Stories,"Drama,Thriller,Crime,Foreign"
 Code 46,"Drama,Romance,Science Fiction,Thriller"
-Outside Bet,"C,o,m,e,d,y"
-Albert Nobbs,"D,r,a,m,a"
+Outside Bet,Comedy
+Albert Nobbs,Drama
 Black November,"Drama,Action,Crime"
 Ta Ra Rum Pum,"Family,Comedy,Romance"
 Persepolis,"Animation,Drama"
@@ -3334,7 +3334,7 @@ The Neon Demon,"Thriller,Horror"
 Harry Brown,"Thriller,Crime,Drama,Action"
 The Omega Code,"Horror,Thriller"
 Juno,"Comedy,Drama,Romance"
-Pound of Flesh,"A,c,t,i,o,n"
+Pound of Flesh,Action
 Diamonds Are Forever,"Adventure,Action,Thriller"
 The Godfather,"Drama,Crime"
 Flashdance,"Drama,Music,Romance"
@@ -3345,7 +3345,7 @@ Darkness Falls,"Thriller,Horror"
 Live and Let Die,"Adventure,Action,Thriller"
 My Dog Skip,"Comedy,Drama,Family"
 "Definitely, Maybe","Comedy,Romance"
-Jumping the Broom,"C,o,m,e,d,y"
+Jumping the Broom,Comedy
 "Good Night, and Good Luck.","Drama,History"
 Capote,"Crime,Drama"
 Desperado,"Thriller,Action,Crime"
@@ -3353,51 +3353,51 @@ Logan's Run,"Adventure,Action,Romance,Science Fiction"
 The Man with the Golden Gun,"Adventure,Action,Thriller"
 Action Jackson,"Action,Adventure,Comedy,Crime,Drama"
 The Descent,"Adventure,Horror"
-Michael Jordan to the Max,"D,o,c,u,m,e,n,t,a,r,y"
-Devil's Due,"H,o,r,r,o,r"
+Michael Jordan to the Max,Documentary
+Devil's Due,Horror
 Flirting with Disaster,"Comedy,Romance"
 The Devil's Rejects,"Drama,Horror,Crime"
 Dope,"Crime,Drama,Comedy"
 In Too Deep,"Drama,Action,Thriller,Crime"
-House of 1000 Corpses,"H,o,r,r,o,r"
+House of 1000 Corpses,Horror
 Alien Zone,"Horror,Action,Thriller,Science Fiction"
 A Serious Man,"Comedy,Drama"
 Get Low,"Comedy,Drama,Mystery"
 Warlock,"Adventure,Comedy,Fantasy,Horror"
 Beyond the Lights,"Romance,Drama"
 A Single Man,"Drama,Romance"
-The Last Temptation of Christ,"D,r,a,m,a"
+The Last Temptation of Christ,Drama
 Outside Providence,"Romance,Comedy,Drama"
 Bride & Prejudice,"Drama,Comedy,Music,Romance"
 Rabbit-Proof Fence,"Adventure,Drama,Action,History"
-Who's Your Caddy?,"C,o,m,e,d,y"
+Who's Your Caddy?,Comedy
 Split Second,"Thriller,Action,Horror,Science Fiction,Crime"
 The Other Side of Heaven,"Action,Adventure,Drama,Family"
 Veer-Zaara,"Drama,Romance"
-Redbelt,"D,r,a,m,a"
+Redbelt,Drama
 Cyrus,"Comedy,Drama,Romance"
 A Dog Of Flanders,"Drama,Family"
 Auto Focus,"Drama,Crime"
-Factory Girl,"D,r,a,m,a"
+Factory Girl,Drama
 We Need to Talk About Kevin,"Drama,Thriller"
 The Christmas Candle,"Drama,Family"
 The Mighty Macs,"Action,Drama"
-Losin' It,"C,o,m,e,d,y"
+Losin' It,Comedy
 Mother and Child,"Drama,Romance"
 March or Die,"Action,Adventure,Drama,War"
 The Visitors,"Fantasy,Comedy,Science Fiction"
 Somewhere,"Comedy,Drama"
 I Hope They Serve Beer in Hell,"Comedy,Drama"
-Chairman of the Board,"C,o,m,e,d,y"
-Hesher,"D,r,a,m,a"
+Chairman of the Board,Comedy
+Hesher,Drama
 Dom Hemingway,"Comedy,Crime,Drama"
 Gerry,"Mystery,Drama,Adventure"
 The Heart of Me,"Drama,Romance"
 Freeheld,"Romance,Drama"
-The Extra Man,"C,o,m,e,d,y"
+The Extra Man,Comedy
 Hard to Be a God,"Drama,Science Fiction"
 Ca$h,"Crime,Thriller,Comedy"
-Wah-Wah,"D,r,a,m,a"
+Wah-Wah,Drama
 The Boondock Saints,"Action,Thriller,Crime"
 Z Storm,"Crime,Thriller"
 Twixt,"Horror,Thriller"
@@ -3417,7 +3417,7 @@ Incendies,"Drama,War,Mystery"
 "Remember Me, My Love","Drama,Comedy,Romance"
 Perrier’s Bounty,"Action,Comedy,Crime,Drama"
 Elite Squad,"Drama,Action,Crime"
-Annabelle,"H,o,r,r,o,r"
+Annabelle,Horror
 Bran Nue Dae,"Comedy,Drama,Foreign,Romance"
 Boyz n the Hood,"Crime,Drama"
 La Bamba,"Drama,Music"
@@ -3428,37 +3428,37 @@ Go,"Crime,Comedy,Thriller"
 Friends with Money,"Comedy,Drama,Romance"
 The Andromeda Strain,"Science Fiction,Thriller"
 Bats,"Horror,Thriller"
-Nowhere in Africa,"D,r,a,m,a"
-Shame,"D,r,a,m,a"
+Nowhere in Africa,Drama
+Shame,Drama
 Layer Cake,"Drama,Thriller,Crime"
-The Work and the Glory II: American Zion,"D,r,a,m,a"
+The Work and the Glory II: American Zion,Drama
 The East,"Drama,Thriller"
 A Home at the End of the World,"Romance,Drama"
 Aberdeen,"Drama,Comedy,Foreign"
 The Messenger,"Drama,History"
 Tracker,"Action,Drama,Thriller,Adventure"
-Control,"D,r,a,m,a"
+Control,Drama
 The Terminator,"Action,Thriller,Science Fiction"
 "Good bye, Lenin!","Comedy,Drama,Romance"
-The Damned United,"D,r,a,m,a"
+The Damned United,Drama
 The Return of the Living Dead,"Comedy,Horror"
 Mallrats,"Romance,Comedy"
-Grease,"R,o,m,a,n,c,e"
+Grease,Romance
 Platoon,"Drama,War,Action"
-Fahrenheit 9/11,"D,o,c,u,m,e,n,t,a,r,y"
+Fahrenheit 9/11,Documentary
 Butch Cassidy and the Sundance Kid,"History,Drama,Western,Crime"
 Mary Poppins,"Comedy,Family,Fantasy"
-Ordinary People,"D,r,a,m,a"
+Ordinary People,Drama
 West Side Story,"Crime,Drama,Music"
-Caddyshack,"C,o,m,e,d,y"
+Caddyshack,Comedy
 The Brothers,"Comedy,Drama,Romance"
 The Wood,"Comedy,Drama,Romance"
 The Usual Suspects,"Drama,Crime,Thriller"
 A Nightmare on Elm Street 5: The Dream Child,"Horror,Thriller"
 National Lampoon’s Van Wilder,"Comedy,Romance"
 The Wrestler,"Drama,Romance"
-Duel in the Sun,"W,e,s,t,e,r,n"
-Best in Show,"C,o,m,e,d,y"
+Duel in the Sun,Western
+Best in Show,Comedy
 Escape from New York,"Science Fiction,Action"
 School Daze,"Comedy,Drama"
 Daddy Day Camp,"Comedy,Family"
@@ -3467,42 +3467,42 @@ A Mighty Wind,"Comedy,Music"
 Mystic Pizza,"Comedy,Drama,Romance"
 Sliding Doors,"Comedy,Drama,Fantasy,Romance"
 Tales from the Hood,"Crime,Horror,Thriller"
-The Last King of Scotland,"D,r,a,m,a"
+The Last King of Scotland,Drama
 Halloween 5: The Revenge of Michael Myers,"Horror,Thriller"
 Bernie,"Comedy,Crime,Drama"
-Dolphins and Whales: Tribes of the Ocean,"D,o,c,u,m,e,n,t,a,r,y"
+Dolphins and Whales: Tribes of the Ocean,Documentary
 Pollock,"Drama,Romance"
 200 Cigarettes,"Comedy,Drama,Romance"
 The Words,"Drama,Thriller"
 Casa De Mi Padre,"Comedy,Western"
 City Island,"Drama,Comedy"
 The Guard,"Action,Comedy,Thriller,Crime"
-College,"C,o,m,e,d,y"
+College,Comedy
 The Virgin Suicides,"Drama,Romance"
 Little Voice,"Comedy,Drama"
 Miss March,"Comedy,Romance"
 Wish I Was Here,"Drama,Comedy"
-Simply Irresistible,"C,o,m,e,d,y"
+Simply Irresistible,Comedy
 Hedwig and the Angry Inch,"Comedy,Music"
-Only the Strong,"A,c,t,i,o,n"
+Only the Strong,Action
 Goddess of Love,"Mystery,Drama,Thriller,Horror"
 Shattered Glass,"Drama,History"
 Novocaine,"Comedy,Crime,Thriller"
 The Business of Strangers,"Drama,Thriller"
 The Wild Bunch,"Adventure,Western"
-The Wackness,"D,r,a,m,a"
+The Wackness,Drama
 The First Great Train Robbery,"Thriller,Adventure,Drama,Crime"
-Morvern Callar,"D,r,a,m,a"
+Morvern Callar,Drama
 Beastmaster 2: Through the Portal of Time,"Action,Adventure,Fantasy,Science Fiction"
-The 5th Quarter,"D,r,a,m,a"
-The Flower of Evil,"D,r,a,m,a"
-The Greatest,"D,r,a,m,a"
+The 5th Quarter,Drama
+The Flower of Evil,Drama
+The Greatest,Drama
 Snow Flower and the Secret Fan,"Drama,History"
 Come Early Morning,"Drama,Romance"
 Lucky Break,"Action,Comedy"
-Julia,"D,r,a,m,a"
-"Surfer, Dude","C,o,m,e,d,y"
-Lake of Fire,"D,o,c,u,m,e,n,t,a,r,y"
+Julia,Drama
+"Surfer, Dude",Comedy
+Lake of Fire,Documentary
 11:14,"Crime,Drama,Thriller"
 Men of War,"Action,Thriller"
 Don McKay,"Crime,Mystery,Thriller"
@@ -3512,15 +3512,15 @@ The Hit List,"Action,Thriller"
 Emma,"Romance,Comedy,Drama"
 Videodrome,"Horror,Mystery,Science Fiction"
 The Spanish Apartment,"Drama,Comedy,Romance"
-Song One,"D,r,a,m,a"
+Song One,Drama
 Winter in Wartime,"Drama,History,War"
-Freaky Deaky,"C,o,m,e,d,y"
+Freaky Deaky,Comedy
 The Train,"Action,Drama,Thriller,War"
 Trade Of Innocents,"Drama,Thriller"
 The Protector,"Action,Crime,Drama,Thriller"
-Stiff Upper Lips,"C,o,m,e,d,y"
+Stiff Upper Lips,Comedy
 Bend It Like Beckham,"Comedy,Drama,Romance"
-Sunshine State,"D,r,a,m,a"
+Sunshine State,Drama
 Crossover,"Action,Adventure,Drama"
 Khiladi 786,"Action,Comedy"
 [REC]²,"Thriller,Horror"
@@ -3528,43 +3528,43 @@ Standing Ovation,"Comedy,Music,Family"
 The Sting,"Comedy,Crime,Drama"
 Chariots of Fire,"Drama,History"
 Diary of a Mad Black Woman,"Comedy,Drama,Romance"
-Shine,"D,r,a,m,a"
+Shine,Drama
 Don Jon,"Romance,Comedy,Drama"
-High Plains Drifter,"W,e,s,t,e,r,n"
+High Plains Drifter,Western
 Ghost World,"Comedy,Drama"
 Iris,"Drama,Romance"
 Galaxina,"Comedy,Science Fiction"
-The Chorus,"D,r,a,m,a"
+The Chorus,Drama
 Mambo Italiano,"Comedy,Romance"
 Wonderland,"Crime,Drama,Mystery,Thriller"
-Do the Right Thing,"D,r,a,m,a"
-Harvard Man,"D,r,a,m,a"
+Do the Right Thing,Drama
+Harvard Man,Drama
 Le Havre,"Drama,Comedy"
 Irreversible,"Drama,Thriller,Crime,Mystery"
 R100,"Comedy,Drama"
-Rang De Basanti,"D,r,a,m,a"
-Animals,"D,r,a,m,a"
+Rang De Basanti,Drama
+Animals,Drama
 Salvation Boulevard,"Comedy,Thriller,Action,Drama"
-The Ten,"C,o,m,e,d,y"
+The Ten,Comedy
 A Room for Romeo Brass,"Drama,Comedy,Foreign"
 Headhunters,"Thriller,Crime"
 Grabbers,"Science Fiction,Comedy,Thriller,Horror"
 Saint Ralph,"Comedy,Drama"
-Miss Julie,"D,r,a,m,a"
+Miss Julie,Drama
 Somewhere in Time,"Science Fiction,Drama,Fantasy,Romance"
 Dum Maaro Dum,"Drama,Action,Crime,Foreign"
 Insidious: Chapter 2,"Horror,Thriller"
-Saw II,"H,o,r,r,o,r"
+Saw II,Horror
 10 Cloverfield Lane,"Thriller,Science Fiction,Drama"
 Jackass: The Movie,"Documentary,Comedy"
 Lights Out,"Horror,Thriller"
-Paranormal Activity 3,"H,o,r,r,o,r"
-Ouija,"H,o,r,r,o,r"
+Paranormal Activity 3,Horror
+Ouija,Horror
 A Nightmare on Elm Street 3: Dream Warriors,"Horror,Thriller"
 Instructions Not Included,"Comedy,Drama"
-Paranormal Activity 4,"H,o,r,r,o,r"
-The Robe,"D,r,a,m,a"
-The Return of the Pink Panther,"C,o,m,e,d,y"
+Paranormal Activity 4,Horror
+The Robe,Drama
+The Return of the Pink Panther,Comedy
 Freddy's Dead: The Final Nightmare,"Horror,Thriller,Comedy"
 Monster,"Crime,Drama"
 "20,000 Leagues Under the Sea","Adventure,Drama,Science Fiction"
@@ -3573,22 +3573,22 @@ The Elephant Man,"Drama,History"
 Dallas Buyers Club,"Drama,History"
 The Lazarus Effect,"Thriller,Horror"
 Memento,"Mystery,Thriller"
-Oculus,"H,o,r,r,o,r"
-Clerks II,"C,o,m,e,d,y"
+Oculus,Horror
+Clerks II,Comedy
 Billy Elliot,"Drama,Comedy,Music"
 The Way Way Back,"Comedy,Drama"
-House Party 2,"C,o,m,e,d,y"
+House Party 2,Comedy
 The Man from Snowy River,"Family,Drama,Action,Western,Romance"
 Doug's 1st Movie,"Animation,Family,Comedy"
-The Apostle,"D,r,a,m,a"
-Mommie Dearest,"D,r,a,m,a"
+The Apostle,Drama
+Mommie Dearest,Drama
 Our Idiot Brother,"Comedy,Drama"
 Race,"Action,Drama"
-The Players Club,"D,r,a,m,a"
+The Players Club,Drama
 "As Above, So Below","Horror,Thriller"
 Addicted,"Drama,Thriller"
-Eve's Bayou,"D,r,a,m,a"
-Still Alice,"D,r,a,m,a"
+Eve's Bayou,Drama
+Still Alice,Drama
 The Egyptian,"History,Drama"
 Nighthawks,"Action,Crime,Thriller"
 Friday the 13th Part VIII: Jason Takes Manhattan,"Horror,Thriller"
@@ -3618,26 +3618,26 @@ The Barbarian Invasions,"Comedy,Crime,Drama"
 Robin and Marian,"Action,Adventure,Drama,Romance"
 The Forsaken,"Action,Adventure,Horror,Thriller"
 Force 10 from Navarone,"Action,Adventure,War,Thriller"
-UHF,"C,o,m,e,d,y"
-Grandma's Boy,"C,o,m,e,d,y"
+UHF,Comedy
+Grandma's Boy,Comedy
 Slums of Beverly Hills,"Comedy,Drama"
-Once Upon a Time in the West,"W,e,s,t,e,r,n"
+Once Upon a Time in the West,Western
 Made,"Action,Comedy,Thriller"
 Moon,"Science Fiction,Drama"
-Keeping Up with the Steins,"C,o,m,e,d,y"
-Sea Rex 3D: Journey to a Prehistoric World,"D,o,c,u,m,e,n,t,a,r,y"
-The Sweet Hereafter,"D,r,a,m,a"
+Keeping Up with the Steins,Comedy
+Sea Rex 3D: Journey to a Prehistoric World,Documentary
+The Sweet Hereafter,Drama
 Of Gods and Men,"Drama,History"
 Bottle Shock,"Comedy,Drama"
 Jekyll and Hyde ... Together Again,"Comedy,Horror,Science Fiction"
 Heavenly Creatures,"Drama,Fantasy"
-90 Minutes in Heaven,"D,r,a,m,a"
+90 Minutes in Heaven,Drama
 Everything Must Go,"Comedy,Drama,Romance"
 Zero Effect,"Comedy,Crime,Mystery,Thriller"
 The Machinist,"Thriller,Drama"
 Light Sleeper,"Drama,Crime"
 Kill the Messenger,"Thriller,Crime,Drama,Mystery"
-Rabbit Hole,"D,r,a,m,a"
+Rabbit Hole,Drama
 Party Monster,"Comedy,Drama,Crime"
 Green Room,"Horror,Crime,Thriller"
 The Oh in Ohio,"Comedy,Drama,Romance"
@@ -3645,8 +3645,8 @@ Atlas Shrugged Part III: Who is John Galt?,"Drama,Science Fiction,Mystery"
 Bottle Rocket,"Comedy,Crime,Drama"
 Albino Alligator,"Crime,Drama,Thriller"
 "Gandhi, My Father","Drama,Foreign,History"
-Standard Operating Procedure,"D,o,c,u,m,e,n,t,a,r,y"
-Out of the Blue,"D,r,a,m,a"
+Standard Operating Procedure,Documentary
+Out of the Blue,Drama
 Tucker and Dale vs Evil,"Comedy,Horror"
 "Lovely, Still","Drama,Romance"
 Tycoon,"Action,Drama,Romance"
@@ -3656,11 +3656,11 @@ The Visit,"Horror,Thriller"
 Redacted,"Drama,War"
 Fascination,"Romance,Thriller"
 Area 51,"Horror,Thriller,Science Fiction"
-Sleep Tight,"T,h,r,i,l,l,e,r"
+Sleep Tight,Thriller
 The Cottage,"Horror,Comedy,Crime,Thriller"
 Dead Like Me: Life After Death,"Drama,Fantasy,Comedy"
 Farce of the Penguins,"Comedy,Documentary"
-Flying By,"D,r,a,m,a"
+Flying By,Drama
 Rudderless,"Music,Drama,Comedy"
 Henry & Me,"Family,Animation"
 Christmas Eve,"Romance,Comedy"
@@ -3669,21 +3669,21 @@ Dying of the Light,"Thriller,Drama"
 Born Of War,"Action,Thriller,War"
 Capricorn One,"Drama,Action,Thriller,Science Fiction"
 Should've Been Romeo,"Comedy,Drama"
-Running Forever,"F,a,m,i,l,y"
+Running Forever,Family
 Yoga Hosers,"Comedy,Fantasy,Horror,Thriller"
 Navy Seals vs. Zombies,"Horror,Action"
 I Served the King of England,"Comedy,Drama"
 Soul Kitchen,"Drama,Comedy"
-Sling Blade,"D,r,a,m,a"
+Sling Blade,Drama
 The Awakening,"Horror,Thriller"
-Hostel,"H,o,r,r,o,r"
+Hostel,Horror
 A Cock and Bull Story,"Comedy,Drama"
 Take Shelter,"Thriller,Drama"
 Lady in White,"Horror,Thriller"
 Driving Lessons,"Drama,Comedy"
-Let's Kill Ward's Wife,"C,o,m,e,d,y"
-The Texas Chainsaw Massacre 2,"H,o,r,r,o,r"
-Pat Garrett & Billy the Kid,"W,e,s,t,e,r,n"
+Let's Kill Ward's Wife,Comedy
+The Texas Chainsaw Massacre 2,Horror
+Pat Garrett & Billy the Kid,Western
 Only God Forgives,"Drama,Thriller,Crime"
 Camping Sauvage,"Drama,Romance"
 Without Men,"Comedy,Romance"
@@ -3691,36 +3691,36 @@ Dear Frankie,"Drama,Family"
 All Hat,"Action,Comedy,Drama,Western"
 The Names of Love,"Drama,Comedy,Romance"
 Treading Water,"Drama,Comedy"
-Savage Grace,"D,r,a,m,a"
-Out of the Blue,"D,r,a,m,a"
+Savage Grace,Drama
+Out of the Blue,Drama
 Police Academy,"Comedy,Crime"
 The Blue Lagoon,"Romance,Adventure,Drama"
 Four Weddings and a Funeral,"Comedy,Drama,Romance"
-Fast Times at Ridgemont High,"C,o,m,e,d,y"
+Fast Times at Ridgemont High,Comedy
 Moby Dick,"Adventure,Drama"
 25th Hour,"Crime,Drama"
 Bound,"Crime,Drama,Romance,Thriller"
 Requiem for a Dream,"Crime,Drama"
 State Fair,"Music,Romance"
 Tango,"Drama,Foreign,Romance"
-Salvador,"D,r,a,m,a"
-Moms' Night Out,"C,o,m,e,d,y"
+Salvador,Drama
+Moms' Night Out,Comedy
 Donnie Darko,"Fantasy,Drama,Mystery"
 Saving Private Perez,"Action,Comedy,Foreign"
 Character,"Drama,Foreign,History"
 Spun,"Comedy,Crime,Drama"
 Life During Wartime,"Comedy,Drama"
 Sympathy for Lady Vengeance,"Drama,Thriller"
-Mozart's Sister,"D,r,a,m,a"
+Mozart's Sister,Drama
 Mean Machine,"Comedy,Drama"
 Exiled,"Action,Crime,Thriller"
 Blackthorn,"Adventure,Action,Western"
 Lilya 4-ever,"Crime,Drama"
 After.Life,"Drama,Horror,Mystery,Thriller"
 Fugly,"Comedy,Drama,Thriller"
-One Flew Over the Cuckoo's Nest,"D,r,a,m,a"
+One Flew Over the Cuckoo's Nest,Drama
 R.L. Stine's Monsterville: The Cabinet of Souls,"Comedy,Horror"
-Silent Movie,"C,o,m,e,d,y"
+Silent Movie,Comedy
 Airlift,"Thriller,Action,Drama,History"
 Anne of Green Gables,"Drama,Family"
 Falcon Rising,"Adventure,Action"
@@ -3734,25 +3734,25 @@ High School Musical,"Comedy,Drama,Family,Music,TV Movie"
 Love and Death on Long Island,"Drama,Romance,Foreign"
 Night Watch,"Fantasy,Action,Thriller"
 The Crying Game,"Romance,Crime,Drama,Thriller"
-Porky's,"C,o,m,e,d,y"
+Porky's,Comedy
 Survival of the Dead,"Horror,Science Fiction"
-Night of the Living Dead,"H,o,r,r,o,r"
-Lost in Translation,"D,r,a,m,a"
+Night of the Living Dead,Horror
+Lost in Translation,Drama
 Annie Hall,"Comedy,Drama,Romance"
 The Greatest Show on Earth,"Action,Drama,Romance"
 Monster's Ball,"Drama,Romance"
-Maggie,"H,o,r,r,o,r"
+Maggie,Horror
 Leaving Las Vegas,"Drama,Romance"
 Hansel and Gretel Get Baked,"Horror,Comedy"
 The Front Page,"Romance,Drama,Comedy"
-The Boy Next Door,"T,h,r,i,l,l,e,r"
-Trapeze,"D,r,a,m,a"
+The Boy Next Door,Thriller
+Trapeze,Drama
 The Kids Are All Right,"Comedy,Drama"
 They Live,"Action,Horror,Science Fiction,Thriller"
 The Great Escape,"Adventure,Drama,History,Thriller,War"
-What the #$*! Do We (K)now!?,"D,o,c,u,m,e,n,t,a,r,y"
+What the #$*! Do We (K)now!?,Documentary
 The Last Exorcism Part II,"Horror,Thriller"
-Boyhood,"D,r,a,m,a"
+Boyhood,Drama
 Scoop,"Comedy,Mystery"
 The Wash,"Action,Comedy"
 3 Strikes,"Action,Comedy,Romance"
@@ -3767,77 +3767,77 @@ Topaz,"Action,Drama,Mystery,Thriller"
 Let's Go to Prison,"Comedy,Crime"
 Four Rooms,"Crime,Comedy"
 Secretary,"Comedy,Drama,Romance"
-The Real Cancun,"D,o,c,u,m,e,n,t,a,r,y"
-Talk Radio,"D,r,a,m,a"
+The Real Cancun,Documentary
+Talk Radio,Drama
 Waiting for Guffman,"Music,Comedy"
 Love Stinks,"Comedy,Romance"
 You Kill Me,"Comedy,Crime,Thriller,Romance"
 Thumbsucker,"Comedy,Drama"
 Red State,"Horror,Action,Thriller"
-Mirrormask,"F,a,n,t,a,s,y"
+Mirrormask,Fantasy
 Samsara,"Drama,Documentary"
 The Barbarians,"Fantasy,Adventure"
 The Art of Getting By,"Drama,Romance"
 Zipper,"Thriller,Drama"
 Poolhall Junkies,"Comedy,Drama,Thriller"
-The Loss of Sexual Innocence,"D,r,a,m,a"
+The Loss of Sexual Innocence,Drama
 Holy Motors,"Drama,Fantasy"
-Joe,"D,r,a,m,a"
+Joe,Drama
 Shooting Fish,"Crime,Comedy,Romance"
 Prison,"Crime,Drama,Horror,Thriller"
-Psycho Beach Party,"C,o,m,e,d,y"
+Psycho Beach Party,Comedy
 The Big Tease,"Comedy,Foreign"
-"Guten Tag, Ramón","D,r,a,m,a"
+"Guten Tag, Ramón",Drama
 Trust,"Crime,Drama,Thriller"
 An Everlasting Piece,"Comedy,Crime"
 Among Giants,"Comedy,Romance"
-Adore,"D,r,a,m,a"
+Adore,Drama
 The Velocity of Gary,"Drama,Romance"
-Mondays in the Sun,"D,r,a,m,a"
+Mondays in the Sun,Drama
 Stake Land,"Drama,Horror,Action,Thriller,Science Fiction"
-The Last Time I Committed Suicide,"D,r,a,m,a"
-Futuro Beach,"D,r,a,m,a"
+The Last Time I Committed Suicide,Drama
+Futuro Beach,Drama
 Another Happy Day,"Comedy,Drama"
 A Lonely Place to Die,"Adventure,Action,Thriller,Crime"
 Nothing,"Comedy,Fantasy,Science Fiction"
-The Geographer Drank His Globe Away,"D,r,a,m,a"
+The Geographer Drank His Globe Away,Drama
 1776,"Drama,Comedy,History,Music"
 Inescapable,"Thriller,Romance"
 Hell's Angels,"Action,Drama,History"
 Purple Violets,"Comedy,Drama,Romance"
-The Veil,"H,o,r,r,o,r"
-The Loved Ones,"H,o,r,r,o,r"
-The Helpers,"H,o,r,r,o,r"
+The Veil,Horror
+The Loved Ones,Horror
+The Helpers,Horror
 How to Fall in Love,"Comedy,Romance,TV Movie"
 The Perfect Wave,"Romance,Adventure,Drama"
 A Man for All Seasons,"Drama,History"
-Network,"D,r,a,m,a"
+Network,Drama
 Gone with the Wind,"Drama,Romance,War"
-Desert Dancer,"D,r,a,m,a"
+Desert Dancer,Drama
 Major Dundee,"War,Western"
 Annie Get Your Gun,"Action,Comedy,Music,Romance,Western"
 Four Lions,"Comedy,Crime,Drama"
-The House of Sand,"D,r,a,m,a"
+The House of Sand,Drama
 Defendor,"Drama,Action,Comedy,Crime"
 The Pirate,"Music,Romance"
 The Good Heart,"Drama,Comedy,Romance"
 The History Boys,"Comedy,Drama"
-Midnight Cowboy,"D,r,a,m,a"
-The Full Monty,"C,o,m,e,d,y"
-Airplane!,"C,o,m,e,d,y"
+Midnight Cowboy,Drama
+The Full Monty,Comedy
+Airplane!,Comedy
 Chain of Command,"Thriller,Adventure,Action"
-Friday,"C,o,m,e,d,y"
+Friday,Comedy
 Menace II Society,"Drama,Action,Crime"
-Creepshow 2,"H,o,r,r,o,r"
+Creepshow 2,Horror
 The Ballad of Cable Hogue,"Action,Comedy,Western"
 In Cold Blood,"Crime,Drama"
-The Nun's Story,"D,r,a,m,a"
+The Nun's Story,Drama
 Harper,"Action,Drama,Thriller,Crime,Mystery"
 Frenzy,"Crime,Drama,Mystery,Thriller"
 The Witch,"Mystery,Horror"
 I Got the Hook Up,"Action,Comedy"
 She's the One,"Comedy,Romance"
-Gods and Monsters,"D,r,a,m,a"
+Gods and Monsters,Drama
 The Secret in Their Eyes,"Crime,Drama,Mystery,Romance"
 Train,"Horror,Thriller"
 Evil Dead II,"Horror,Comedy,Fantasy"
@@ -3847,56 +3847,56 @@ The Other Conquest,"Drama,Foreign"
 Troll Hunter,"Fantasy,Horror"
 Ira & Abby,"Comedy,Romance"
 Winter Passing,"Comedy,Drama"
-D.E.B.S.,"A,c,t,i,o,n"
+D.E.B.S.,Action
 The Masked Saint,"Crime,Action"
 The Betrayed,"Crime,Drama,Mystery,Thriller"
 Taxman,"Action,Crime,Comedy,Thriller"
-The Secret,"D,r,a,m,a"
+The Secret,Drama
 2:13,"Horror,Thriller,Mystery"
 "Batman: The Dark Knight Returns, Part 2","Action,Animation"
-Time to Choose,"D,o,c,u,m,e,n,t,a,r,y"
+Time to Choose,Documentary
 In the Name of the King III,"Action,Adventure,Drama,Fantasy"
 Wicked Blood,"Action,Drama,Thriller"
-Stranded,"D,r,a,m,a"
+Stranded,Drama
 Lords of London,"Crime,Mystery,Thriller"
 High Anxiety,"Comedy,Music"
 March of the Penguins,"Documentary,Family"
 Margin Call,"Thriller,Drama"
-August,"D,r,a,m,a"
+August,Drama
 Choke,"Comedy,Drama"
-Whiplash,"D,r,a,m,a"
+Whiplash,Drama
 City of God,"Drama,Crime"
 Human Traffic,"Comedy,Drama"
 To Write Love on Her Arms,"Drama,Music"
 The Dead Girl,"Mystery,Drama,Crime,Thriller"
-The Hunt,"D,r,a,m,a"
+The Hunt,Drama
 A Christmas Story,"Comedy,Family"
 Bella,"Drama,Romance"
 Class of 1984,"Action,Drama,Horror,Crime,Thriller"
-The Opposite Sex,"C,o,m,e,d,y"
+The Opposite Sex,Comedy
 Dreaming of Joseph Lees,"Romance,Drama"
-The Class,"D,r,a,m,a"
+The Class,Drama
 Rosemary's Baby,"Horror,Drama,Mystery"
-The Man Who Shot Liberty Valance,"W,e,s,t,e,r,n"
+The Man Who Shot Liberty Valance,Western
 Adam,"Drama,Romance"
 Maria Full of Grace,"Drama,Thriller,Crime"
 Beginners,"Drama,Romance,Comedy"
 Feast,"Action,Comedy,Horror"
-Animal House,"C,o,m,e,d,y"
+Animal House,Comedy
 Goldfinger,"Adventure,Action,Thriller"
 Antiviral,"Science Fiction,Horror"
 It's a Wonderful Life,"Drama,Family,Fantasy"
 Trainspotting,"Drama,Crime"
-The Original Kings of Comedy,"C,o,m,e,d,y"
+The Original Kings of Comedy,Comedy
 Paranormal Activity 2,"Horror,Thriller"
 Waking Ned,"Comedy,Romance"
-Bowling for Columbine,"D,o,c,u,m,e,n,t,a,r,y"
-Coming Home,"D,r,a,m,a"
-A Nightmare on Elm Street Part 2: Freddy's Revenge,"H,o,r,r,o,r"
+Bowling for Columbine,Documentary
+Coming Home,Drama
+A Nightmare on Elm Street Part 2: Freddy's Revenge,Horror
 A Room with a View,"Drama,Romance"
 The Purge,"Science Fiction,Horror,Thriller"
 Sinister,"Horror,Thriller,Mystery"
-Martin Lawrence Live: Runteldat,"C,o,m,e,d,y"
+Martin Lawrence Live: Runteldat,Comedy
 Cat on a Hot Tin Roof,"Drama,Romance"
 Beneath the Planet of the Apes,"Adventure,Science Fiction,Mystery"
 Air Bud,"Comedy,Family,Drama"
@@ -3912,18 +3912,18 @@ Dave Chappelle's Block Party,"Comedy,Documentary,Music"
 Slow West,"Romance,Thriller,Western"
 Krush Groove,"Drama,Music,Romance"
 Next Day Air,"Action,Comedy,Crime"
-Elmer Gantry,"D,r,a,m,a"
+Elmer Gantry,Drama
 Judgment at Nuremberg,"Drama,History"
 Trippin',"Comedy,Romance"
-Red River,"W,e,s,t,e,r,n"
+Red River,Western
 Phat Girlz,"Comedy,Romance"
 Before Midnight,"Romance,Drama"
 Teen Wolf Too,"Comedy,Fantasy,Family"
 Phantasm II,"Action,Horror,Science Fiction,Thriller"
-Woman Thou Art Loosed,"D,r,a,m,a"
+Woman Thou Art Loosed,Drama
 Real Women Have Curves,"Comedy,Drama"
 Water,"Drama,Foreign,Romance"
-East Is East,"C,o,m,e,d,y"
+East Is East,Comedy
 Whipped,"Comedy,Romance"
 Kama Sutra - A Tale of Love,"Drama,History,Romance"
 Please Give,"Comedy,Drama"
@@ -3931,8 +3931,8 @@ Willy Wonka & the Chocolate Factory,"Family,Fantasy"
 Warlock: The Armageddon,"Fantasy,Horror,Science Fiction"
 8 Heads in a Duffel Bag,"Comedy,Crime"
 Days of Heaven,"Drama,Romance"
-Thirteen Conversations About One Thing,"D,r,a,m,a"
-Jawbreaker,"C,o,m,e,d,y"
+Thirteen Conversations About One Thing,Drama
+Jawbreaker,Comedy
 Basquiat,"Drama,History"
 Frances Ha,"Comedy,Drama"
 Tsotsi,"Crime,Drama"
@@ -3945,70 +3945,68 @@ Hobo with a Shotgun,"Action,Comedy,Thriller"
 Compadres,"Action,Comedy"
 Freeway,"Comedy,Drama,Thriller"
 Love's Abiding Joy,"TV Movie,Action,Drama,Family"
-Fish Tank,"D,r,a,m,a"
+Fish Tank,Drama
 Damsels in Distress,"Comedy,Romance"
 Creature,"Horror,Science Fiction,Thriller"
 Bachelorette,"Comedy,Romance"
 Brave New Girl,"Drama,Music,Family"
-Tim and Eric's Billion Dollar Movie,"C,o,m,e,d,y"
+Tim and Eric's Billion Dollar Movie,Comedy
 Summer Storm,"Comedy,Drama"
 Fort McCoy,"War,Drama,History"
 Chain Letter,"Horror,Thriller"
 Just Looking,"Drama,Comedy"
-The Divide,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+The Divide,Science Fiction
 The Eclipse,"Drama,Horror,Romance"
 Demonic,"Thriller,Horror"
-My Big Fat Independent Movie,"C,o,m,e,d,y"
+My Big Fat Independent Movie,Comedy
 The Deported,"Comedy,Family"
-Tanner Hall,"D,r,a,m,a"
+Tanner Hall,Drama
 Open Road,"Action,Drama,Thriller"
-They Came Together,"C,o,m,e,d,y"
-30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,"C,o,m,e,d,y"
+They Came Together,Comedy
+30 Nights of Paranormal Activity With the Devil Inside the Girl With the Dragon Tattoo,Comedy
 Never Back Down 2: The Beatdown,"Drama,Action"
 Point Blank,"Action,Crime,Drama,Thriller"
 Four Single Fathers,"Drama,Comedy"
-Enter the Dangerous Mind,"T,h,r,i,l,l,e,r"
+Enter the Dangerous Mind,Thriller
 Something Wicked,"Mystery,Thriller"
-AWOL-72,"T,h,r,i,l,l,e,r"
-Iguana,
+AWOL-72,Thriller
 Chicago Overcoat,"Action,Crime,Thriller"
 Barry Munday,"Comedy,Drama,Romance"
-Central Station,"D,r,a,m,a"
+Central Station,Drama
 Pocketful of Miracles,"Comedy,Drama"
 Close Range,"Crime,Action"
 Boynton Beach Club,"Comedy,Drama,Romance"
 Amnesiac,"Thriller,Mystery,Drama,Horror"
-Freakonomics,"D,o,c,u,m,e,n,t,a,r,y"
+Freakonomics,Documentary
 High Tension,"Horror,Thriller,Mystery"
 Griff the Invisible,"Romance,Comedy,Drama"
 Unnatural,"Thriller,Action,Horror"
-Hustle & Flow,"D,r,a,m,a"
+Hustle & Flow,Drama
 Some Like It Hot,"Comedy,Romance"
 Friday the 13th Part VII: The New Blood,"Horror,Thriller"
 The Wizard of Oz,"Adventure,Family,Fantasy"
 Young Frankenstein,"Comedy,Science Fiction"
 Diary of the Dead,"Horror,Action,Science Fiction"
 Lage Raho Munna Bhai,"Comedy,Drama,Romance"
-Ulee's Gold,"D,r,a,m,a"
+Ulee's Gold,Drama
 The Black Stallion,"Adventure,Family"
-Sardaarji,
 Journey to Saturn,"Action,Adventure,Animation,Comedy,Science Fiction"
 Donovan's Reef,"Adventure,Comedy,Romance"
 The Dress,"Comedy,Drama"
 A Guy Named Joe,"Drama,Romance,War"
 Blazing Saddles,"Western,Comedy"
 Friday the 13th: The Final Chapter,"Horror,Thriller"
-Ida,"D,r,a,m,a"
+Ida,Drama
 Maurice,"Drama,Romance"
-Beer League,"C,o,m,e,d,y"
-Riding Giants,"D,o,c,u,m,e,n,t,a,r,y"
+Beer League,Comedy
+Riding Giants,Documentary
 Timecrimes,"Science Fiction,Thriller"
 Silver Medalist,"Action,Adventure,Comedy,Drama,Foreign"
 Timber Falls,"Horror,Thriller"
 Singin' in the Rain,"Comedy,Music,Romance"
-"Fat, Sick & Nearly Dead","D,o,c,u,m,e,n,t,a,r,y"
+"Fat, Sick & Nearly Dead",Documentary
 A Haunted House,"Comedy,Horror"
-2016: Obama's America,"D,o,c,u,m,e,n,t,a,r,y"
+2016: Obama's America,Documentary
 That Thing You Do!,"Comedy,Drama"
 Halloween III: Season of the Witch,"Horror,Mystery,Science Fiction"
 Escape from the Planet of the Apes,"Action,Science Fiction"
@@ -4020,43 +4018,43 @@ Before Sunrise,"Drama,Romance"
 Evil Words,"Horror,Mystery,Thriller"
 Jesus' Son,"Comedy,Drama,Romance"
 Saving Face,"Comedy,Romance"
-Brick Lane,"D,r,a,m,a"
+Brick Lane,Drama
 Robot & Frank,"Science Fiction,Comedy,Drama,Crime"
 My Life Without Me,"Drama,Romance"
 The Spectacular Now,"Comedy,Drama,Romance"
 Religulous,"Comedy,Documentary"
 Fuel,"Documentary,Drama"
-Valley of the Heart's Delight,"D,r,a,m,a"
-Eye of the Dolphin,"D,r,a,m,a"
-8: The Mormon Proposition,"D,o,c,u,m,e,n,t,a,r,y"
+Valley of the Heart's Delight,Drama
+Eye of the Dolphin,Drama
+8: The Mormon Proposition,Documentary
 The Other End of the Line,"Comedy,Romance"
 Anatomy,"Horror,Thriller"
 Sleep Dealer,"Drama,Science Fiction,Thriller"
 Super,"Comedy,Action,Drama"
 Christmas Mail,"Comedy,Family"
 Stung,"Comedy,Horror"
-Antibirth,"H,o,r,r,o,r"
-Get on the Bus,"D,r,a,m,a"
+Antibirth,Horror
+Get on the Bus,Drama
 Thr3e,"Drama,Horror,Thriller"
 Idiocracy,"Adventure,Comedy,Science Fiction"
-The Rise of the Krays,"C,r,i,m,e"
+The Rise of the Krays,Crime
 This Is England,"Drama,Crime"
 U.F.O.,"Action,Adventure,Science Fiction"
 Bathing Beauty,"Comedy,Music"
 Go for It!,"Drama,Family"
 "Dancer, Texas Pop. 81","Comedy,Drama,Family"
 Show Boat,"Music,Romance"
-Redemption Road,"D,r,a,m,a"
-The Calling,"T,h,r,i,l,l,e,r"
+Redemption Road,Drama
+The Calling,Thriller
 The Brave Little Toaster,"Fantasy,Adventure,Animation,Comedy,Family,Music"
 Fantasia,"Animation,Family,Music"
 8 Days,"Thriller,Drama"
 Friday the 13th Part III,"Horror,Thriller"
 Friday the 13th: A New Beginning,"Horror,Thriller"
-The Last Sin Eater,"D,r,a,m,a"
+The Last Sin Eater,Drama
 Do You Believe?,"Fantasy,Drama"
 Impact Point,"Thriller,Romance"
-The Valley of Decision,"D,r,a,m,a"
+The Valley of Decision,Drama
 Eden,"Thriller,Drama"
 Chicken Tikka Masala,"Comedy,Romance,Foreign"
 There's Always Woodstock,"Romance,Comedy,Music"
@@ -4067,22 +4065,21 @@ Elling,"Comedy,Drama"
 Mi America,"Drama,Crime"
 [REC],"Horror,Mystery"
 Lies in Plain Sight,"Drama,Mystery,Thriller"
-Sharkskin,
 Containment,"Thriller,Horror,Science Fiction"
 The Timber,"Adventure,Drama,Western"
 From Russia with Love,"Action,Thriller,Adventure"
 The Toxic Avenger Part II,"Comedy,Horror,Action"
 Sleeper,"Comedy,Romance,Science Fiction"
 It Follows,"Horror,Thriller"
-Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,"C,o,m,e,d,y"
+Everything You Always Wanted to Know About Sex *But Were Afraid to Ask,Comedy
 To Kill a Mockingbird,"Crime,Drama"
 Mad Max 2: The Road Warrior,"Adventure,Action,Thriller,Science Fiction"
 The Legend of Drunken Master,"Action,Comedy"
 Boys Don't Cry,"Crime,Drama"
 Silent House,"Horror,Mystery"
 The Lives of Others,"Drama,Thriller"
-Courageous,"D,r,a,m,a"
-The Hustler,"D,r,a,m,a"
+Courageous,Drama
+The Hustler,Drama
 Boom Town,"Adventure,Drama,Romance"
 The Triplets of Belleville,"Adventure,Animation,Comedy,Drama"
 Smoke Signals,"Drama,Comedy"
@@ -4091,37 +4088,35 @@ Before Sunset,"Drama,Romance"
 Amores perros,"Drama,Thriller"
 Thirteen,"Crime,Drama"
 Gentleman's Agreement,"Drama,Romance"
-Winter's Bone,"D,r,a,m,a"
+Winter's Bone,Drama
 Touching the Void,"Documentary,Action,Adventure"
 Alexander's Ragtime Band,"Drama,Music,Romance"
 Me and You and Everyone We Know,"Comedy,Drama"
-Inside Job,"D,o,c,u,m,e,n,t,a,r,y"
+Inside Job,Documentary
 We Are Your Friends,"Drama,Music,Romance"
 Ghost Dog: The Way of the Samurai,"Crime,Drama"
 Harsh Times,"Crime,Drama,Thriller,Action"
 Captive,"Crime,Drama,Thriller"
 Full Frontal,"Comedy,Drama,Romance"
-Witchboard,"H,o,r,r,o,r"
+Witchboard,Horror
 Shortbus,"Romance,Drama,Comedy"
 Waltz with Bashir,"Drama,Animation,War"
-"The Book of Mormon Movie, Volume 1: The Journey",
-No End in Sight,"D,o,c,u,m,e,n,t,a,r,y"
+No End in Sight,Documentary
 The Diary of a Teenage Girl,"Drama,Romance"
-In the Shadow of the Moon,"D,o,c,u,m,e,n,t,a,r,y"
+In the Shadow of the Moon,Documentary
 Meek's Cutoff,"Drama,Western"
 Inside Deep Throat,"History,Documentary"
 Dinner Rush,"Drama,Action,Thriller"
 Clockwatchers,"Comedy,Drama"
-The Virginity Hit,"C,o,m,e,d,y"
+The Virginity Hit,Comedy
 Subway,"Action,Thriller"
 House of D,"Comedy,Drama"
 Teeth,"Comedy,Horror"
 Six-String Samurai,"Action,Adventure,Science Fiction"
-Hum To Mohabbat Karega,
 It's All Gone Pete Tong,"Drama,Comedy,Music"
-Saint John of Las Vegas,"C,o,m,e,d,y"
+Saint John of Las Vegas,Comedy
 24 7: Twenty Four Seven,"Comedy,Drama,Romance"
-Stonewall,"D,r,a,m,a"
+Stonewall,Drama
 Roadside Romeo,"Animation,Family,Foreign"
 This Thing of Ours,"Drama,Action,Thriller"
 The Lost Medallion: The Adventures of Billy Stone,"Adventure,Family"
@@ -4129,49 +4124,49 @@ The Last Five Years,"Comedy,Drama,Music,Romance"
 The Missing Person,"Comedy,Drama,Mystery,Thriller"
 Return of the Living Dead 3,"Comedy,Science Fiction,Romance,Horror"
 London,"Drama,Action,Romance"
-Sherrybaby,"D,r,a,m,a"
+Sherrybaby,Drama
 Circle,"Horror,Science Fiction"
 Eden Lake,"Horror,Thriller"
-Plush,"T,h,r,i,l,l,e,r"
+Plush,Thriller
 Lesbian Vampire Killers,"Horror,Comedy"
 Gangster's Paradise: Jerusalema,"Drama,Action,Crime,Foreign"
 Freeze Frame,"Thriller,Drama,Crime"
 Grave Encounters,"Thriller,Horror"
-Stitches,"H,o,r,r,o,r"
+Stitches,Horror
 Nine Dead,"Crime,Drama,Horror,Thriller"
-"To Be Frank, Sinatra at 100","D,o,c,u,m,e,n,t,a,r,y"
-Bananas,"C,o,m,e,d,y"
-Supercapitalist,"T,h,r,i,l,l,e,r"
+"To Be Frank, Sinatra at 100",Documentary
+Bananas,Comedy
+Supercapitalist,Thriller
 Rockaway,"Action,Adventure,Drama"
 The Lady from Shanghai,"Crime,Drama,Mystery"
 No Man's Land: The Rise of Reeker,"Horror,Thriller"
 Highway,"Action,Adventure,Drama"
 Small Apartments,"Comedy,Crime"
-Coffee Town,"C,o,m,e,d,y"
+Coffee Town,Comedy
 The Ghastly Love of Johnny X,"Comedy,Fantasy,Music"
 All Is Bright,"Comedy,Drama"
 The Torture Chamber of Dr. Sadism,"Mystery,Horror,History"
 Straight A's,"Comedy,Drama"
 A Funny Thing Happened on the Way to the Forum,"Comedy,Music"
-Slacker Uprising,"D,o,c,u,m,e,n,t,a,r,y"
+Slacker Uprising,Documentary
 The Legend of Hell's Gate: An American Conspiracy,"Action,Adventure,History,Western"
 The Walking Deceased,"Science Fiction,Comedy"
 The Curse of Downers Grove,"Thriller,Mystery,Horror,Drama"
-Shark Lake,"T,h,r,i,l,l,e,r"
+Shark Lake,Thriller
 River's Edge,"Crime,Drama"
 Northfork,"Fantasy,Drama,Science Fiction"
 The Marine 4: Moving Target,"Thriller,Action"
 Buried,"Drama,Thriller,Mystery"
 Submarine,"Drama,Comedy,Romance"
 The Square,"Documentary,Drama,History"
-One to Another,"D,r,a,m,a"
+One to Another,Drama
 ABCD (Any Body Can Dance),"Drama,Music"
 Man on Wire,"Thriller,Documentary,Crime,History"
 Abandoned,"Drama,Thriller"
-Brotherly Love,"D,r,a,m,a"
+Brotherly Love,Drama
 The Last Exorcism,"Horror,Drama,Thriller"
-Nowhere Boy,"D,r,a,m,a"
-A Streetcar Named Desire,"D,r,a,m,a"
+Nowhere Boy,Drama
+A Streetcar Named Desire,Drama
 Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb,"Drama,Comedy,War"
 The Crime of Padre Amaro,"Drama,Romance"
 Beasts of the Southern Wild,"Drama,Fantasy"
@@ -4180,9 +4175,9 @@ Songcatcher,"Drama,Music"
 Higher Ground,"Drama,Thriller"
 Vaalu,"Comedy,Romance"
 The Greatest Movie Ever Sold,"Comedy,Documentary"
-Ed and His Dead Mother,"C,o,m,e,d,y"
+Ed and His Dead Mother,Comedy
 Travellers and Magicians,"Adventure,Drama,Foreign"
-Hang 'em High,"W,e,s,t,e,r,n"
+Hang 'em High,Western
 Deadline - U.S.A.,"Crime,Drama"
 Sublime,"Horror,Thriller"
 A Beginner's Guide to Snuff,"Thriller,Comedy,Horror"
@@ -4191,7 +4186,7 @@ Dysfunctional Friends,"Comedy,Romance"
 Run Lola Run,"Action,Drama,Thriller"
 May,"Drama,Horror,Thriller,Romance"
 Against the Wild,"Adventure,Family"
-Under the Same Moon,"D,r,a,m,a"
+Under the Same Moon,Drama
 Conquest of the Planet of the Apes,"Action,Science Fiction"
 In the Bedroom,"Drama,Thriller"
 I Spit on Your Grave,"Thriller,Crime,Horror"
@@ -4201,7 +4196,7 @@ The Lunchbox,"Drama,Romance"
 Yes,"Drama,Romance"
 You Can't Take It With You,"Comedy,Romance"
 From Here to Eternity,"War,Drama,Romance"
-She Wore a Yellow Ribbon,"W,e,s,t,e,r,n"
+She Wore a Yellow Ribbon,Western
 Grace Unplugged,"Drama,Music"
 Foolish,"Comedy,Drama"
 N-Secure,"Drama,Crime,Thriller"
@@ -4209,16 +4204,16 @@ Caramel,"Drama,Comedy,Romance"
 Out of the Dark,"Thriller,Horror"
 The Bubble,"Drama,Romance"
 The Conversation,"Crime,Drama,Mystery"
-Dil Jo Bhi Kahey...,"R,o,m,a,n,c,e"
+Dil Jo Bhi Kahey...,Romance
 Mississippi Mermaid,"Crime,Drama,Romance"
 I Love Your Work,"Drama,Mystery"
-Cabin Fever,"H,o,r,r,o,r"
-Waitress,"C,o,m,e,d,y"
-Bloodsport,"A,c,t,i,o,n"
+Cabin Fever,Horror
+Waitress,Comedy
+Bloodsport,Action
 Mr. Smith Goes to Washington,"Comedy,Drama"
 Kids,"Drama,Crime"
 The Squid and the Whale,"Comedy,Drama"
-Kissing Jessica Stein,"C,o,m,e,d,y"
+Kissing Jessica Stein,Comedy
 Kickboxer: Vengeance,"Action,Drama"
 Spellbound,"Drama,Mystery,Thriller"
 Exotica,"Drama,Mystery"
@@ -4226,104 +4221,102 @@ Buffalo '66,"Romance,Comedy,Crime,Drama"
 Insidious,"Horror,Thriller"
 Repo Man,"Comedy,Crime,Science Fiction,Thriller"
 Nine Queens,"Crime,Drama,Thriller"
-The Gatekeepers,"D,o,c,u,m,e,n,t,a,r,y"
-The Ballad of Jack and Rose,"D,r,a,m,a"
+The Gatekeepers,Documentary
+The Ballad of Jack and Rose,Drama
 The To Do List,"Comedy,Romance"
 Killing Zoe,"Action,Crime,Drama,Thriller"
-The Believer,"D,r,a,m,a"
+The Believer,Drama
 Snow Angels,"Drama,Romance"
 Unsullied,"Thriller,Action,Horror"
 Session 9,"Horror,Mystery"
 I Want Someone to Eat Cheese With,"Comedy,Romance"
-Mooz-lum,"D,r,a,m,a"
+Mooz-lum,Drama
 Hatchet,"Comedy,Horror"
 Modern Times,"Drama,Comedy"
 Stolen Summer,"Drama,Family,Comedy"
 My Name Is Bruce,"Comedy,Horror"
-The Salon,"C,o,m,e,d,y"
-Road Hard,"C,o,m,e,d,y"
+The Salon,Comedy
+Road Hard,Comedy
 Forty Shades of Blue,"Drama,Romance"
 Amigo,"Drama,History,War"
 Pontypool,"Horror,Mystery,Science Fiction"
-Trucker,"D,r,a,m,a"
+Trucker,Drama
 Me You and Five Bucks,"Romance,Comedy,Drama"
 The Lords of Salem,"Horror,Thriller"
 Housebound,"Horror,Comedy,Thriller"
-Wal-Mart: The High Cost of Low Price,"D,o,c,u,m,e,n,t,a,r,y"
+Wal-Mart: The High Cost of Low Price,Documentary
 Fetching Cody,"Comedy,Drama,Fantasy,Romance,Science Fiction"
 Last I Heard,"Drama,Comedy"
 Closer to the Moon,"Comedy,Drama"
-Mutant World,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Mutant World,Science Fiction
 Growing Up Smith,"Comedy,Family,Drama"
 Checkmate,"Thriller,Action,Crime"
 #Horror,"Drama,Mystery,Horror,Thriller"
 Wind Walkers,"Action,Horror,Thriller"
 Snow White and the Seven Dwarfs,"Fantasy,Animation,Family"
 The Holy Girl,"Drama,Foreign"
-Shalako,"W,e,s,t,e,r,n"
+Shalako,Western
 Incident at Loch Ness,"Adventure,Comedy,Horror"
-The Dog Lover,"D,r,a,m,a"
+The Dog Lover,Drama
 GirlHouse,"Horror,Thriller"
 The Blue Room,"Drama,Crime,Thriller"
 House at the End of the Drive,"Thriller,Horror"
 Batman,"Family,Adventure,Comedy,Science Fiction,Crime"
 "Lock, Stock and Two Smoking Barrels","Comedy,Crime"
-The Ballad of Gregorio Cortez,"W,e,s,t,e,r,n"
-The Celebration,"D,r,a,m,a"
+The Ballad of Gregorio Cortez,Western
+The Celebration,Drama
 Trees Lounge,"Comedy,Drama"
-Journey from the Fall,"D,r,a,m,a"
-The Basket,"D,r,a,m,a"
+Journey from the Fall,Drama
+The Basket,Drama
 Eddie: The Sleepwalking Cannibal,"Horror,Comedy"
 Queen of the Mountains,"Drama,Action"
-Def-Con 4,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Def-Con 4,Science Fiction
 The Hebrew Hammer,"Action,Comedy"
 Neal 'n' Nikki,"Comedy,Romance"
-The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,"C,o,m,e,d,y"
+The 41–Year–Old Virgin Who Knocked Up Sarah Marshall and Felt Superbad About It,Comedy
 Forget Me Not,"Drama,Horror,Romance"
 Rebecca,"Drama,Mystery"
 Friday the 13th Part 2,"Horror,Thriller"
-The Lost Weekend,"D,r,a,m,a"
+The Lost Weekend,Drama
 C.H.U.D.,"Horror,Science Fiction"
-Filly Brown,"D,r,a,m,a"
+Filly Brown,Drama
 The Lion of Judah,"Adventure,Animation,Comedy,Family"
 Niagara,"Crime,Drama,Thriller"
-How Green Was My Valley,"D,r,a,m,a"
+How Green Was My Valley,Drama
 Da Sweet Blood of Jesus,"Thriller,Comedy,Romance"
-"Sex, Lies, and Videotape","D,r,a,m,a"
+"Sex, Lies, and Videotape",Drama
 Saw,"Horror,Mystery,Crime"
 Super Troopers,"Comedy,Crime,Mystery"
-The Algerian,
 The Amazing Catfish,"Comedy,Drama"
 Monsoon Wedding,"Comedy,Drama,Romance"
 You Can Count on Me,"Drama,Romance"
 The Trouble with Harry,"Comedy,Mystery,Thriller"
-But I'm a Cheerleader,"C,o,m,e,d,y"
-Home Run,"D,r,a,m,a"
+But I'm a Cheerleader,Comedy
+Home Run,Drama
 Reservoir Dogs,"Crime,Thriller"
 The Blue Bird,"Drama,Family,Fantasy"
-"The Good, the Bad and the Ugly","W,e,s,t,e,r,n"
-The Second Mother,"D,r,a,m,a"
+"The Good, the Bad and the Ugly",Western
+The Second Mother,Drama
 Blue Like Jazz,"Drama,Comedy"
 Down & Out With The Dolls,"Comedy,Music"
-"Pink Ribbons, Inc.","D,o,c,u,m,e,n,t,a,r,y"
-Certifiably Jonathan,"C,o,m,e,d,y"
+"Pink Ribbons, Inc.",Documentary
+Certifiably Jonathan,Comedy
 Desire,"Drama,Romance"
 The Blade of Don Juan,"Drama,Comedy"
 Grand Theft Parsons,"Crime,Comedy,Drama,Adventure"
-Extreme Movie,"C,o,m,e,d,y"
+Extreme Movie,Comedy
 The Charge of the Light Brigade,"Action,Adventure,Drama,War"
 Below Zero,"Thriller,Horror"
-Crowsnest,
 Airborne,"Action,Adventure,Comedy"
 Cotton Comes to Harlem,"Action,Adventure"
-The Wicked Within,"H,o,r,r,o,r"
-Bleeding Hearts,"H,o,r,r,o,r"
-Waiting...,"C,o,m,e,d,y"
+The Wicked Within,Horror
+Bleeding Hearts,Horror
+Waiting...,Comedy
 Dead Man's Shoes,"Drama,Thriller,Crime"
 From a Whisper to a Scream,"Comedy,Horror"
-Sex With Strangers,"D,o,c,u,m,e,n,t,a,r,y"
-Dracula: Pages from a Virgin's Diary,"H,o,r,r,o,r"
-Faith Like Potatoes,"D,r,a,m,a"
+Sex With Strangers,Documentary
+Dracula: Pages from a Virgin's Diary,Horror
+Faith Like Potatoes,Drama
 Beyond the Black Rainbow,"Fantasy,Science Fiction,Horror"
 The Raid,"Action,Thriller,Crime"
 The Dead Undead,"Horror,Science Fiction,Action"
@@ -4332,63 +4325,62 @@ Casablanca,"Drama,Romance"
 Lake Mungo,"Horror,Thriller"
 Rocket Singh: Salesman of the Year,"Drama,Comedy,Romance"
 Silent Running,"Adventure,Drama,Science Fiction"
-Rocky,"D,r,a,m,a"
-The Sleepwalker,"D,r,a,m,a"
+Rocky,Drama
+The Sleepwalker,Drama
 Tom Jones,"Adventure,Comedy,History,Romance"
 Unfriended,"Horror,Thriller"
 Taxi Driver,"Crime,Drama"
 The Howling,"Drama,Horror"
 Dr. No,"Adventure,Action,Thriller"
 Chernobyl Diaries,"Horror,Thriller"
-Hellraiser,"H,o,r,r,o,r"
-God's Not Dead 2,"D,r,a,m,a"
+Hellraiser,Horror
+God's Not Dead 2,Drama
 Cry_Wolf,"Horror,Thriller"
 Godzilla 2000,"Adventure,Horror,Action,Science Fiction"
 Blue Valentine,"Drama,Romance"
-Transamerica,"D,r,a,m,a"
+Transamerica,Drama
 The Devil Inside,"Thriller,Horror"
 Beyond the Valley of the Dolls,"Comedy,Drama,Thriller"
 Love Me Tender,"Drama,Action,Western,Music,Romance"
-An Inconvenient Truth,"D,o,c,u,m,e,n,t,a,r,y"
+An Inconvenient Truth,Documentary
 Sands of Iwo Jima,"Action,Drama,History,War"
 Shine a Light,"Documentary,Music"
 The Green Inferno,"Action,Adventure,Horror,Thriller"
 Departure,"Drama,Romance,Family"
 The Sessions,"Drama,Romance,Comedy"
-"Food, Inc.","D,o,c,u,m,e,n,t,a,r,y"
-October Baby,"D,r,a,m,a"
+"Food, Inc.",Documentary
+October Baby,Drama
 Next Stop Wonderland,"Comedy,Drama,Romance"
-The Skeleton Twins,"D,r,a,m,a"
+The Skeleton Twins,Drama
 Martha Marcy May Marlene,"Drama,Thriller"
 Obvious Child,"Comedy,Romance"
-Frozen River,"D,r,a,m,a"
+Frozen River,Drama
 20 Feet from Stardom,"Documentary,Music"
 Two Girls and a Guy,"Drama,Romance"
 Walking and Talking,"Comedy,Drama,Romance"
-Who Killed the Electric Car?,"D,o,c,u,m,e,n,t,a,r,y"
+Who Killed the Electric Car?,Documentary
 The Broken Hearts Club: A Romantic Comedy,"Comedy,Drama,Romance"
 Bubba Ho-tep,"Comedy,Horror,Thriller,Mystery,Fantasy"
-Slam,"D,r,a,m,a"
+Slam,Drama
 Brigham City,"Crime,Drama,Mystery,Thriller"
 Fiza,"Drama,Foreign,Romance"
-Orgazmo,"C,o,m,e,d,y"
+Orgazmo,Comedy
 All the Real Girls,"Drama,Romance"
-Dream with the Fishes,"C,o,m,e,d,y"
-Blue Car,"D,r,a,m,a"
-Palo Alto,"D,r,a,m,a"
+Dream with the Fishes,Comedy
+Blue Car,Drama
+Palo Alto,Drama
 Ajami,"Crime,Drama"
 Wristcutters: A Love Story,"Comedy,Drama,Fantasy,Romance"
 I Origins,"Science Fiction,Drama"
 The Battle of Shaker Heights,"Comedy,Drama,Romance"
-The Act of Killing,"D,o,c,u,m,e,n,t,a,r,y"
-Taxi to the Dark Side,"D,o,c,u,m,e,n,t,a,r,y"
-Once in a Lifetime: The Extraordinary Story of the New York Cosmos,"D,o,c,u,m,e,n,t,a,r,y"
-Guiana 1838,"D,r,a,m,a"
-Lisa Picard Is Famous,
+The Act of Killing,Documentary
+Taxi to the Dark Side,Documentary
+Once in a Lifetime: The Extraordinary Story of the New York Cosmos,Documentary
+Guiana 1838,Drama
 Antarctica: A Year on Ice,"Drama,Adventure,Documentary"
-A LEGO Brickumentary,"D,o,c,u,m,e,n,t,a,r,y"
+A LEGO Brickumentary,Documentary
 Hardflip,"Drama,Action"
-Chocolate: Deep Dark Secrets,"T,h,r,i,l,l,e,r"
+Chocolate: Deep Dark Secrets,Thriller
 The House of the Devil,"Mystery,Horror"
 The Perfect Host,"Comedy,Thriller,Crime"
 Safe Men,"Comedy,Crime"
@@ -4399,7 +4391,6 @@ The Specials,"Action,Comedy"
 Alone With Her,"Crime,Drama,Romance,Thriller"
 Creative Control,"Drama,Science Fiction"
 Special,"Drama,Fantasy,Science Fiction"
-Sparkler,
 The Helix... Loaded,"Action,Comedy,Science Fiction"
 In Her Line of Fire,"Drama,Action,Thriller"
 The Jimmy Show,"Comedy,Drama"
@@ -4409,121 +4400,118 @@ Loving Annabelle,"Drama,Romance"
 Hits,"Drama,Comedy"
 Jimmy and Judy,"Action,Crime,Drama,Thriller"
 Frat Party,"Comedy,Romance"
-The Party's Over,"D,r,a,m,a"
-Proud,"D,r,a,m,a"
-The Poker House,"D,r,a,m,a"
-Childless,
-ZMD: Zombies of Mass Destruction,"H,o,r,r,o,r"
+The Party's Over,Drama
+Proud,Drama
+The Poker House,Drama
+ZMD: Zombies of Mass Destruction,Horror
 Snow White: A Deadly Summer,"Horror,Thriller"
 Hidden Away,"Romance,Drama"
 My Last Day Without You,"Comedy,Drama,Romance"
 Steppin: The Movie,"Comedy,Romance"
-Doc Holliday's Revenge,"W,e,s,t,e,r,n"
+Doc Holliday's Revenge,Western
 Black Rock,"Thriller,Horror"
 Truth or Dare,"Horror,Thriller,Mystery"
 The Pet,"Drama,Thriller"
 Bang Bang Baby,"Science Fiction,Drama,Music"
-Fear Clinic,"H,o,r,r,o,r"
+Fear Clinic,Horror
 Zombie Hunter,"Comedy,Action,Science Fiction,Thriller"
-A Fine Step,"D,r,a,m,a"
+A Fine Step,Drama
 Charly,"Drama,Romance,Science Fiction"
 Banshee Chapter,"Horror,Thriller"
 Ask Me Anything,"Drama,Mystery,Thriller"
 And Then Came Love,"Comedy,Romance"
-Food Chains,"D,o,c,u,m,e,n,t,a,r,y"
+Food Chains,Documentary
 On the Waterfront,"Crime,Drama"
-L!fe Happens,"C,o,m,e,d,y"
-"4 Months, 3 Weeks and 2 Days","D,r,a,m,a"
-The Horror Network Vol. 1,"H,o,r,r,o,r"
+L!fe Happens,Comedy
+"4 Months, 3 Weeks and 2 Days",Drama
+The Horror Network Vol. 1,Horror
 Hard Candy,"Drama,Thriller"
 The Quiet,"Drama,Thriller"
-Circumstance,"D,r,a,m,a"
-Fruitvale Station,"D,r,a,m,a"
+Circumstance,Drama
+Fruitvale Station,Drama
 The Brass Teapot,"Comedy,Fantasy,Thriller"
 Bambi,"Animation,Drama,Family"
-The Hammer,"C,o,m,e,d,y"
+The Hammer,Comedy
 Latter Days,"Drama,Comedy,Romance"
-Elza,"D,r,a,m,a"
-1982,"D,r,a,m,a"
-"For a Good Time, Call...","C,o,m,e,d,y"
+Elza,Drama
+1982,Drama
+"For a Good Time, Call...",Comedy
 Celeste & Jesse Forever,"Comedy,Drama,Romance"
 Time Changer,"Comedy,Drama,Family,Science Fiction"
 London to Brighton,"Crime,Drama,Thriller"
 American Hero,"Action,Comedy,Science Fiction"
 Windsor Drive,"Thriller,Mystery"
-A Separation,"D,r,a,m,a"
+A Separation,Drama
 Crying with Laughter,"Comedy,Drama,Thriller"
 Welcome to the Dollhouse,"Comedy,Drama"
 Ruby in Paradise,"Drama,Romance"
 Raising Victor Vargas,"Drama,Romance"
 Pandora's Box,"Drama,Thriller,Romance"
-Harrison Montgomery,
 Live-In Maid,"Drama,Foreign"
 Deterrence,"Action,Drama,Mystery,Thriller"
-The Mudge Boy,"D,r,a,m,a"
-The Young Unknowns,"D,r,a,m,a"
-Not Cool,"C,o,m,e,d,y"
+The Mudge Boy,Drama
+The Young Unknowns,Drama
+Not Cool,Comedy
 Dead Snow,"Horror,Comedy"
 Saints and Soldiers,"Action,Adventure,Drama,History,War"
 Vessel,"Horror,Science Fiction"
 American Graffiti,"Comedy,Drama"
-Iraq for Sale: The War Profiteers,"D,o,c,u,m,e,n,t,a,r,y"
+Iraq for Sale: The War Profiteers,Documentary
 Aqua Teen Hunger Force Colon Movie Film for Theaters,"Animation,Comedy"
 Safety Not Guaranteed,"Comedy,Romance,Science Fiction,Drama"
 Kevin Hart: Laugh at My Pain,"Comedy,Documentary"
 Kill List,"Horror,Thriller,Crime"
 The Innkeepers,"Horror,Thriller"
-The Conformist,"D,r,a,m,a"
+The Conformist,Drama
 Interview with the Assassin,"Drama,Thriller"
 Donkey Punch,"Horror,Drama,Thriller,Crime"
 All the Boys Love Mandy Lane,"Horror,Mystery,Thriller"
-Bled,"H,o,r,r,o,r"
-High Noon,"W,e,s,t,e,r,n"
-Hoop Dreams,"D,o,c,u,m,e,n,t,a,r,y"
-Rize,"D,o,c,u,m,e,n,t,a,r,y"
-L.I.E.,"D,r,a,m,a"
+Bled,Horror
+High Noon,Western
+Hoop Dreams,Documentary
+Rize,Documentary
+L.I.E.,Drama
 The Sisterhood of Night,"Mystery,Drama,Thriller"
 B-Girl,"Crime,Drama,Music"
-Half Nelson,"D,r,a,m,a"
-Naturally Native,"D,r,a,m,a"
+Half Nelson,Drama
+Naturally Native,Drama
 Hav Plenty,"Action,Comedy,Romance,Science Fiction,Thriller"
 Adulterers,"Thriller,Crime,Drama"
 Escape from Tomorrow,"Horror,Fantasy"
 Starsuckers,"Documentary,Foreign"
-The Hadza:  Last of the First,"D,o,c,u,m,e,n,t,a,r,y"
+The Hadza:  Last of the First,Documentary
 After,"Mystery,Thriller"
-Treachery,"D,r,a,m,a"
+Treachery,Drama
 Walter,"Drama,Comedy"
 Top Hat,"Comedy,Music,Romance"
 The Blair Witch Project,"Horror,Mystery"
 Woodstock,"History,Documentary,Music"
-The Kentucky Fried Movie,"C,o,m,e,d,y"
+The Kentucky Fried Movie,Comedy
 Mercy Streets,"Action,Adventure,Drama"
 Carousel of Revenge,"Thriller,Mystery"
-Broken Vessels,"D,r,a,m,a"
+Broken Vessels,Drama
 Water & Power,"Crime,Drama"
 They Will Have to Kill Us First,"Music,Documentary"
-Light from the Darkroom,
 The Country Doctor,"Drama,Comedy"
-The Maid's Room,"T,h,r,i,l,l,e,r"
+The Maid's Room,Thriller
 A Hard Day's Night,"Comedy,Music"
-The Harvest (La Cosecha),"D,o,c,u,m,e,n,t,a,r,y"
+The Harvest (La Cosecha),Documentary
 Love Letters,"Drama,Thriller"
 Juliet and Alfa Romeo,"Comedy,Drama"
-Fireproof,"D,r,a,m,a"
+Fireproof,Drama
 Faith Connections,"Documentary,Drama"
 Benji,"Adventure,Family,Romance"
 Open Water,"Drama,Thriller"
-High Road,"C,o,m,e,d,y"
+High Road,Comedy
 Kingdom of the Spiders,"Horror,Science Fiction"
 Mad Hot Ballroom,"Documentary,Family"
 The Station Agent,"Drama,Comedy"
-To Save A Life,"D,r,a,m,a"
-Wordplay,"D,o,c,u,m,e,n,t,a,r,y"
-Beyond the Mat,"D,o,c,u,m,e,n,t,a,r,y"
+To Save A Life,Drama
+Wordplay,Documentary
+Beyond the Mat,Documentary
 The Singles Ward,"Comedy,Drama,Family,Romance"
-Osama,"D,r,a,m,a"
-Sholem Aleichem: Laughing In The Darkness,"D,o,c,u,m,e,n,t,a,r,y"
+Osama,Drama
+Sholem Aleichem: Laughing In The Darkness,Documentary
 Groove,"Drama,Music,Romance"
 The R.M.,"Comedy,Crime,Family"
 Twin Falls Idaho,"Drama,Romance"
@@ -4533,106 +4521,96 @@ Never Again,"Comedy,Romance"
 Civil Brand,"Crime,Drama,Thriller"
 Lonesome Jim,"Comedy,Drama,Romance"
 Drinking Buddies,"Romance,Drama"
-Deceptive Practice: The Mysteries and Mentors of Ricky Jay,"D,o,c,u,m,e,n,t,a,r,y"
+Deceptive Practice: The Mysteries and Mentors of Ricky Jay,Documentary
 Seven Samurai,"Action,Drama"
-The Other Dream Team,"D,o,c,u,m,e,n,t,a,r,y"
+The Other Dream Team,Documentary
 Johnny Suede,"Comedy,Romance"
-Finishing The Game,"C,o,m,e,d,y"
+Finishing The Game,Comedy
 Rubber,"Comedy,Drama,Fantasy,Horror,Mystery"
 Kiss the Bride,"Drama,Comedy,Romance"
-The Slaughter Rule,"D,r,a,m,a"
+The Slaughter Rule,Drama
 Monsters,"Drama,Thriller,Science Fiction"
 The Californians,"Drama,Comedy"
-The Living Wake,"C,o,m,e,d,y"
+The Living Wake,Comedy
 Detention of the Dead,"Comedy,Horror"
 Crazy Stone,"Action,Comedy"
 Scott Walker: 30 Century Man,"Documentary,Music"
-Everything Put Together,"D,r,a,m,a"
+Everything Put Together,Drama
 Good Kill,"Action,Drama,Thriller"
-The Outrageous Sophie Tucker,
 Now Is Good,"Drama,Romance"
 Girls Gone Dead,"Horror,Comedy"
-America Is Still the Place,
 Subconscious,"Action,Thriller,Mystery"
 Enter Nowhere,"Mystery,Science Fiction,Thriller"
 El Rey de Najayo,"Crime,Drama"
 Fight to the Finish,"Romance,Action"
 Alleluia! The Devil's Carnival,"Music,Horror"
 The Sound and the Shadow,"Thriller,Comedy,Mystery"
-Rodeo Girl,"F,a,m,i,l,y"
-Born to Fly: Elizabeth Streb vs. Gravity,"D,o,c,u,m,e,n,t,a,r,y"
-The Little Ponderosa Zoo,
+Rodeo Girl,Family
+Born to Fly: Elizabeth Streb vs. Gravity,Documentary
 The Toxic Avenger,"Science Fiction,Action,Comedy,Horror"
-Straight Out of Brooklyn,"D,r,a,m,a"
+Straight Out of Brooklyn,Drama
 Bloody Sunday,"Action,Adventure,Drama,History"
-Diamond Ruff,
 Conversations with Other Women,"Drama,Romance"
 Poultrygeist: Night of the Chicken Dead,"Horror,Comedy"
-Mutual Friends,
 42nd Street,"Music,Comedy,Romance"
-Rise of the Entrepreneur: The Search for a Better Way,
 Metropolitan,"Comedy,Drama"
 As It Is in Heaven,"Romance,Drama,Comedy,Music"
 Roadside,"Horror,Drama"
-Napoleon Dynamite,"C,o,m,e,d,y"
+Napoleon Dynamite,Comedy
 Blue Ruin,"Crime,Thriller"
 Paranormal Activity,"Horror,Mystery"
-Dogtown and Z-Boys,"D,o,c,u,m,e,n,t,a,r,y"
+Dogtown and Z-Boys,Documentary
 Monty Python and the Holy Grail,"Adventure,Comedy,Fantasy"
-Quinceañera,"D,r,a,m,a"
-Gory Gory Hallelujah,
+Quinceañera,Drama
 Tarnation,"Documentary,Drama"
-I Want Your Money,"D,o,c,u,m,e,n,t,a,r,y"
+I Want Your Money,Documentary
 Love in the Time of Monsters,"Horror,Comedy"
-The Beyond,"H,o,r,r,o,r"
+The Beyond,Horror
 What Happens in Vegas,"Comedy,Romance"
 The Dark Hours,"Horror,Science Fiction,Thriller"
 My Beautiful Laundrette,"Romance,Drama,Comedy"
 Fabled,"Drama,Mystery,Thriller"
 Show Me,"Drama,Thriller"
-Cries and Whispers,"D,r,a,m,a"
-Intolerance,"D,r,a,m,a"
-Trekkies,"D,o,c,u,m,e,n,t,a,r,y"
+Cries and Whispers,Drama
+Intolerance,Drama
+Trekkies,Documentary
 The Broadway Melody,"Drama,Music,Romance"
-The Evil Dead,"H,o,r,r,o,r"
-Maniac,"H,o,r,r,o,r"
+The Evil Dead,Horror
+Maniac,Horror
 Censored Voices,"History,Documentary"
-Murderball,"D,o,c,u,m,e,n,t,a,r,y"
+Murderball,Documentary
 American Ninja 2: The Confrontation,"Action,Adventure,Drama"
-51 Birch Street,"D,o,c,u,m,e,n,t,a,r,y"
+51 Birch Street,Documentary
 Rotor DR1,"Science Fiction,Family"
-12 Angry Men,"D,r,a,m,a"
+12 Angry Men,Drama
 My Dog Tulip,"Animation,Comedy,Drama"
 It Happened One Night,"Comedy,Romance"
-Dogtooth,"D,r,a,m,a"
+Dogtooth,Drama
 Tupac: Resurrection,"Music,Documentary"
 Tumbleweeds,"Comedy,Drama"
 The Prophecy,"Fantasy,Horror,Thriller"
-When the Cat's Away,"C,o,m,e,d,y"
+When the Cat's Away,Comedy
 Pieces of April,"Comedy,Drama"
-The Big Swap,
-Old Joy,"D,r,a,m,a"
-Wendy and Lucy,"D,r,a,m,a"
-3 Backyards,"D,r,a,m,a"
+Old Joy,Drama
+Wendy and Lucy,Drama
+3 Backyards,Drama
 Pierrot le Fou,"Drama,Thriller"
-Sisters in Law,"D,o,c,u,m,e,n,t,a,r,y"
-Ayurveda: Art of Being,"D,o,c,u,m,e,n,t,a,r,y"
-Nothing But a Man,"D,r,a,m,a"
-"First Love, Last Rites","D,r,a,m,a"
+Sisters in Law,Documentary
+Ayurveda: Art of Being,Documentary
+Nothing But a Man,Drama
+"First Love, Last Rites",Drama
 Fighting Tommy Riley,"Action,Adventure,Drama"
 Royal Kill,"Action,Thriller"
-The Looking Glass,
 Death Race 2000,"Action,Comedy,Science Fiction"
 Locker 13,"Horror,Drama,Thriller"
-Midnight Cabaret,"H,o,r,r,o,r"
+Midnight Cabaret,Horror
 Anderson's Cross,"Romance,Comedy,Drama"
 Bizarre,"Drama,Romance"
-Graduation Day,"H,o,r,r,o,r"
+Graduation Day,Horror
 Some Guy Who Kills People,"Comedy,Horror,Thriller"
 Compliance,"Drama,Thriller,Crime"
 Chasing Amy,"Comedy,Drama,Romance"
 Lovely & Amazing,"Comedy,Drama,Romance"
-Death Calls,
 Better Luck Tomorrow,"Crime,Drama"
 The Incredibly True Adventure of Two Girls In Love,"Comedy,Drama,Romance"
 Chuck & Buck,"Comedy,Drama"
@@ -4643,162 +4621,156 @@ Love and Other Catastrophes,"Comedy,Romance"
 I Married a Strange Person!,"Drama,Comedy,Animation"
 November,"Drama,Mystery,Thriller"
 Like Crazy,"Drama,Romance"
-Teeth and Blood,"H,o,r,r,o,r"
-Sugar Town,"C,o,m,e,d,y"
+Teeth and Blood,Horror
+Sugar Town,Comedy
 The Motel,"Drama,Comedy"
 The Canyons,"Thriller,Drama"
-On the Outs,"D,r,a,m,a"
+On the Outs,Drama
 Shotgun Stories,"Drama,Thriller"
 Exam,"Thriller,Mystery"
 The Sticky Fingers of Time,"Science Fiction,Drama"
-Sunday School Musical,"M,u,s,i,c"
-Rust,"D,r,a,m,a"
+Sunday School Musical,Music
+Rust,Drama
 Ink,"Action,Fantasy"
 The Christmas Bunny,"Drama,Family"
 Butterfly,"Crime,Drama"
-UnDivided,
 The Frozen,"Horror,Thriller"
 Horse Camp,"Family,Drama"
-Give Me Shelter,"D,o,c,u,m,e,n,t,a,r,y"
+Give Me Shelter,Documentary
 The Big Parade,"Drama,Romance,War"
-Little Big Top,"C,o,m,e,d,y"
+Little Big Top,Comedy
 Along the Roadside,"Romance,Comedy,Music"
 Bronson,"Drama,Action,Crime"
-Western Religion,"W,e,s,t,e,r,n"
+Western Religion,Western
 Burn,"Foreign,Documentary"
 Urbania,"Romance,Drama"
-The Stewardesses,"C,o,m,e,d,y"
+The Stewardesses,Comedy
 "The Beast from 20,000 Fathoms","Adventure,Horror,Science Fiction"
 Mad Max,"Adventure,Action,Thriller,Science Fiction"
 Swingers,"Comedy,Romance"
-A Fistful of Dollars,"W,e,s,t,e,r,n"
-She Done Him Wrong,"C,o,m,e,d,y"
-Short Cut to Nirvana: Kumbh Mela,
-The Grace Card,"D,r,a,m,a"
-Middle of Nowhere,"D,r,a,m,a"
+A Fistful of Dollars,Western
+She Done Him Wrong,Comedy
+The Grace Card,Drama
+Middle of Nowhere,Drama
 Three,"Romance,Drama,Comedy"
 The Business of Fancydancing,"Music,Drama"
-Call + Response,"D,o,c,u,m,e,n,t,a,r,y"
+Call + Response,Documentary
 Malevolence,"Crime,Horror,Thriller"
-Reality Show,
-Super Hybrid,"H,o,r,r,o,r"
+Super Hybrid,Horror
 Baghead,"Drama,Comedy,Horror"
-American Beast,"H,o,r,r,o,r"
-The Case of the Grinning Cat,"D,o,c,u,m,e,n,t,a,r,y"
-Ordet,"D,r,a,m,a"
+American Beast,Horror
+The Case of the Grinning Cat,Documentary
+Ordet,Drama
 Good Dick,"Comedy,Drama,Romance"
 The Man from Earth,"Science Fiction,Drama"
-The Trials Of Darryl Hunt,"D,o,c,u,m,e,n,t,a,r,y"
+The Trials Of Darryl Hunt,Documentary
 Samantha: An American Girl Holiday,"Drama,Family"
 Yesterday Was a Lie,"Drama,Mystery,Science Fiction,Thriller"
 Theresa Is a Mother,"Music,Comedy,Drama"
 H.,"Thriller,Drama,Science Fiction"
-Archaeology of a Woman,"D,r,a,m,a"
+Archaeology of a Woman,Drama
 Children of Heaven,"Drama,Comedy,Family"
 Weekend,"Drama,Romance"
 She's Gotta Have It,"Comedy,Romance"
-Butterfly Girl,"D,o,c,u,m,e,n,t,a,r,y"
-The World Is Mine,"D,r,a,m,a"
+Butterfly Girl,Documentary
+The World Is Mine,Drama
 Another Earth,"Drama,Science Fiction"
 Sweet Sweetback's Baadasssss Song,"Action,Drama,Romance"
-Perfect Cowboy,"D,r,a,m,a"
+Perfect Cowboy,Drama
 Tadpole,"Comedy,Drama,Romance"
 Once,"Drama,Music,Romance"
-The Woman Chaser,"D,r,a,m,a"
-The Horse Boy,"D,o,c,u,m,e,n,t,a,r,y"
+The Woman Chaser,Drama
+The Horse Boy,Documentary
 When the Lights Went Out,"Thriller,Drama,Horror"
 Heroes of Dirt,"Action,Drama"
 A Charlie Brown Christmas,"Animation,Family,Comedy,TV Movie"
-Antarctic Edge: 70° South,"D,o,c,u,m,e,n,t,a,r,y"
-Aroused,"D,o,c,u,m,e,n,t,a,r,y"
-Top Spin,"D,o,c,u,m,e,n,t,a,r,y"
+Antarctic Edge: 70° South,Documentary
+Aroused,Documentary
+Top Spin,Documentary
 Roger & Me,"Documentary,History"
-An American in Hollywood,
 Sound of My Voice,"Science Fiction,Drama,Mystery"
-The Blood of My Brother: A Story of Death in Iraq,
 Your Sister's Sister,"Drama,Comedy"
-A Dog's Breakfast,"C,o,m,e,d,y"
+A Dog's Breakfast,Comedy
 The Married Woman,"Drama,Romance"
-The Birth of a Nation,"D,r,a,m,a"
-The Work and The Story,"C,o,m,e,d,y"
-Facing the Giants,"D,r,a,m,a"
+The Birth of a Nation,Drama
+The Work and The Story,Comedy
+Facing the Giants,Drama
 The Gallows,"Horror,Thriller"
 Eraserhead,"Drama,Fantasy,Horror,Science Fiction"
-Hollywood Shuffle,"C,o,m,e,d,y"
+Hollywood Shuffle,Comedy
 The Mighty,"Comedy,Drama"
 Penitentiary,"Action,Drama"
 The Lost Skeleton of Cadavra,"Comedy,Horror,Science Fiction"
-Dude Where's My Dog?,"F,a,m,i,l,y"
+Dude Where's My Dog?,Family
 Cheap Thrills,"Drama,Comedy,Crime"
-Indie Game: The Movie,"D,o,c,u,m,e,n,t,a,r,y"
-Straightheads,"T,h,r,i,l,l,e,r"
+Indie Game: The Movie,Documentary
+Straightheads,Thriller
 Open Secret,"Crime,Mystery,Thriller"
 Echo Dr.,"Thriller,Action,Drama,Science Fiction"
 The Night Visitor,"Crime,Horror"
 The Past Is a Grotesque Animal,"Documentary,Music"
-"Peace, Propaganda & the Promised Land","D,o,c,u,m,e,n,t,a,r,y"
+"Peace, Propaganda & the Promised Land",Documentary
 Pi,"Mystery,Drama,Thriller"
 "I Love You, Don't Touch Me!","Comedy,Romance"
 20 Dates,"Romance,Comedy"
-Queen Crab,"S,c,i,e,n,c,e, ,F,i,c,t,i,o,n"
+Queen Crab,Science Fiction
 Super Size Me,"Documentary,Comedy,Drama"
-The FP,"C,o,m,e,d,y"
+The FP,Comedy
 Happy Christmas,"Comedy,Drama"
 The Brain That Wouldn't Die,"Horror,Science Fiction"
-Tiger Orange,"D,r,a,m,a"
+Tiger Orange,Drama
 Supporting Characters,"Drama,Comedy"
 Absentia,"Mystery,Horror,Thriller"
 The Brothers McMullen,"Comedy,Drama,Romance"
-The Dirties,"D,r,a,m,a"
+The Dirties,Drama
 Gabriela,"Drama,Romance"
 Tiny Furniture,"Romance,Comedy,Drama"
 Hayride,"Thriller,Horror"
 The Naked Ape,"Drama,Comedy,Family"
-Counting,"D,o,c,u,m,e,n,t,a,r,y"
+Counting,Documentary
 The Call of Cthulhu,"Horror,Thriller,Fantasy"
-Bending Steel,"D,o,c,u,m,e,n,t,a,r,y"
+Bending Steel,Documentary
 The Signal,"Thriller,Science Fiction"
-The Image Revolution,"D,o,c,u,m,e,n,t,a,r,y"
-This Is Martin Bonner,"D,r,a,m,a"
-A True Story,"C,o,m,e,d,y"
-George Washington,"D,r,a,m,a"
+The Image Revolution,Documentary
+This Is Martin Bonner,Drama
+A True Story,Comedy
+George Washington,Drama
 Smiling Fish & Goat On Fire,"Comedy,Romance"
 Dawn of the Crescent Moon,"Thriller,Drama,Science Fiction"
-Raymond Did It,"H,o,r,r,o,r"
+Raymond Did It,Horror
 The Last Waltz,"Documentary,Music"
 "Run, Hide, Die","Thriller,Horror"
 The Exploding Girl,"Drama,Romance"
 The Legend of God's Gun,"Action,Western"
 Mutual Appreciation,"Drama,Comedy"
-Her Cry: La Llorona Investigation,"H,o,r,r,o,r"
+Her Cry: La Llorona Investigation,Horror
 Down Terrace,"Drama,Action,Comedy"
-Clerks,"C,o,m,e,d,y"
+Clerks,Comedy
 Pink Narcissus,"Drama,Romance"
 Funny Ha Ha,"Drama,Comedy"
 In the Company of Men,"Comedy,Drama"
-Manito,"D,r,a,m,a"
+Manito,Drama
 Rampage,"Action,Drama,Crime,Thriller"
-Slacker,"C,o,m,e,d,y"
+Slacker,Comedy
 Dutch Kills,"Thriller,Crime,Drama"
 Dry Spell,"Comedy,Romance"
 Flywheel,"Drama,Family"
 Backmask,"Thriller,Horror"
 The Puffy Chair,"Drama,Comedy,Romance"
-Stories of Our Lives,"D,r,a,m,a"
+Stories of Our Lives,Drama
 Breaking Upwards,"Comedy,Romance"
 All Superheroes Must Die,"Science Fiction,Thriller"
 Pink Flamingos,"Horror,Comedy,Crime"
-Clean,"D,r,a,m,a"
+Clean,Drama
 The Circle,"Drama,Foreign"
-Tin Can Man,"H,o,r,r,o,r"
+Tin Can Man,Horror
 Cure,"Crime,Horror,Mystery,Thriller"
-On The Downlow,"D,r,a,m,a"
+On The Downlow,Drama
 Sanctuary: Quite a Conundrum,"Thriller,Horror,Comedy"
-Bang,"D,r,a,m,a"
+Bang,Drama
 Primer,"Science Fiction,Drama,Thriller"
 Cavite,"Foreign,Thriller"
 El Mariachi,"Action,Crime,Thriller"
 Newlyweds,"Comedy,Romance"
 "Signed, Sealed, Delivered","Comedy,Drama,Romance,TV Movie"
-Shanghai Calling,
-My Date with Drew,"D,o,c,u,m,e,n,t,a,r,y"
+My Date with Drew,Documentary
