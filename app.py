@@ -109,7 +109,7 @@ def show_recommendations(movie_title: str):
         for k in genre_ids:
             if k in genre_key:
                 g += genre_key[k] +', '
-        fetched_genres.append(g)
+        fetched_genres.append(g[:-1])
     
     return(render_template('positive.html', movie_title = movie_title, recommended_movies = names,
                                           posters = fetched_imgs, year = fetched_dates, 
