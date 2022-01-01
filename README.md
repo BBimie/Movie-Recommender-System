@@ -25,7 +25,7 @@ I used the built-in [cosine similarity](https://scikit-learn.org/stable/modules/
 
 ### Technical Documentation
 
-I have written a simple step by step documentation on this app which you can read [here](https://medium.com/p/931360f8e2a0/edit).
+I have written a simple step by step documentation on this app which you can read [here](https://bimie.medium.com/movie-recommender-system-931360f8e2a0?source=friends_link&sk=5e5c9dec30cef7e8982376a0aa120b30).
 
 ### How to run the project on your local machine
 
